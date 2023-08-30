@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"Check for responsiveness","id":"373fda345623cc66","x":-125,"y":-440,"width":250,"height":60},
+		{"type":"text","text":"No breathing / gasping","id":"ef5447a690a7e2c3","x":-125,"y":-340,"width":250,"height":60},
+		{"type":"text","text":"Rescue breaths:\n1 rescue breath every 2-3 seconds\n","id":"d935ea9c84cc0b4d","x":-500,"y":-230,"width":250,"height":100},
+		{"type":"text","text":"Start CPR:\n**1 rescuer**: 30 compressions / 2 breaths\n**2 rescuers**: 15 compressions / 2 breaths\n\nActivate AED","id":"d56ca85f4ebe0367","x":-170,"y":-150,"width":340,"height":140},
+		{"type":"text","text":"Assess pulse rate for no more than 10 seconds","id":"5cb33cc0fd68aa54","x":-500,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"Give 1 shock, resume CPR for 2 mins","id":"a594cbf34aada592","x":240,"y":20,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1583fd4d351f43fb","fromNode":"ef5447a690a7e2c3","fromSide":"left","toNode":"d935ea9c84cc0b4d","toSide":"top","label":"No breathing, yes pulse"},
+		{"id":"ed0de5b5c51c44a8","fromNode":"ef5447a690a7e2c3","fromSide":"bottom","toNode":"d56ca85f4ebe0367","toSide":"top","label":"No breathing, no pulse"},
+		{"id":"53db93e410575c2e","fromNode":"d935ea9c84cc0b4d","fromSide":"bottom","toNode":"5cb33cc0fd68aa54","toSide":"top"},
+		{"id":"2d6fc2c62724120c","fromNode":"5cb33cc0fd68aa54","fromSide":"bottom","toNode":"d56ca85f4ebe0367","toSide":"bottom","label":"HR <60 BPM"},
+		{"id":"3ba3c732fea08e1a","fromNode":"d56ca85f4ebe0367","fromSide":"right","toNode":"a594cbf34aada592","toSide":"top","label":"Shockable rhythm"},
+		{"id":"4bd907fafa518350","fromNode":"373fda345623cc66","fromSide":"bottom","toNode":"ef5447a690a7e2c3","toSide":"top"}
+	]
+}
