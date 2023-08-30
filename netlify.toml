@@ -15,11 +15,11 @@ PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/bjamturley/MedSchoolAtlas"
 # (Optional) Site title in navbar
-SITE_TITLE = "Med School Atlas"
+SITE_TITLE = "🩻 Med School Atlas"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://medschoolatlas.netlify.app"
+SITE_URL = "https://medschoolatlas.xyz"
 # (Optional) Site Timezone
 TIMEZONE = ""
 ZOLA_VERSION = "0.15.2"
