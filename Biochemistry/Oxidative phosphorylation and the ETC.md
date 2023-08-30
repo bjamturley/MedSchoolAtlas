@@ -64,7 +64,7 @@ ADP is brought into the inner membrane space via **Adenine Nucleotide Translocas
 ### Phosphate
 Phosphate is brought into the matrix via **Phosphate Translocase**. It is a symporter which brings a proton from the intermembrane space (down its concentration gradient) into the matrix with the phosphate.
 ## Reaction ratios
-==For each 1 ATP in ATP synthase, 4 H+ are pumped into the matrix==
+***For each 1 ATP in ATP synthase, 4 H+ are pumped into the matrix***
 
 **10 total protons are pumped into the inner membrane space over the chain**, which generates **2.5 ATP**.
 

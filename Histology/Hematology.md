@@ -78,11 +78,11 @@ Production starts in bone marrow as **reticulocytes** which mature in blood, but
 **N**ever **L**et **M**onkeys **E**at **B**utt
 NLMEB
 
-- **Neutrophil** ==(60-70%)==: Attack bacteria
-- **Lymphocyte** ==(28%)==: Mediate humoral/cellular immunity
-- **Monocyte** ==(5%)==: Phagocytic macrophages
-- **Eosinophil** ==(2-4%)==: Attack parasites
-- **Basophil** ==(0.5%)==: Mediate inflammation
+- **Neutrophil** ***(60-70%)***: Attack bacteria
+- **Lymphocyte** ***(28%)***: Mediate humoral/cellular immunity
+- **Monocyte** ***(5%)***: Phagocytic macrophages
+- **Eosinophil** ***(2-4%)***: Attack parasites
+- **Basophil** ***(0.5%)***: Mediate inflammation
 ## Diagnostic tool
 Elevated levels of any NLMB type will indicate an issue ingoing in the body. For example, if eosinophils are elevated, there may be a parasitic infection.
 # Hemostasis

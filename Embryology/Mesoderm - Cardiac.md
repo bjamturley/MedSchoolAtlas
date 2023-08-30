@@ -7,7 +7,7 @@ Mesoderm cells converge onto each other, causing them to extend. Inductive intra
 ## Paraxial mesoderm
 Para refers to being nearest to neural tube/notochord. Forms the head and somites.
 ### Somites
-Cells surrounding the neural tube. By ==week 3==, there will be 40 pairs of somites.
+Cells surrounding the neural tube. By ***week 3***, there will be 40 pairs of somites.
 
 **Sclerotome**: Forms cartilage of the vertebra and ribs
 **Myotome**: Forms skeletal muscle of the neck, trunk, and limbs
@@ -17,7 +17,7 @@ Cells surrounding the neural tube. By ==week 3==, there will be 40 pairs of somi
 ## Intermediate mesoderm
 Forms the urogenital system (kidney's and gonads)
 ## Lateral plate mesoderm
-Lateral refers to the farthest from the neural tube/notochord. By ==week 3==, this subdivides into the splanchnic and somatic mesoderm.
+Lateral refers to the farthest from the neural tube/notochord. By ***week 3***, this subdivides into the splanchnic and somatic mesoderm.
 
 **Splanchnic**: Forms the circulatory system
 **Somatic**: Forms body cavities and pelvis
@@ -32,11 +32,11 @@ The somatic mesoderm grows over the splanchnic mesoderm, creating the **intraemb
 # Heart tube formation
 This is the first functional organ to form.
 
-==Day 15==: Mesoderm cells spread cranially, giving rise to the primary heart field. Some beating, no blood movement.
-==Day 21==: Two ends of the primary heart field fuse to form a heart tube which starts pumping blood.
-==Day 22-24==: D-looping allows the vessels of the heart to migrate to destinations. The atria are initially inferior to the ventricles and must loop cranially to reach the final location.
-==Day 28==: The aortic sac region will give rise to the aortic arches. The atrioventricular valve (AVV) cushion is present, but only joined with the left ventricle.
-==Day 50==: Heart formation is completed and will grow in size.
+***Day 15***: Mesoderm cells spread cranially, giving rise to the primary heart field. Some beating, no blood movement.
+***Day 21***: Two ends of the primary heart field fuse to form a heart tube which starts pumping blood.
+***Day 22-24***: D-looping allows the vessels of the heart to migrate to destinations. The atria are initially inferior to the ventricles and must loop cranially to reach the final location.
+***Day 28***: The aortic sac region will give rise to the aortic arches. The atrioventricular valve (AVV) cushion is present, but only joined with the left ventricle.
+***Day 50***: Heart formation is completed and will grow in size.
 
 ## Hemodynamic load
 The major driving force for cardiomyocyte proliferation. Increase in red blood cells creates an increase in pressure against heart walls, stimulating cell proliferation. Hypertrophy of cardiomyocytes also contributes to growth.
@@ -50,7 +50,7 @@ Formation of blood vessels from non-blood vessels. First occurs in the secondary
 
 For more VEGF, see also: [[Fertilization and Implantation#Pre-eclampsia]]
 ## Angiogenesis
-Formation of blood vessels from existing blood vessels. Starts in the secondary yolk sac. By ==day 23==, definitive hematopoietic stem cells (dHSCs) will form in the lover for utero blood formation. Blood formation in long bones does not take place until ==week 10==.
+Formation of blood vessels from existing blood vessels. Starts in the secondary yolk sac. By ***day 23***, definitive hematopoietic stem cells (dHSCs) will form in the lover for utero blood formation. Blood formation in long bones does not take place until ***week 10***.
 # Fetal blood flow
 1. Blood arrives from the placenta via the umbilical vein
 2. Blood is shunted away from liver (as it is not yet fully functioning) through the ductus venosis into the right atrium/inferior vena cava

@@ -36,14 +36,14 @@ When the ductus arteriosus does not close and forms the ligamentum arteriosum af
 
 This is an acyanotic left to right shunt.
 # Development of the Lymphatic System
-Around ==6-weeks==, endothelial cells from the major veins undergo bilateral angiogenesis.
+Around ***6-weeks***, endothelial cells from the major veins undergo bilateral angiogenesis.
 
 1. Right and left jugular veins form (draining lymph from upper limbs, trunk, head, and neck)
 2. Retroperitoneal lymphatic sac forms
 3. Cisterna chyli forms
 4. Posterior lymphatic sac forms
 
-At ==week 8-9==, the lymphatic sacs become ducts and the **cisterna chyli** become the **central lymph basin** which drains into the **thoracic duct** and empties into the venous circulation.
+At ***week 8-9***, the lymphatic sacs become ducts and the **cisterna chyli** become the **central lymph basin** which drains into the **thoracic duct** and empties into the venous circulation.
 
 ## Clinical pearls
 ### Turner Syndrome
@@ -52,7 +52,7 @@ Blockage of lymphatics leading to cystic hygromas which often go away with age.
 Inherited autosomal dominant disorder characterized by lower limb lymphedema (swelling caused by lymph accumulation). Will display as poor uptake of radioactive colloid in the lymph nodes caused by a lack of lymph vessels and abnormal function of the vessels in the legs.
 # Arterial System
 ## Aortic arch arteries
-Blood flows out of **truncus arteriosus** (becomes the aortic sac around ==day 24==) and into the **pharyngeal arch (aortic arch) arteries**. These become the arteries of the head and neck.
+Blood flows out of **truncus arteriosus** (becomes the aortic sac around ***day 24***) and into the **pharyngeal arch (aortic arch) arteries**. These become the arteries of the head and neck.
 
 The **pharyngeal pouches** come from endoderm. The aortic arches each contain mesoderm and neural crest cells.
 
@@ -73,17 +73,17 @@ Disappear after birth. There are two umbilical arteries. The arteries will carry
 **Umbilical region**: One umbilical vein which carries oxygenated blood (from the placenta) to the fetus.
 **Cardinal region**: Flows into the sinus venosus and develop the venae cavae.
 # Arm Circulatory System
-==Day 27==: Axial arteries develop via vasculogenesis from the **somatopleuric lateral plate mesoderm**.
-==Day 30==: 7th cervical intersegmental arteries arise from the dorsal aorta and anastomose (connect) with the axial artery.
+***Day 27***: Axial arteries develop via vasculogenesis from the **somatopleuric lateral plate mesoderm**.
+***Day 30***: 7th cervical intersegmental arteries arise from the dorsal aorta and anastomose (connect) with the axial artery.
 
 The axial artery will extend with the muscle progenitors and the ventral/dorsal muscle masses of the upper limb. Know the brachial artery of the upper arm and the interosseous artery of the lower arm.
 # Leg Circulatory System
-==Day 27==: Axial arteries develop via vasculogenesis from the **somatopleuric lateral plate mesoderm**.
-==Day 30==: 5th lumbar intersegmental arteries arise from the dorsal aorta and anastomose with the axial artery.
+***Day 27***: Axial arteries develop via vasculogenesis from the **somatopleuric lateral plate mesoderm**.
+***Day 30***: 5th lumbar intersegmental arteries arise from the dorsal aorta and anastomose with the axial artery.
 
 The axial artery will extend and become the **external iliac arteries**. From the external iliac most arteries will develop except the **sciatic, popliteal, and fibular arteries.**
 # Limb formation
-Paraxial mesoderm forms somites, which are the source of muscles and vertebrae. By ==week 3==, there are 40 pairs of somites.
+Paraxial mesoderm forms somites, which are the source of muscles and vertebrae. By ***week 3***, there are 40 pairs of somites.
 
 Functional parts of somites:
 **Sclerotome**: Ventral and medial cells migrating towards the notochord produce vertebrae and ribs at each level.
@@ -127,7 +127,7 @@ Types of bone formation
 **Cartilaginous**: Mesenchyme differentiates into fibrous/cartilaginous tissue (e.g. Pubic symphysis, costochondral joints (sternum to rib connection))
 **Synovial**: Mesenchyme peripheral to two bones condense into capsular and ligament tissue, then the central mesenchyme undergoes apoptosis leaving a fluid filled synovial region. A synovial membrane forms on the bone surfaces (e.g. knee joint)
 # Rib cage development
-==Week 5==: Costal processes (from **sclerotomes**) elongate along body wall
-==Week 7==: First 7 ribs connect ventrally and cranially to mesenchymal condensates
+***Week 5***: Costal processes (from **sclerotomes**) elongate along body wall
+***Week 7***: First 7 ribs connect ventrally and cranially to mesenchymal condensates
 
 The xiphoid process does not ossify until birth. The 5 ribs causal to the sternum (false ribs) do not fuse.

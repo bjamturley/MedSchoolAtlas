@@ -1,11 +1,11 @@
-# Laryngeal Development (==week 6-12==)
+# Laryngeal Development (***week 6-12***)
 The trachea is anterior to the esophagus. The mesoderm and neural crest cells become the supporting cartilage and muscle.
 
-==Week 6==: Development of **esophagobronchial septum** and **laryngotracheal orifice**/laryngeal inlet
-==Week 7a==: Proliferation of arches III/IV, creating the **hypobranchial eminence (epiglottis)**
-==Week 7b==: Proliferation of arches IV/V/VI, creating the arytenoid swelling
-==Week 7c==: Proliferation of the **Primordial Glottis temporarily closes the Laryngeal orifice**
-==Week 10==: Proliferation of the hypobranchial eminence (epiglottis) while the primordial glottis lining undergoes apoptosis. This **causes the laryngeal orifice to reopen** and forms the **primordial glottis**
+***Week 6***: Development of **esophagobronchial septum** and **laryngotracheal orifice**/laryngeal inlet
+***Week 7a***: Proliferation of arches III/IV, creating the **hypobranchial eminence (epiglottis)**
+***Week 7b***: Proliferation of arches IV/V/VI, creating the arytenoid swelling
+***Week 7c***: Proliferation of the **Primordial Glottis temporarily closes the Laryngeal orifice**
+***Week 10***: Proliferation of the hypobranchial eminence (epiglottis) while the primordial glottis lining undergoes apoptosis. This **causes the laryngeal orifice to reopen** and forms the **primordial glottis**
 
 Vocab
 - **Larynx**: Divides the throat into the esophagus and trachea
@@ -17,7 +17,7 @@ Vocab
 - **10th cranial nerve**: Musculature of the larynx
 - **Superior laryngeal nerve branch**: Derivatives of the IV arch
 - **Recurrent laryngeal nerve branch**: Derivatives of the VI arch
-# Lung development (==week 5-12==)
+# Lung development (***week 5-12***)
 The lung buds appear off the trachea distally and secondary bronchial buds form from the original left and right buds. **Three buds on the right, two on the left (to save space for the heart)**. Secondary buds become secondary bronchioles and **branch into tertiary bronchioles (10 right, 8 left)**, forming the **pericardioperitoneal canals** which surrounds the heart.
 
 ![[Pasted image 20230822140637.png]]

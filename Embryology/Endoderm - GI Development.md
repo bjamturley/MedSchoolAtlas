@@ -22,11 +22,11 @@ The tube-within-a-tube forms because the embryo and amniotic sac grow faster tha
 **Midgut**: Superior mesenteric artery
 **Hindgut**: Inferior mesenteric artery
 # Formation of the stomach
-Region of the foregut expands posteriorly around ==week 4==. At ==week 6==, the stomach then undergoes a **90deg clockwise rotation**. This rotation brings its ventral and dorsal mesenteries with it. The portion of mesentery attached to the *greater curve* of the stomach is called the **dorsal mesogastrium** and forms the **greater omentum**. The portion from the *lesser curve* of the stomach is called the **ventral mesogastrium** and forms the **lesser omentum**.
+Region of the foregut expands posteriorly around ***week 4***. At ***week 6***, the stomach then undergoes a **90deg clockwise rotation**. This rotation brings its ventral and dorsal mesenteries with it. The portion of mesentery attached to the *greater curve* of the stomach is called the **dorsal mesogastrium** and forms the **greater omentum**. The portion from the *lesser curve* of the stomach is called the **ventral mesogastrium** and forms the **lesser omentum**.
 
 ![[Pasted image 20230819131741.png]]
 # Formation of the liver
-This buds into the ventral mesentery ==week 4-5==, forming hepatic chords. The growth causes the ventral mesentery to be divided into two structures: the **lesser omentum** and the **falciform ligament**.
+This buds into the ventral mesentery ***week 4-5***, forming hepatic chords. The growth causes the ventral mesentery to be divided into two structures: the **lesser omentum** and the **falciform ligament**.
 
 Out of the hepatic duct come the pancreatic bud and the gallbladder.
 
@@ -35,7 +35,7 @@ Vocab:
 - **Lesser Omentum**: the part of the ventral mesentery connecting the lesser curvature of the stomach to the liver 
 - **Septum Transversum**: the membrane separating the thoracic and abdominal cavities which eventually becomes the diaphragm
 # Formation of the pancreas
-==Week 5-6==. The pancreas comes from the pancreatic bud formed with the creating of the hepatic duct (liver). It arises from the fusion of the dorsal bud and the ventral bud. Fusion occurs at the **same time as the clockwise rotation** of the other organs.
+***Week 5-6***. The pancreas comes from the pancreatic bud formed with the creating of the hepatic duct (liver). It arises from the fusion of the dorsal bud and the ventral bud. Fusion occurs at the **same time as the clockwise rotation** of the other organs.
 
 The **d**orsal bud then **d**isintegrates and the ventral bud becomes the main pancreatic duct.
 
@@ -56,9 +56,9 @@ Fetus is exposed to high glucose concentrations from the mother. This results in
 
 **Result**: Hyperplasia and damage to islet cells. Can cause infant diabetes and other pancreatic issues
 # Formation of intestines
-==Week 7==: The primary intestinal loop performs a 90deg rotation and herniates into the umbilicus. 
-==Week 11==: The intestines have completed 270deg of rotation. The cecum now resides inferior to the liver.
-==Week 12==: The cecum descends to its final position, forming the ascending colon.
+***Week 7***: The primary intestinal loop performs a 90deg rotation and herniates into the umbilicus. 
+***Week 11***: The intestines have completed 270deg of rotation. The cecum now resides inferior to the liver.
+***Week 12***: The cecum descends to its final position, forming the ascending colon.
 
 If the vitelline duct does not retract you get **Meckel's Diverticulum**.
 

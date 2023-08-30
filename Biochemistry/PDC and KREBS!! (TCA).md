@@ -3,9 +3,9 @@
 The PDC turns pyruvate into acetyl-CoA, generated from [[Glycolysis and Pentose Phosphate|Glycolysis]], NADH, and CO2. It is build from three different enzymes (E1, E2, and E3). This first step in this process is **irreversible**.
 
 **Enzymes**
-- ==E1==: Pyruvate dehydrogenase
-- ==E2==: Dihydrolipoyl transacetylase
-- ==E3==: Dihydrolipoyl dehydrogenase
+- ***E1***: Pyruvate dehydrogenase
+- ***E2***: Dihydrolipoyl transacetylase
+- ***E3***: Dihydrolipoyl dehydrogenase
 
 **Cofactors for the PDC**
 - **Thiamine pyrophosphate (TPP)**, derived from thiamine. Deficiency leads to **beriberi**.
@@ -15,18 +15,18 @@ The PDC turns pyruvate into acetyl-CoA, generated from [[Glycolysis and Pentose 
 - **Lipoic acid** (produced by humans)
 ## Steps
 ![[Pasted image 20230821133723.png]]
-### 1: Pyruvate releases CO2 (decarboxylation) via ==E1==
+### 1: Pyruvate releases CO2 (decarboxylation) via ***E1***
 High energy and irreversible, this step drives the remaining 4 steps forward. The decarboxylation produces a negative charge which reduces the remaining 2-carbon molecule from ketone to alcohol.
 
 *Note: When gas is released, it diffuses out of the tissue and increases the entropy of the forward reaction. Thus, reactions which release gas tend to be more forward-favorable.*
-### 2: Alcohol on the hydroxyethyl reduces lipoic acid's disulfide bond via ==E1==
-### 3: Acetyl is transferred to CoA, forming acetyl-CoA via ==E2==
+### 2: Alcohol on the hydroxyethyl reduces lipoic acid's disulfide bond via ***E1***
+### 3: Acetyl is transferred to CoA, forming acetyl-CoA via ***E2***
 **OUTPUT**: Acetyl-CoA is passed to the ETC.
-### 4: Lipoic acid reduces FAD to FADH2 via ==E3==
-### 5: FADH2 transfers electrons to NAD+, forming NADH via ==E3==
+### 4: Lipoic acid reduces FAD to FADH2 via ***E3***
+### 5: FADH2 transfers electrons to NAD+, forming NADH via ***E3***
 **OUTPUT**: NADH is passed to the ETC, resulting in 2.5 ATP.
 ## Regulation of the PDC
-High concentrations of NADH and acetyl-CoA will **drive the last four reactions backwards**. Additionally, **pyruvate dehydrogenase kinase (PDK)** is activated by NADH/acetyl-CoA. PDK will phosphorylate ==E1==, inactivating it.
+High concentrations of NADH and acetyl-CoA will **drive the last four reactions backwards**. Additionally, **pyruvate dehydrogenase kinase (PDK)** is activated by NADH/acetyl-CoA. PDK will phosphorylate ***E1***, inactivating it.
 ## Clinical Pearls for the PDC
 All of the following disorders have decreased PDC activity. Neural symptoms will result from the inefficient conversion of pyruvate to acetyl-CoA. For these cases, there will be a buildup for pyruvate in the mitochondria/cytosol and will lead to more lactate. However, the total ratio of pyruvate to lactate will remain the same.
 ### Wernicke Encephalopathy 

@@ -14,7 +14,7 @@ The transformation of the bilaminar disk (epiblast + hypoblast) in 3 germ layers
 - **Mesoderm**: Form muscles, vasculature, bones
 - **Endoderm**: Form most GI structure, lungs, accessory organs
 
-This process begins ==day 14 - 15==, following [[Fertilization and Implantation]] with the formation of the **primitive streak** (PS). This starts at the caudal end and moves from a caudal to cranial direction, creating the **cranial-caudal** axis.
+This process begins ***day 14 - 15***, following [[Fertilization and Implantation]] with the formation of the **primitive streak** (PS). This starts at the caudal end and moves from a caudal to cranial direction, creating the **cranial-caudal** axis.
 ## Formation of the germ layers
 ## 1. Endoderm
 After PS formation, the epiblast cells ingress through the primitive groove and spread into the degenerating hypoblast cells. These cells transform from **epithelial to mesenchymal cells**. The first layer of cells ingress through the primitive groove and becomes the **endoderm**.

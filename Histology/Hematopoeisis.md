@@ -1,7 +1,7 @@
 # Fetal hematopoiesis
-First blood cells formed in primordial phase in the [[Fertilization and Implantation#4. Yolk sacs ==(12 - 13 days)==|secondary yolk sac]]. In the ==second trimester==, the liver and spleen begin to produce blood cells in the **hepato-spleno-thymic phase** in which precursor granulocytes, megakaryocytes, and erythroblasts are created. This phase peaks ==5-6 months== post-fertilization.
+First blood cells formed in primordial phase in the [[Fertilization and Implantation#4. Yolk sacs ***(12 - 13 days)***|secondary yolk sac]]. In the ***second trimester***, the liver and spleen begin to produce blood cells in the **hepato-spleno-thymic phase** in which precursor granulocytes, megakaryocytes, and erythroblasts are created. This phase peaks ***5-6 months*** post-fertilization.
 
-The final hematopoiesis phase is the medullo-lymphatic phase which occurs in the bone marrow and lymph nodes. This occurs around ==4 months and continues into the 3rd trimester==.
+The final hematopoiesis phase is the medullo-lymphatic phase which occurs in the bone marrow and lymph nodes. This occurs around ***4 months and continues into the 3rd trimester***.
 
 **Ontology follows phylogeny**: The progression of hematopoiesis in fetal development closely resembles the phylogenetic progression of lymphoid tissues in vertebrates.
 

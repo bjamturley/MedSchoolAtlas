@@ -62,7 +62,7 @@ Occurs in the cytosol, using acetyl-CoA produced in the mitochondria. Acetyl-CoA
 - Return to the mitochondria (via malate-alpha ketoglutarate transporter)
 - Malic enzyme: Converts malate into pyruvate, forming NADPH. This is an alternate way a patient with [[Glycolysis and Pentose Phosphate#Clinical pearl Favism|Favism]] can form NADPH.
 ## Source of acetyl-CoA
-==Acetyl-CoA for fatty acid synthesis comes from glucose catabolism, NOT beta-oxidation.== When acetyl-CoA accumulates from beta oxidation, OAA concentrations will not increase (no pathway). Conversely, in glycolysis pyruvate can be shunted through pyruvate carboxylase to form OAA. Therefore, without the TCA intermediate in beta oxidation, citrate will not be generated and fats will not be synthesized.
+***Acetyl-CoA for fatty acid synthesis comes from glucose catabolism, NOT beta-oxidation.*** When acetyl-CoA accumulates from beta oxidation, OAA concentrations will not increase (no pathway). Conversely, in glycolysis pyruvate can be shunted through pyruvate carboxylase to form OAA. Therefore, without the TCA intermediate in beta oxidation, citrate will not be generated and fats will not be synthesized.
 
 ![[Pasted image 20230826230913.png]]
 ## Part 1. Acetyl-CoA carboxylase

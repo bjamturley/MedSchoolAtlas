@@ -12,7 +12,7 @@ Steps
 **BMP 4**: *Induces* endoderm proliferation, promotes noggin
 **BMP 7**: *Inhibits* endoderm proliferation, promotes noggin
 # Neuroectoderm
-Around ==day 30==, the neuroectoderm begins to diffuse into layers. 
+Around ***day 30***, the neuroectoderm begins to diffuse into layers. 
 
 **Ventricular zone**: Gives rise to all neurons and glia
 **Intermediate zone**: Derived from ventricular zone, differentiate into neurons or glioblasts
@@ -41,12 +41,12 @@ BMP signaling on the dorsal side results in the **alar plate (afferent neurons)*
 The cerebral hemispheres grow posteriorly over the brain, enveloping it.
 *radial glial cells → progenitor cells → neurons → glial cells*
 
-==Week 5==: Apical and basal radial glial cells switch from symmetric (lateral) to asymmetric (differentiation) cell division.
-==Week 7==: Formation of the subventricular zone (SVZ) which manages the migration of pyramidal neurons
+***Week 5***: Apical and basal radial glial cells switch from symmetric (lateral) to asymmetric (differentiation) cell division.
+***Week 7***: Formation of the subventricular zone (SVZ) which manages the migration of pyramidal neurons
 
 ![[Pasted image 20230827002917.png]]
 # Gyrification
-The process of folding within the brain. By ==week 10==, there are secondary folds present. At ==week 24-26==, tertiary folds are present. White and gray matter appear at the same time gyrification is occuring.
+The process of folding within the brain. By ***week 10***, there are secondary folds present. At ***week 24-26***, tertiary folds are present. White and gray matter appear at the same time gyrification is occuring.
 
 The **telencephalon** undergoes the most gyrification, making up the cerebrum. It will grow over the mesencephalon (pons/cerebellum), while the mesencephalon grows over the medulla.
 
@@ -61,7 +61,7 @@ Folding mechanisms
 ![[Pasted image 20230827111446.png]]
 # Clinical pearls
 ## Lissencephaly
-Absence of folds in the brain. Overly thick gray matter development causes a smooth brain and an unmyelinated area. This does not appear until ==week 5==.
+Absence of folds in the brain. Overly thick gray matter development causes a smooth brain and an unmyelinated area. This does not appear until ***week 5***.
 
 **Symptoms**: Motor problems, seizure, diminished cognitive function
 **Treatments**: Anti-seizure drugs and physical therapy

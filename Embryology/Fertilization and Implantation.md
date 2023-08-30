@@ -11,8 +11,8 @@ Oocytes pre-ovulation cannot be fertilized. The egg post-ovulation can be fertil
 ## 3. Secretory phase (luteal phase in ovarian cycle)
 1. Remnants of the **ovulated follicle (corpus luteum)**, secretes estrogen and progesterone
 2. Lots of progesterone inhibit FSH
-	1. ==FERTILIZATION DOES OCCUR:== Corpus luteum remains intact and continues to secrete progesterone. Human chorionic gonadotrophin (hGC) from syncytiotrophoblasts maintains corpus luteum
-	2. ==FERTILIZATION DOES NOT OCCUR:== No hCG means corpus luteum degenerates, decreasing progesterone/estrogen, increasing FSH and mensus
+	1. ***FERTILIZATION DOES OCCUR:*** Corpus luteum remains intact and continues to secrete progesterone. Human chorionic gonadotrophin (hGC) from syncytiotrophoblasts maintains corpus luteum
+	2. ***FERTILIZATION DOES NOT OCCUR:*** No hCG means corpus luteum degenerates, decreasing progesterone/estrogen, increasing FSH and mensus
 ### How to prevent pregnancy (very important)
 #### Pre-ovulation
 **Levonorgestrel (Plan B)** is synthetic progestin. Progestin upregulates progesterone, which downregulates FSH, resulting in no follicular development (no recruitment). No follicular development which means no LH surge/no ovulation
@@ -45,15 +45,15 @@ cont:
 **Blastomeres**: Round cells within embryo which divide by mitosis
 ## 1. Induction
 With our first diploid cell, we now have the zygotic genome. The cells split in two, embryonic genes turn on, and maternal genes turn off
-## 2. Morula ==(3 - 4 days)==
+## 2. Morula ***(3 - 4 days)***
 At the 12-cell stage, blastomeres express adhesion junctions (adherens, desmosomes, tight junctions) which allows them to **flatten on top of each other**
 
 There are 11 outside cells and 1 inside cell. The outside cell sees the inside and outside while the inside cell sees only sees the inside environment. **This allows the cells to differentiate**.
 
 The outer cells (**trophectoderm**) express Na+/K+ ATPases. As bananas are pumped into the interstitial fluid of the embryo, water follows and forms a fluid filled cavity (**blastocele**)
-## 3. Blastocyst ==(4.5 - 5 days)==
+## 3. Blastocyst ***(4.5 - 5 days)***
 The blastocele is formed and pushes the inner cell mass to one side. At this point the inner cell mass is not differentiated, but the trophectoderm is.
-## 4. Blastocyst hatches ==(5.5 - 6 days)==
+## 4. Blastocyst hatches ***(5.5 - 6 days)***
 
 # Implantation
 
@@ -66,19 +66,19 @@ The blastocyst then secretes metalloproteases (MMPs) that eat the uterine epithe
 1. Compact layer: Most superficial, sloughed off
 2. Spongy layer: Middle layer, sloughed off
 3. Basal layer: Deepest layer (has its own blood supply), remains
-## 2. Reaching decidua ==(5 - 9 days)==
+## 2. Reaching decidua ***(5 - 9 days)***
 Upon reaching the decidua, the trophectoderm differentiate into into syncytiotrophoblasts (STB) and cytotrophoblasts (CTB). The trophoblast cell membranes fall apart and form a **syncytium** which becomes STB. 
 
 **RECALL**: *STB is secreting hCG to maintain the corpus luteum which will secrete progesterone to keep the endometrium thick and full of blood vessels.*
 
 The inner cell mass differentiates into **epiblasts (primitive ectoderm)** and **hypoblasts (primitive endoderm)**. The epiblasts migrate along the CTB to form the **amniotic cavity**. The hypoblasts grow along the CTB which forms **Hauser's membrane**. The STB surrounds the embryo.
-## 3. Formation of extraembryonic mesoderm ==(8 - 12 days)==
+## 3. Formation of extraembryonic mesoderm ***(8 - 12 days)***
 Hauser's membrane secretes extracellular matrix (ECM) materials (fibronectin, laminin, etc..). This forms an extraembryonic reticulum between Hauser's membrane and the CTB.
 
 The STB produces digestive enzymes which eat away at capillaries. Blood pools as a result and form **lacunae**, the start of embryonic blood flow providing the embryo with nutrients.
 
 The epiblast divides and migrates between Heuser's membrane and the CTB, forming the **extraembryonic mesoderm**. As this mesoderm surrounds Heuser's membrane, it can no longer secrete ECM materials, breaking the extraembryonic reticulum, and forming a fluid filled cavity called the chorionic cavity.
-## 4. Yolk sacs ==(12 - 13 days)==
+## 4. Yolk sacs ***(12 - 13 days)***
 Hypoblast (extraembryonic mesoderm), differentiate further into the **primary yolk sacs**. The **secondary yolk sac** then forms and the primary yolk sac pinches off and disintegrates. 
 
 Blood vessels form first in secondary yolk sac and then, after a day, in the extraembryonic mesoderm.

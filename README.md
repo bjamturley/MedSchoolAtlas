@@ -4,9 +4,7 @@ This is a lightweight and searchable medical school note database. The goal with
 
 This project is being built using my [Obsidian](https://obsidian.md/) notes as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education.
 
-> If you find any information is missing, incorrect, or needs formatting, please send over a pull request. Collaboration is more than welcome.
-
-Send pull requests here: [https://github.com/bjamturley/MedSchoolAtlas](https://github.com/bjamturley/MedSchoolAtlas)
+> Collaboration is more than welcome. If you find any information is missing, incorrect, or needs formatting, please update the database. Send pull requests here: [https://github.com/bjamturley/MedSchoolAtlas](https://github.com/bjamturley/MedSchoolAtlas)
 ## Note Taking Principals
 1. Only include information necessary for passing
 2. Information should strive to be concise and simple
