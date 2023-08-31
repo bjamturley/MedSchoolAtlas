@@ -1,9 +1,9 @@
 # Welcome to the Medical School Atlas
-## [Knowledge Web](https://medschoolatlas.xyz)  |   [Articles](https://medschoolatlas.xyz/docs)
+## [Knowledge Web](https://medschoolatlas.xyz)
 
-This is a lightweight and searchable medical school note database. The goal with this project is to provide a free alternative to overpriced medical education references.
+This is a lightweight and searchable medical school note database. The goal is to provide a free alternative to overpriced medical education references. Lecture has been made obsolete.
 
-> These notes are [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
+> This project is [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
 
 |                                                     |                                                               |                                                               |
 | --------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
