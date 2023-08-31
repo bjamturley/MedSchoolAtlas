@@ -25,8 +25,6 @@ TIMEZONE = ""
 ZOLA_VERSION = "0.15.2"
 # IMPORTANT
 SORT_BY = "weight"
-# (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
-SORT_BY = "title"
 # (Optional) Google Analytics Measurement ID
 GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
