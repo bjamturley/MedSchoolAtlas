@@ -14,6 +14,7 @@ This project is being built using my [Obsidian](https://obsidian.md/) notes as I
 | Immunology                                          | Microbiology                                                  | [Neuroscience](https://medschoolatlas.xyz/docs/neuroscience/) |
 | Nutrition & Health                                  | Pathology                                                     | Pharmacology                                                  |
 | Physiology                                          | Psychiatry                                                    | Resources                                                     |
+
 These notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/).
 ## Note Taking Principals
 1. Required information is the only important information
