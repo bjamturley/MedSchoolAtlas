@@ -1,5 +1,5 @@
 # Welcome to the Medical School Atlas
-## [Homepage](https://medschoolatlas.xyz)  |   [Articles](https://medschoolatlas.xyz/docs/)
+## [Homepage](https://medschoolatlas.xyz)  |   [Articles](https://medschoolatlas.xyz/docs)
 
 This is a lightweight and searchable medical school note database. The goal with this project is to provide a free alternative to overpriced medical education references.
 
