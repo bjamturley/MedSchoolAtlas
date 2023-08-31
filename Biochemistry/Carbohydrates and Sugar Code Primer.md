@@ -7,7 +7,7 @@ When ending in -ranose, it is a ring named similarly. Furanose: 5C ring, pyranos
 - -**ketose**: Ketone
 ![[Pasted image 20230813175546.png]]
 ## Chirality
-Most monosaccharides have at least 1 chiral carbon, creating 2 stereoisomers (D and L). The number of stereoisomers = $2^\text{\# chiral centers}$ . **Epimers** are stereoisomers which differ at 1 chiral carbon. Most natural sugars are D.
+Most monosaccharides have at least 1 chiral carbon, creating 2 stereoisomers (D and L). The number of stereoisomers = 2^chiral centers . **Epimers** are stereoisomers which differ at 1 chiral carbon. Most natural sugars are D.
 
 **Anomeric carbon**: Bound to two oxygens. Alpha has OH group on the bottom, beta on the top.
 **Mutarotation**: Flipping between alpha and beta configurations until equilibrium is reached.

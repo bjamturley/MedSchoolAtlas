@@ -8,6 +8,14 @@ This project is being built using my [Obsidian](https://obsidian.md/) notes as I
 > These notes are open source and collaboration is more than welcome. If you find any information is missing, incorrect, or needs formatting, feel free to send a pull requests at [github.com/bjamturley/MedSchoolAtlas](https://github.com/bjamturley/MedSchoolAtlas)
 
 These notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/).
+## Subjects
+|                                                     |                                                               |                                                               |
+| --------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| [Anatomy](https://medschoolatlas.xyz/docs/anatomy/) | [Biochemistry](https://medschoolatlas.xyz/docs/biochemistry/) | [Embryology](https://medschoolatlas.xyz/docs/embryology/)     |
+| Genetics                                            | [Histology](https://medschoolatlas.xyz/docs/histology/)       | Human Sexuality                                               |
+| Immunology                                          | Microbiology                                                  | [Neuroscience](https://medschoolatlas.xyz/docs/neuroscience/) |
+| Nutrition & Health                                  | Pathology                                                     | Pharmacology                                                  |
+| Physiology                                          | Psychiatry                                                    | Resources                                                              |
 ## Note Taking Principals
 1. Required information is the only important information
 3. [Readability supersedes density](https://www.youtube.com/watch?v=_K-L9uhsBLM&t=52s)

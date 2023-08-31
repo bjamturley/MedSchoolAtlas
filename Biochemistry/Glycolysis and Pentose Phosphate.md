@@ -25,7 +25,7 @@ Step 3 is the rate limiting step of glycolysis.
 
 Too much ATP production will inhibit PFK-1
 Too much AMP/ADP will activate PFK-1
-F2,6BP, stimulated by [[Hormonal Regulation and Signalling#Glucagon|glucagon]], will activate PFK-1
+F2,6BP, stimulated by [[Hormonal Regulation of Metabolism#Glucagon|glucagon]], will activate PFK-1
 Pyruvate goes on to create citrate in oxidative phosphorylation, which provides negative feedback
 
 ![[Pasted image 20230821010200.png]]

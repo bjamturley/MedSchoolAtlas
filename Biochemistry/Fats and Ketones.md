@@ -68,7 +68,7 @@ Occurs in the cytosol, using acetyl-CoA produced in the mitochondria. Acetyl-CoA
 ## Part 1. Acetyl-CoA carboxylase
 This is the regulatory step of fatty acid synthesis and produces malonyl-CoA ([[Delivery of Fuel to the Mitochondria#Carnitine Shuttle|inhibits CAT I]]). This insures fatty acid synthesis and fatty acid breakdown cannot happen simultaneously. 
 
-It will also be inactivated by Protein Kinase A (PKA) upstream of [[Hormonal Regulation and Signalling#Glucagon|glucagon]] binding when hypoglycemic.
+It will also be inactivated by Protein Kinase A (PKA) upstream of [[Hormonal Regulation of Metabolism#Glucagon|glucagon]] binding when hypoglycemic.
 ## Part 2. Fatty acid synthase
 This is largely the reverse of beta oxidation. Fatty acid synthase (ACP) will bind an acetyl-CoA and a malonyl-CoA. The carboxylic group of malonyl-CoA then leaves as CO2, creating a binding point for acetyl-CoA. The resulting condensation reaction forms a 4 carbon beta keto ACP (opposite of thiolase).
 
