@@ -1,10 +1,10 @@
 # Protein basics
 Amino acids are chiral in the L configuration. They are zwitterions (separate positive and negative groups) and are formed in a **condensation reaction** between an amine and carboxyl group.
 
-**Primary structure**: Amino acids
-**Secondary structure**: Local elements (alpha helices and beta sheets)
-**Tertiary structure**: Structural units (folded) with a hydrophobic core
-**Quaternary structure**: Multiple polypeptides (e.g. receptor complex)
+1. **Primary structure**: Amino acids
+2. **Secondary structure**: Local elements (alpha helices and beta sheets)
+3. **Tertiary structure**: Structural units (folded) with a hydrophobic core
+4. **Quaternary structure**: Multiple polypeptides (e.g. receptor complex)
 
 **Hydrophobic forces** are the single strongest driving force in protein tertiary conformation.
 
@@ -13,13 +13,12 @@ Amino acids are chiral in the L configuration. They are zwitterions (separate po
 # Collagen
 Most common protein in mammals. Sequence has lots of Gly, Pro, and 4-hydroxyproline (modified pro). 3 alpha chains wrap around each other to form **tropocollagen**. This triple-helix is very strong which is why collagen is so strong, grouping together to form **fibrils**. Fibril cross linking relies on Lysine (Lys), 5-hydroxylysine (HyLys), and His residues and is dependent on **lysyl (Lysine) oxidase**.
 
-Types:
+**Types of collagen**:
 - Tendon
 - Skin
 - Cartilage/bone
 - Cornea
-
-## Diseases
+## Clinical Peals
 ### Osteogenesis imperfecta
 AKA brittle bone disease. Causes by defective type I collagen. A point mutation is sufficient to reduce collagen stability and produce an autosomal dominant disease.
 ### Ehlers-Danlos
@@ -61,6 +60,5 @@ Enzymes involved in activation:
 1. Ubiquitin activating enzyme E1
 2. Ubiquitin activating enzyme E2
 3. Ubiquitin ligase E3 (this picks the target)
-
 # Histone code
 Modifications help determine which parts of DNA will undergo transcription.

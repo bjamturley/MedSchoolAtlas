@@ -6,7 +6,7 @@ $pH = -log[H+]$
 
 Therefore, as H+ increases in solution, pH decreases
 
-Ka is the **acid dissociation constant**., or the likelihood to dissociate in solution. Stronger acids have a higher Ka.
+Ka is the **acid dissociation constant**, or the likelihood to dissociate in solution. Stronger acids have a higher Ka.
 
 Strong acids will dissociate completely which means for strong acids, the initial acid concentration and the final H+ will be equal,
 # Henderson-Hassall Bach

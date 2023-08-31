@@ -1,19 +1,7 @@
 ## What is
 We are learning Gross Anatomy (macroanatomy). Microanatomy is histology.
 
-**Regional anatomy:**
-Each part of body studied separately, emphasis of relationships of structures in that region
-## Terminology
-**Gaster**: Stomach/belly
-**Rectus**: Straight
-**Femoral**: Thigh
-**Vasa**: Vessel
-
-Suffixes:
--**iod**: Like or resembles
--**ceps**, **capitis**: Head
-
-**Eponym**: Structure names after a person
+**Regional anatomy:** Each part of body studied separately, emphasis of relationships of structures in that region
 ## Anatomical Position
 Default is upright, face forward, limbs by side with palms forward
 

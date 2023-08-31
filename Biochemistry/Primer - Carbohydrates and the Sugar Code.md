@@ -37,6 +37,8 @@ Functions:
 - Information transfer (e.g. sugar code)
 ## Fuel storage
 Glycogen has a chain of glucoses linked via alpha 1-4 bonds. It branches via alpha 1-6 bonds every 9-12 sugars on the chain. Glycogen only has one reducing end and several non-reducing ends. Glucose-1-P can be released very quickly from the numerous non-reducing ends, making glycogen good for energy.
+
+However, because glycogen is hydrophilic (will pull water into the cell), it can only be used for short term storage. Depletion of glycogen will occur within 12 hours of fasting.
 ## Glycosaminoglycans
 Makes up the EXM/ground substance of the extracellular matrix, which is a gel-like material between cells. Is has repeating saccharide pairs, an amino sugar, an acidic sugar (carboxyl), and is sometimes sulfated. It will covalently bond to proteoglycans. All of the negative charges make it play nice with water.
 # Sugar code
