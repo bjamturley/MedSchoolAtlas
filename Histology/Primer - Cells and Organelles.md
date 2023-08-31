@@ -125,7 +125,7 @@ Membrane-bound vesicles and vacuoles derived from trans golgi complex vesicles. 
 
 ![[Pasted image 20230810205233.png]]
 ![[Pasted image 20230810205255.png]]
-## Tay sachs
+## Clinical Pearl: Tay sachs
 Lysosomal storage problem, rapidly fatal. **Hexosaminidase A (hex A**) is deficient which allows **ganglioside** **GM2** to accumulate in cells which is no bueno.
 
 ![[Pasted image 20230810205318.png]]

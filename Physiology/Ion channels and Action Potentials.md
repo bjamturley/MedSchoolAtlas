@@ -1,10 +1,10 @@
 # Anatomy of an action potential
 I. Rest. Potassium leak channels maintain voltage
-II. Stimulus -> Opens voltage-gated sodium channels
-III. Depolarization to -55 mV -> Rapidly opens the rest of the sodium channels
-IV. Peak -> Voltage-gated sodium channels close, delayed rectifier potassium channels open
-V. Delayed rectifier potassium channels still open -> Hyperpolarization
-VI. Delayed rectifier potassium channels close -> Return to -70 mV
+II. Stimulus → Opens voltage-gated sodium channels
+III. Depolarization to -55 mV → Rapidly opens the rest of the sodium channels
+IV. Peak → Voltage-gated sodium channels close, delayed rectifier potassium channels open
+V. Delayed rectifier potassium channels still open → Hyperpolarization
+VI. Delayed rectifier potassium channels close → Return to -70 mV
 I. Rest. Potassium leak channels maintain voltage
 
 ![[Pasted image 20230828225414.png]]

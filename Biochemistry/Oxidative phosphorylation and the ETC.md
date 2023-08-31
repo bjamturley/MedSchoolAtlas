@@ -1,4 +1,3 @@
-![[MetabolicPathwayMap.jpg]]
 # Establishment of proton gradient
 
 ![[Pasted image 20230814200444.png]]

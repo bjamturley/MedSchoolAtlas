@@ -1,4 +1,3 @@
-![[MetabolicPathwayMap.jpg]]
 # Glycolysis steps
 | Step | Reactant                 | Product                                                              | Enzyme                                       | Energy                      | dG (kJ/mol) | Notes                                                                                                                                            |
 | ---- | ------------------------ | -------------------------------------------------------------------- | -------------------------------------------- | --------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -14,9 +13,9 @@
 | 8    | Phosphoenolpyruvate, ADP | Pyruvate, ATP                                                        | **Pyruvate kinase**                          | Irreversible                | -31.4       | Third waterfall step                                                                                                                             |
 
 **Changes**:
-- 2 ADP + 2 Pi -> 2 ATP
-- Glucose -> 2 Pyruvate
-- 2 NAD+ -> 2NADH
+- 2 ADP + 2 Pi → 2 ATP
+- Glucose → 2 Pyruvate
+- 2 NAD+ → 2NADH
 - Also produces 2 H+, 2 H2O
 
 Pyruvate is sent to [[PDC and KREBS (TCA)]].

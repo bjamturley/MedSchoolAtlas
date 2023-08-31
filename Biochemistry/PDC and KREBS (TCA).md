@@ -1,4 +1,3 @@
-![[MetabolicPathwayMap.jpg]]
 # Pyruvate Dehydrogenase Complex (PDC)
 The PDC turns pyruvate into acetyl-CoA, generated from [[Glycolysis and Pentose Phosphate|Glycolysis]], NADH, and CO2. It is build from three different enzymes (E1, E2, and E3). This first step in this process is **irreversible**.
 

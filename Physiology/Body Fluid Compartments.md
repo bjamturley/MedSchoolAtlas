@@ -61,8 +61,8 @@ $Quantity  = \text{concentration} * \text{volume}$
 1 mol of Na = 23g
 1 *milli*mole of Na =  23 *milli*grams
 
-**Electrolytes dissociate** when dissolved in fluids (1 mmol -> 1 mEq)
-**Non-electrolytes do not dissociate** when dissolved in fluids (1 mmol -> # ions mEq)
+**Electrolytes dissociate** when dissolved in fluids (1 mmol → 1 mEq)
+**Non-electrolytes do not dissociate** when dissolved in fluids (1 mmol → # ions mEq)
 ## Measurement of Plasma
 **Criteria:** Indicator is restricted to injected compartment
 **Possible indicators:**

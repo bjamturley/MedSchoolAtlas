@@ -1,4 +1,3 @@
-![[MetabolicPathwayMap.jpg]]
 # Oxaloacetate (OAA)
 OAA is the rate limiting factor for the [[PDC and KREBS (TCA)|TCA (KREBS!!)]] cycle. Pyruvate can be converted to OAA via pyruvate carboxylase. Glycolysis will generate this pyruvate. However, because glycolysis occurs in the cytoplasm and TCA occurs in the cytosol, OAA must be transported.
 # Shuttle systems
@@ -18,7 +17,7 @@ The carnitine shuttle is regulated by **malonyl-CoA** which inhibits CAT I. Malo
 
 ![[Pasted image 20230825184340.png]]
 # Triacylglycerol  (TAG)
-How [[Lipids, Membranes, and Membrane Proteins|fatty acids]] are stored in the body. Only found in organs which perform gluconeogenesis (liver and kidneys). Starts with glycerol-3-phosphate, which can come from [[Glycolysis and Pentose Phosphate#Glycolysis steps|DHAP]] or by phosphorylating glycerol. Adipocytes rely on DHAP -> G3P as they do not perform gluconeogenesis.
+How [[Lipids, Membranes, and Membrane Proteins|fatty acids]] are stored in the body. Only found in organs which perform gluconeogenesis (liver and kidneys). Starts with glycerol-3-phosphate, which can come from [[Glycolysis and Pentose Phosphate#Glycolysis steps|DHAP]] or by phosphorylating glycerol. Adipocytes rely on DHAP → G3P as they do not perform gluconeogenesis.
 
 TAG generation occurs in the endoplasmic reticulum of hepatocytes and adipocytes, in which fatty acids are esterified onto glycerol with the expenditure of 1 ATP. This makes TAG an energetic investment which is made when energy is abundant. TAGs are always being made, even when starving, but the balance of catabolism and anabolism changes.
 

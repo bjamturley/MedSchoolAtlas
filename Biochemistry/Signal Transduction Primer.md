@@ -6,7 +6,7 @@
 Not all ligands bring about signal transduction. Those which do not transduce a signal are **antagonists.**
 # Binding
 ## Dissociation constant
-Receptor (R) + Ligand (L) -> RL
+Receptor (R) + Ligand (L) → RL
 
 **Velocity of formation** = k1 \[R]\[L]
 **Velocity of dissolution** = 1/k1 \[RL]

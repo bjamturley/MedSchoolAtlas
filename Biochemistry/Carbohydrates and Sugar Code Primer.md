@@ -36,7 +36,7 @@ Functions:
 - Structure (e.g. cellulose, chitin, glycosaminoglycans)
 - Information transfer (e.g. sugar code)
 ## Fuel storage
-Glycogen has a chain of glucoses linked via alpha 1-4 bonds. It branches via alpha 1-6 bonds every 9-12 sugars on the chain. Glycogen only has one reducing end and several non-reducing ends. Glucose-1-P can be released very quickly from the numerous non-reducing ends, making glycogen good for energy.
+Glycogen has a chain of glucoses linked via alpha 1-4 bonds. It branches via alpha 1-6 bonds every 9-12 sugars on the chain. Glycogen only has one reducing end and several non-reducing ends. Glucose-1-P (G1P) can be released very quickly from the numerous non-reducing ends, making glycogen good for energy.
 
 However, because glycogen is hydrophilic (will pull water into the cell), it can only be used for short term storage. Depletion of glycogen will occur within 12 hours of fasting.
 ## Glycosaminoglycans

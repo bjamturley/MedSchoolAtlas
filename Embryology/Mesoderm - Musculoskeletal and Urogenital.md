@@ -3,7 +3,7 @@ Previously on mesoderm: [[Gastrulation and Embryonic Folding#2a. Mesoderm and Ec
 1. Blood (oxygenated) flows from the placenta to the umbilical vein
 2. Blood enters the heart tube at the sinus venosus
 3. Blood enters the atrium, mixing with deoxygenated blood from the common cardinal vein
-4. AV-canal -> Ventricle -> Bulbus Cordis -> Truncus Arteriosus
+4. AV-canal → Ventricle → Bulbus Cordis → Truncus Arteriosus
 5. Blood flows through the pharyngeal/aortic arches and into the internal carotid artery towards the head/dorsal aorta
 6. Blood diverts into the vitelline vessels/intersegmental vessels/iliac vessels
 7. Blood returns to the heart via cardinal veins and the vitelline vein
@@ -44,7 +44,6 @@ Around ***6-weeks***, endothelial cells from the major veins undergo bilateral a
 4. Posterior lymphatic sac forms
 
 At ***week 8-9***, the lymphatic sacs become ducts and the **cisterna chyli** become the **central lymph basin** which drains into the **thoracic duct** and empties into the venous circulation.
-
 ## Clinical pearls
 ### Turner Syndrome
 Blockage of lymphatics leading to cystic hygromas which often go away with age.
@@ -54,10 +53,9 @@ Inherited autosomal dominant disorder characterized by lower limb lymphedema (sw
 ## Aortic arch arteries
 Blood flows out of **truncus arteriosus** (becomes the aortic sac around ***day 24***) and into the **pharyngeal arch (aortic arch) arteries**. These become the arteries of the head and neck.
 
-The **pharyngeal pouches** come from endoderm. The aortic arches each contain mesoderm and neural crest cells.
+The **pharyngeal pouches** come from endoderm whereas the aortic arches each contain mesoderm and neural crest cells.
 
-The left 4th pharyngeal arch gives rise to the aorta and the 3rd
-pharyngeal arch (right and left) gives rise to the common carotid arteries.
+The left 4th pharyngeal arch gives rise to the aorta and the 3rd pharyngeal arch (right and left) gives rise to the common carotid arteries.
 
 ![[Pasted image 20230824155748.png]]
 ## Dorsal aortic region
@@ -92,7 +90,7 @@ Functional parts of somites:
 ## Limb buds
 Form from the somatic lateral plate mesoderm while muscle progenitors migrate from the somitic myotome and then into the limb buds. Muscle progenitors form the ventral and dorsal muscle masses.
 
-Mesoderm progenitors -> Mono-nucleated myoblasts -> multi-nucleated myotube
+Mesoderm progenitors → Mono-nucleated myoblasts → multi-nucleated myotube
 ## Clinical pearls
 ### Muscular dystrophy (MD)
 X-linked recessive disorder (more common in males). Caused by a defect in the DMD gene which produces Dystrophin.
@@ -107,11 +105,11 @@ Types of bone formation
 - **Intramembranous Ossification**: Bone forms directly from mesenchyme or neural crest cells. Bones of the face and cranial vault
 ## Long bone formation (Endochondral Ossification)
 **Epiphysis**: Compartment of cartilage growth from progenitor cells that consist of layers of **resting chondrocytes**
-**Diaphysis**: Compartment of proliferating chondrocytes make of 3 layers (proliferating chondrocytes, pre-hypertrophic chondrocytes, hypertrophic chondrocytes)
+**Diaphysis**: Compartment of proliferating chondrocytes made of 3 layers
 - Proliferating chondrocytes
 - Pre-hypertrophic chondrocytes
 - Hypertrophic chondrocytes (surrounded by calcified matrix)
-
+### Formation steps
 1. Vascularization of the hypertrophic region allows for invasion by osteoblasts. These secrete collagen to form primary spongiosa
 2. Primary spongiosa becomes the primary ossification center, forming a trabecular network of bone
 3. Grows as two epiphyses move in opposite directions by proliferating chondrocytes

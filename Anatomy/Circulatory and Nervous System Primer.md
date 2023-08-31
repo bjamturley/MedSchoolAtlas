@@ -81,8 +81,8 @@ You should be able to read the name and determine direction of movement.
 #### Sentinel nodes
 The first lymph node where cancer cells may spread into a tumor from an organ. Lymph is highly anastomotic (multiple directions the lymph can drain). When removing tumors, the lymph node is also sometimes removed from regions known to drain that organ. This can determine the presence or extent of metastasis depending on goals of surgery.
 ## Nervous system
-Central -> Brain, spine
-Peripheral -> Cranial, spinal -> ventral rami, dorsal rami
+Central → Brain, spine
+Peripheral → Cranial, spinal → ventral rami, dorsal rami
 ### Neuron anatomy
 **Cell body** is where the nucleus resides. Many cell bodies together is a **ganglion in the PNS** and a **nucleus in the CNS**. **Dendrites**: Receive signal
 **Axon**: Send signal

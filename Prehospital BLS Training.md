@@ -29,7 +29,7 @@ A life-threatening allergic reaction.
 * Call 911
 * Ask person for an Epi-Pen
 ## How to use Epi-Pen
-1. Hold pen with orange tip pointing down (blue -> sky, orange -> thigh)
+1. Hold pen with orange tip pointing down (blue → sky, orange → thigh)
 2. Remove blue safety cap
 3. Press orange tip firmly into thigh
 # Bleeding control

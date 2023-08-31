@@ -54,7 +54,7 @@ A main proteoglycan of cartilage which can form huge complexes. Has a core prote
 
 Its brushlike structure and numerous negative charges capture water which act as a shock absorber when compressed.
 ## Ubiquitylation
-Ubiquitin is often added to proteins which need to be degraded by the 26S proteosome. Phosphorylation -> ubiquitylation -> degradation.
+Ubiquitin is often added to proteins which need to be degraded by the 26S proteosome. Phosphorylation → ubiquitylation → degradation.
 
 Enzymes involved in activation:
 1. Ubiquitin activating enzyme E1

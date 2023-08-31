@@ -5,13 +5,13 @@ This is a lightweight and searchable medical school note database. The goal is t
 
 > This project is [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
 
-|                                                     |                                                               |                                                               |
-| --------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
-| [Anatomy](https://medschoolatlas.xyz/docs/anatomy/) | [Biochemistry](https://medschoolatlas.xyz/docs/biochemistry/) | [Embryology](https://medschoolatlas.xyz/docs/embryology/)     |
-| Genetics                                            | [Histology](https://medschoolatlas.xyz/docs/histology/)       | Human Sexuality                                               |
-| Immunology                                          | Microbiology                                                  | [Neuroscience](https://medschoolatlas.xyz/docs/neuroscience/) |
-| Nutrition & Health                                  | Pathology                                                     | Pharmacology                                                  |
-| Physiology                                          | Psychiatry                                                    | Resources                                                     |
+|                                                           |                                                               |                                                                     |
+| --------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [Anatomy](https://medschoolatlas.xyz/docs/anatomy/)       | [Biochemistry](https://medschoolatlas.xyz/docs/biochemistry/) | [Embryology](https://medschoolatlas.xyz/docs/embryology/)           |
+| Genetics                                                  | [Histology](https://medschoolatlas.xyz/docs/histology/)       | Human Sexuality                                                     |
+| Immunology                                                | Microbiology                                                  | [Neuroscience](https://medschoolatlas.xyz/docs/neuroscience/)       |
+| Nutrition & Health                                        | Pathology                                                     | Pharmacology                                                        |
+| [Physiology](https://medschoolatlas.xyz/docs/physiology/) | Psychiatry                                                    | [Clinical Skills](https://medschoolatlas.xyz/docs/clinical-skills/) |
 
 These notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education.
 ## Note Taking Principals

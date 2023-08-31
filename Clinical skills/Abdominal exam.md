@@ -10,7 +10,7 @@
 		- **Friction rubs**: Inflammation of peritoneal surface of organ (such as from liver cancer, splenic infarct, chlamydial or gonococcal perihepatitis)
 # Percussion
 **Tympanic sounds**: Drum-like, typically heard over empty, gas filled spaces like the abdomen
-**Resonant sounds**: Low-pitch and hollow, heard in lungs or chest cavity
+**Resonant sounds**: Low-pitched and hollow, heard in lungs or chest cavity
 **Dull sounds**: Heard over denser spaces (like those with organs or fluids)
 
 1. Percuss all 4 quadrants (should sound tympanic)
