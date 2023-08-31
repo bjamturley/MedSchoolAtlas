@@ -34,7 +34,7 @@ Location of migration determines cell type. For instance, dorsal side of neural 
 **- Spiral septum (deficit in crest cells leads to persistent [[Mesoderm - Musculoskeletal and Urogenital#Aortic arch arteries|truncus arteriosus]])**
 **- Schwann cells and glial cells**
 ## Spinal cord
-[[Primer - Circulatory and nervous system#Nerves]]
+[[Circulatory and Nervous System Primer#Nerves]]
 
 BMP signaling on the dorsal side results in the **alar plate (afferent neurons)**. SHH signaling on the ventral side results in the **basal plate (efferent neurons)**. The **sulcus limitans** separates the alar and basal plates.
 # Cerebral development

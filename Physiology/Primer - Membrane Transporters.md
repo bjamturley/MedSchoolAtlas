@@ -1,7 +1,7 @@
 # Properties of the cell membrane
 Lipid soluble substances (O2, CO2, steroid hormones) dissolve in the lipid bilayer and will cross the cell membrane. Water soluble substances (Na+, Cl-, Glucose, H2O) cannot and require a transporter.
 
-![[Primer - Lipids, Membranes, and Membrane Proteins#Membrane notes]]
+![[Lipids, Membranes, and Membrane Proteins#Membrane notes]]
 
 **Integral proteins** span the entire cell and are embedded into the membrane. These are ion channels or transporters, for example.
 **Peripheral proteins** are located on only one side of the membrane.

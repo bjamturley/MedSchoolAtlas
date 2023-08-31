@@ -64,7 +64,7 @@ Membrane composition
 - **Anion transport channel (on surface)**: Allows for gas exchange
 - **Ankyrin (within cell)**: Anchors submembrane skeleton to transporter and maintains cell shape
 
-![[Primer - Carbohydrates and the Sugar Code#ABO blood groups]]
+![[Carbohydrates and Sugar Code Primer#ABO blood groups]]
 ## Measuring RBC volume (Hematocrit)
 For calculation of specific volume, see [[Body Fluid Compartments#Measurement of Compartments]]
 

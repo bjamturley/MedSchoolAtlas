@@ -146,7 +146,7 @@ Sensory signals can only be innervated in lateral horn of T1-L2. However, to get
 Gray (off ramps) are all along the sympathetic trunk. **White (on ramps) only exist at T1-L2**.
 *Gray all the way, white not quite*
 
-For more on white and gray matter, see here: [[Primer - Neuroscience Concepts#White and gray matter]]
+For more on white and gray matter, see here: [[Neuroscience Concepts#White and gray matter]]
 ##### Sympathetic splanchnic nerves
 - Greater (T5-T9)
 - Lesser (T10-T11)

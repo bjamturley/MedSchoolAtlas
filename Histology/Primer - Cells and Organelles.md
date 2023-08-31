@@ -9,7 +9,7 @@ In polarized cells:
 
 Non-polarized cell are generally under differentiation.
 # Plasma membrane
-See: [[Primer - Lipids, Membranes, and Membrane Proteins]]
+See: [[Lipids, Membranes, and Membrane Proteins]]
 
 Phospholipid bilayer: Two long chain fatty acids, three carbon glycerol backbone. Fatty acids are hydrophobic, glycerol is hydrophilic.
 ## Intercellular junctions

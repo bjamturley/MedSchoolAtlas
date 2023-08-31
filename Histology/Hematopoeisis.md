@@ -40,7 +40,7 @@ Erythropoietin (EPO) stimulates erythrocyte production. It is produced by the ki
 Identification of erythrocyte stages
 1. **Proerythroblast**: Has lots of RNA in cytoplasm
 2. **Basophilic erythroblast**: RNA present and stains BLUE
-3. **Polychromatophilic erythroblast**: In the sast stage in which chromatin is not condensed (mitosis can occur). [[Primer - Enzymes#Hemoglobin|Hemoglobin]] production begins and will color cell pink
+3. **Polychromatophilic erythroblast**: In the sast stage in which chromatin is not condensed (mitosis can occur). [[Enzyme Primer#Hemoglobin|Hemoglobin]] production begins and will color cell pink
 4. **Normoblast (Orthochromatophilic Erythroblast)**: Condensed nucleus, no DNA accessible for DNA replication
 5. **Reticulocyte** (1% of RBCs): No nucleus present, but as some RNA which will stain BLUE from cresyl blue supravital stains
 6. **Mature erythrocyte**: No RNA, biconcave disk

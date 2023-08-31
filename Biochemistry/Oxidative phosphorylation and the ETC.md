@@ -44,7 +44,7 @@ The treatment is IV NaNO2 or inhaled Amyl Nitrite. These convert Fe2+ into Fe3+ 
 ## Complex IV: Cytochrome C oxidase
 Electrons from CytoC are passed to oxygen (forming H2O) and 2 protons are pumped into the intermembrane space. **This is the reason we breathe oxygen**.
 
-This step is exergonic ([[Primer - Fuel Metabolism#Gibbs free energy|free energy]] higher in reactants). It has to be because it is at the end of the chain, the inner membrane space is saturated with protons. The transfer to of electrons to oxygen is super exergonic, pushing the other reaction forward.
+This step is exergonic ([[Fuel Metabolism Primer#Gibbs free energy|free energy]] higher in reactants). It has to be because it is at the end of the chain, the inner membrane space is saturated with protons. The transfer to of electrons to oxygen is super exergonic, pushing the other reaction forward.
 ### Result
 **In:**
 - Cytochrome C (2 electrons)
@@ -55,7 +55,7 @@ This step is exergonic ([[Primer - Fuel Metabolism#Gibbs free energy|free energy
 - Water (H2O)
 # Oxidative phosphorylation
 ## ATP synthase thermodynamics
-The high levels of protons pumped into the inner membrane space of the mitochondria makes the reaction to get them out [[Primer - Fuel Metabolism#Gibbs free energy|exergonic]].
+The high levels of protons pumped into the inner membrane space of the mitochondria makes the reaction to get them out [[Fuel Metabolism Primer#Gibbs free energy|exergonic]].
 
 ATP synthase is, therefore, enthalpically and entropically favorable. The dS is positive because the protons are all sorted together in the inner membrane space and the dH is negative because a lot of work was required to move the charges together.
 ## Making ATP

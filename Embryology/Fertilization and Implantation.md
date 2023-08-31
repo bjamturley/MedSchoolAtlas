@@ -34,7 +34,7 @@ cont:
 Exocytosis of granule content causes the **zona pellucida to harden and blocks polyspermy**. This achieved via three things:
 - The ZP3 glycoprotein is inactivated and will no longer bind to sperm
 - The ZP2 glycoprotein is cleaved, hardening the zona pellucida
-- The Ca2+ wave activates protein kinase C (PKC) and [[Signal Transduction#Calcium signaling|Calcium-calmodulin-dependent protein kinase II (CaMKII)]], which causes the **egg to resume meiosis**
+- The Ca2+ wave activates protein kinase C (PKC) and [[Signal Transduction Primer#Calcium signaling|Calcium-calmodulin-dependent protein kinase II (CaMKII)]], which causes the **egg to resume meiosis**
 
 cont:
 6. After resuming meiosis, the male and female pronuclei (23 chromosomes each - haploid), replicate their DNA in the S phase

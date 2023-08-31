@@ -21,11 +21,11 @@ Thiolase adds CoA to the beta carbon and acetyl-CoA is released. This results in
 > 31 NADH = 77.5 ATP
 > **Total: 100 + 8 ATP**
 
-Acetyl-CoA: [[PDC and KREBS!! (TCA)#Pyruvate Dehydrogenase Complex (PDC)]]
+Acetyl-CoA: [[PDC and KREBS (TCA)#Pyruvate Dehydrogenase Complex (PDC)]]
 NADH/FADH: [[Oxidative phosphorylation and the ETC]]
 # Beta oxidation considerations
 ## Odd number fatty acids
-In this case, the last round of beta oxidation will result in a 3 carbon molecule called **Propionyl-CoA**. To this, a carbon is added via **Propionyl-CoA Carboxylase**, creating Methylmalonyl-CoA. Eventually, through a few rearrangements, [[PDC and KREBS!! (TCA)#4. Succinyl-CoA (4C)|Succinyl-CoA]] is generated, which means odd number fatty acids can be slightly anapleurotic for the TCA cycle.
+In this case, the last round of beta oxidation will result in a 3 carbon molecule called **Propionyl-CoA**. To this, a carbon is added via **Propionyl-CoA Carboxylase**, creating Methylmalonyl-CoA. Eventually, through a few rearrangements, [[PDC and KREBS (TCA)#4. Succinyl-CoA (4C)|Succinyl-CoA]] is generated, which means odd number fatty acids can be slightly anapleurotic for the TCA cycle.
 ## Unsaturated fatty acids
 When there is a double bond present, beta oxidation will proceed normally, removing 2 carbons at a time until the double bond is reached. Double bonds on fatty acids are naturally in the *cis* configuration and must be *trans* to continue oxidizing. 
 
@@ -66,7 +66,9 @@ Occurs in the cytosol, using acetyl-CoA produced in the mitochondria. Acetyl-CoA
 
 ![[Pasted image 20230826230913.png]]
 ## Part 1. Acetyl-CoA carboxylase
-This is the regulatory step of fatty acid synthesis and produces malonyl-CoA ([[Delivery of Fuel to the Mitochondria#Carnitine Shuttle|inhibits CAT I]]). This means fatty acid synthesis and fatty acid breakdown cannot happen simultaneously.
+This is the regulatory step of fatty acid synthesis and produces malonyl-CoA ([[Delivery of Fuel to the Mitochondria#Carnitine Shuttle|inhibits CAT I]]). This insures fatty acid synthesis and fatty acid breakdown cannot happen simultaneously. 
+
+It will also be inactivated by Protein Kinase A (PKA) upstream of [[Hormonal Regulation and Signalling#Glucagon|glucagon]] binding when hypoglycemic.
 ## Part 2. Fatty acid synthase
 This is largely the reverse of beta oxidation. Fatty acid synthase (ACP) will bind an acetyl-CoA and a malonyl-CoA. The carboxylic group of malonyl-CoA then leaves as CO2, creating a binding point for acetyl-CoA. The resulting condensation reaction forms a 4 carbon beta keto ACP (opposite of thiolase).
 

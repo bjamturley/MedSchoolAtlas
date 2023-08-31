@@ -1,5 +1,5 @@
 # Kinetics
-When the [[Primer - Fuel Metabolism#Gibbs free energy|free energy]] in the products is less than the free energy of the reactants, the reaction will proceed forward **as long as the product concentration is less than the equilibrium concentration**.
+When the [[Fuel Metabolism Primer#Gibbs free energy|free energy]] in the products is less than the free energy of the reactants, the reaction will proceed forward **as long as the product concentration is less than the equilibrium concentration**.
 ## Reaction velocity
 **Velocity** is defined as the rate of product creation over time. Enzymes decrease the activation energy required for a reaction to occur. Reaction rate will increase until enzymes become saturated (becomes a zero order reaction).
 
