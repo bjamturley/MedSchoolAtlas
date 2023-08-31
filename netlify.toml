@@ -23,8 +23,8 @@ SITE_URL = "https://medschoolatlas.xyz"
 # (Optional) Site Timezone
 TIMEZONE = ""
 ZOLA_VERSION = "0.15.2"
-# (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
-SORT_BY = "title"
+# IMPORTANT
+SORT_BY = "weight"
 # (Optional) Google Analytics Measurement ID
 GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
@@ -42,6 +42,7 @@ ROOT_SECTION_NAME = "Articles"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
+			autoResize: true,
         	nodes: {
         		shape: "dot",
         		color: isDark() ? "#8c8e91" : "#dee2e6",
@@ -61,6 +62,7 @@ GRAPH_OPTIONS = """
         		width: 0.8,
         		smooth: {
         			type: "continuous",
+				roundness: 1
         		},
         		hoverWidth: 4,
         	},
@@ -70,7 +72,8 @@ GRAPH_OPTIONS = """
         	height: "100%",
         	width: "100%",
         	physics: {
-        		solver: "repulsion",
+				solver: "forceAtlas2Based",
+				stabilization: false
         	},
         }
         """
