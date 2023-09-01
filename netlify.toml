@@ -26,7 +26,7 @@ ZOLA_VERSION = "0.15.2"
 # IMPORTANT
 SORT_BY = "weight"
 # (Optional) Google Analytics Measurement ID
-GANALYTICS = "G-FP1EL7X3WH"
+GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.

@@ -16,9 +16,9 @@ This is a lightweight and searchable medical school note guide. The goal is to p
 | Nutrition & Health                                        | Pathology                                                     | Pharmacology                                                        |
 | [Physiology](https://medschoolAtlas.xyz/docs/physiology/) | Psychiatry                                                    | [Clinical Skills](https://medschoolAtlas.xyz/docs/clinical-skills/) |
 
-> This project is [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
+Notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education. We are currently completing Block 1.
 
-These notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education. We are currently completing Block 1.
+> This project is [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
 ## Note Taking Principals
 1. Required information is the only important information
 3. [Readability supersedes density](https://www.youtube.com/watch?v=_K-L9uhsBLM&t=52s)
