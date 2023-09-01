@@ -28,11 +28,11 @@ Location of migration determines cell type. For instance, dorsal side of neural 
 **Other tissues from the neural crest cells**
 - Sensory neurons in the dorsal root ganglia
 - Sympathetic chain ganglia
-**- Pigmented cells (melanocytes)**
+- **Pigmented cells (melanocytes)**
 - Dentin in teeth
 - Adrenal medulla
-**- Spiral septum (deficit in crest cells leads to persistent [[Mesoderm - Musculoskeletal and Urogenital#Aortic arch arteries|truncus arteriosus]])**
-**- Schwann cells and glial cells**
+- **Spiral septum (deficit in crest cells leads to persistent [[Mesoderm - Musculoskeletal and Urogenital#Aortic arch arteries|truncus arteriosus]])**
+- **Schwann cells and glial cells**
 ## Spinal cord
 [[Circulatory and Nervous System Primer#Nerves]]
 
