@@ -1,7 +1,8 @@
+![[logo.png|150]]
 # Welcome to the Medical School Atlas
 ## [Knowledge Web](https://medschoolAtlas.xyz)
 
-This is a lightweight and searchable medical school note database. The goal is to provide a free alternative to overpriced medical education references. Lecture has been made obsolete.
+This is a lightweight and searchable medical school note guide. The goal is to provide an free alternative to overpriced education materials with an emphasis on comprehensibility. Modern resources have made medical lecture obsolete.
 
 > This project is [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
 

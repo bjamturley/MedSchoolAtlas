@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Let's Go Be Doctors 🏃‍♂️"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Lightweight and searchable medical school note platform"
+LANDING_DESCRIPTION = "Lightweight and searchable medical school note guide"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "README"
 # (Optional) Site title on landing page
@@ -15,7 +15,7 @@ PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/bjamturley/MedSchoolAtlas"
 # (Optional) Site title in navbar
-SITE_TITLE = "🩻 Med School Atlas"
+SITE_TITLE = "Med School Atlas"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
@@ -26,13 +26,15 @@ ZOLA_VERSION = "0.15.2"
 # IMPORTANT
 SORT_BY = "weight"
 # (Optional) Google Analytics Measurement ID
-GANALYTICS = ""
+GANALYTICS = "G-FP1EL7X3WH"
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
-PAGE_GRAPH = ""
+PAGE_GRAPH = "y"
+Page graph only shows directly connected nodes. Default: "".
+LOCAL_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
