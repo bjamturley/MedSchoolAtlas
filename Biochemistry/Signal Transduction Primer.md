@@ -77,7 +77,7 @@ Kinases phosphorylate via ATP. This occurs on either tyrosine serine/threonine r
 ### G-Protein coupled receptors (or seven transmembrane receptors)
 Most common target for pharmaceuticals
 - Can release IP3, DAG and Ca2+ via phospholipase C (PLC). 
-	- IP3 will increase Ca2+ via the [[Primer - Cells and Organelles#Endoplasmic reticulum|ER]]
+	- IP3 will increase Ca2+ via the [[Cells and Organelles Primer#Endoplasmic reticulum|ER]]
 	- DAG will activate PKC
 - Can also trigger the Mitogen Activated Protein Kinase (MAPK) cascade. This will trigger cellular proliferation. *Vocab: A mitogen is a substance that triggers cell proliferation*
 ### Receptor tyrosine kinases

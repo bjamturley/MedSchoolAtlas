@@ -8,7 +8,7 @@ Neurotransmitters are released via exocytosis. This process is **calcium depende
 
 Vesicles fuse with the target cell using **SNARE proteins**, specifically **synaptotagmin** which is a Ca2+ sensor. Tetanus and botulinum toxin (Botox) inhibit SNARE function
 
-Vesicles are recycled into the receiving cell via endocytosis. This process is [[Primer - Cells and Organelles#Transport out of ER|clatherin-dependent]]. 
+Vesicles are recycled into the receiving cell via endocytosis. This process is [[Cells and Organelles Primer#Transport out of ER|clatherin-dependent]]. 
 # Key Neurotransmitter Mechanisms
 |                                   | Production                                                                  | Production Enzymes                                                                | Release                                              | Recycling/Degradation                                        |
 | --------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |

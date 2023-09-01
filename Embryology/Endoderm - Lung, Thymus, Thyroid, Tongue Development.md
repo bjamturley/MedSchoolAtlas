@@ -77,6 +77,6 @@ When regions of the lung are not bathed in enough amniotic fluid. TEFs can cause
 ## Congenital Lung Cysts
 When larger bronchioles are dilated during development. These will drain poorly and can result in infections. Treatment involves insertion of a sponge with Bone Morphogenic Protein (BMP). Bone grows in the gap, fusing two vertebrae together.
 ## Cystic Fibrosis
-[[Primer - Cells and Organelles#Protein misfolding|CFTR]] receptors will transport Cl out of the cell. This thins the mucus lining of the lungs. Mutation of CFTR will result in thick mucus and salty skin and generally requires a lung transplant.
+[[Cells and Organelles Primer#Protein misfolding|CFTR]] receptors will transport Cl out of the cell. This thins the mucus lining of the lungs. Mutation of CFTR will result in thick mucus and salty skin and generally requires a lung transplant.
 
 CRISPR can be used to guide Cas-9 to the mutation site in cystic fibrosis and replace it with a functional sequence.

@@ -7,7 +7,7 @@ Hollow, unbranched, and cylindrical. Are **polar** (+/- ends) with variable leng
 - Movement of flagella and cilia
 - Cytokinesis
 - Transport of organelles (kinesin moves towards +, dynein moves towards -)
-- Buddies with the [[Primer - Cells and Organelles#Golgi Complex (Apparatus)|Golgi]], holding it in place and acting as its transport network
+- Buddies with the [[Cells and Organelles Primer#Golgi Complex (Apparatus)|Golgi]], holding it in place and acting as its transport network
 
 **Location**: Neurons, platelets, leukocytes, any dividing cell
 *Neurons have a lot of microtubules because they are constantly sending neurotransmitters*
@@ -48,7 +48,7 @@ Causes by a mutation resulting in the production of Progerin instead of normal L
 # Endocytosis and exocytosis
 Process by which cells send and receive material
 ## Endocytosis
-[[Primer - Cells and Organelles#Transport out of ER]]
+[[Cells and Organelles Primer#Transport out of ER]]
 Stuff coming in the cell, via **invagination** of the cell membrane
 
 **Types**:

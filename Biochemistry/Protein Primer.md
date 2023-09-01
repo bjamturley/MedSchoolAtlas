@@ -44,7 +44,7 @@ Pancreas synthesizes preproinsulin (immature insulin) which has a pre-peptide, p
 Are inactive pro-enzymes which have auto-inhibitory pro-peptides. Usually have the suffix -ogen (e.g. fibrinogen becomes fibrin).
 ## Glycoproteins
 ### N-linked glycosylation
-Important for protein folding in the [[Primer - Cells and Organelles#Endoplasmic reticulum|ER lumen]], recognized by the calnexin/calreticulin chaperone system. The sugar is attached to a polypeptide at an Asn residue. The glycan is added co-translationally. All N-linked glycans have a mannose-rich core.
+Important for protein folding in the [[Cells and Organelles Primer#Endoplasmic reticulum|ER lumen]], recognized by the calnexin/calreticulin chaperone system. The sugar is attached to a polypeptide at an Asn residue. The glycan is added co-translationally. All N-linked glycans have a mannose-rich core.
 ### O-linked glycosylation
 Sugar is attached via a Ser or Thr residue, which happens after the protein is fully folded and entered the golgi.
 ## Proteoglycans
