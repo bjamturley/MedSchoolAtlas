@@ -1,4 +1,4 @@
-![logo|150](https://raw.githubusercontent.com/bjamturley/MedSchoolAtlas/main/Media/images/logo.png)
+![logo|150](https://raw.githubusercontent.com/bjamturley/MedSchoolAtlas/main/Media/images/logo_small.png)
 # Welcome to the Medical School Atlas
 ## [Knowledge Web](https://medschoolAtlas.xyz)
 

@@ -26,14 +26,14 @@ ZOLA_VERSION = "0.15.2"
 # IMPORTANT
 SORT_BY = "weight"
 # (Optional) Google Analytics Measurement ID
-GANALYTICS = ""
+GANALYTICS = "G-FP1EL7X3WH"
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
-Page graph only shows directly connected nodes. Default: "".
+# Page graph only shows directly connected nodes. Default: "".
 LOCAL_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
