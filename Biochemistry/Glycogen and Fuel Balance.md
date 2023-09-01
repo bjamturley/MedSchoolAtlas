@@ -43,8 +43,8 @@ Glucose is converted to glucose-6-phosphate (G6P) through a few intermediate ste
 **Glucokinase** (hexokinase IV) is present in the liver (not skeletal muscle). It will convert free glucose to G6P when glucose is abundant so as to only allow glucose to diffuse out of the cell when blood concentration is low.
 ## Regulation
 Glycogen phosphorylase is activated by **phosphorylase kinase**, which is activated by glucagon, catecholamines, Ca2+, and protein kinase A. Phosphorylase kinase is inactivated by **phosphoprotein phosphatase 1 (PP1)**, turning off glycogen breakdown.
-# Clinical Peals
-## Glycogen Storage Disease Type I (Von Gierke’s Disease)
+# Clinical Pearls
+## Glycogen Storage Disease Type I (Von Gierke's Disease)
 A deficiency in Glucose 6-phosphatase causes glycemia as G6P cannot enter the blood.
 ## Andersen's Disease
 A deficiency in branching enzyme causes rapid glycogen depletion, diminished hyperglycemic response to epinephrine (less non-reducing ends on glycogen), and cirrhosis of the liver.

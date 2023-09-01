@@ -8,8 +8,6 @@
 
 This is a lightweight and searchable medical school note guide. The goal is to provide an free alternative to overpriced education materials with an emphasis on comprehensibility. Modern resources have made medical lecture obsolete.
 
-> This project is [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
-
 |                                                           |                                                               |                                                                     |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Anatomy](https://medschoolAtlas.xyz/docs/anatomy/)       | [Biochemistry](https://medschoolAtlas.xyz/docs/biochemistry/) | [Embryology](https://medschoolAtlas.xyz/docs/embryology/)           |
@@ -17,6 +15,8 @@ This is a lightweight and searchable medical school note guide. The goal is to p
 | Immunology                                                | Microbiology                                                  | [Neuroscience](https://medschoolAtlas.xyz/docs/neuroscience/)       |
 | Nutrition & Health                                        | Pathology                                                     | Pharmacology                                                        |
 | [Physiology](https://medschoolAtlas.xyz/docs/physiology/) | Psychiatry                                                    | [Clinical Skills](https://medschoolAtlas.xyz/docs/clinical-skills/) |
+
+> This project is [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
 
 These notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education. We are currently completing Block 1.
 ## Note Taking Principals
