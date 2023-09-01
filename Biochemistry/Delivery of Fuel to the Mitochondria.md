@@ -19,9 +19,11 @@ The carnitine shuttle is regulated by **malonyl-CoA** which inhibits CAT I. Malo
 # Triacylglycerol  (TAG)
 How [[Lipids, Membranes, and Membrane Proteins|fatty acids]] are stored in the body. Only found in organs which perform gluconeogenesis (liver and kidneys). Starts with glycerol-3-phosphate, which can come from [[Glycolysis and Pentose Phosphate#Glycolysis steps|DHAP]] or by phosphorylating glycerol. Adipocytes rely on DHAP → G3P as they do not perform gluconeogenesis.
 
-TAG generation occurs in the endoplasmic reticulum of hepatocytes and adipocytes, in which fatty acids are esterified onto glycerol with the expenditure of 1 ATP. This makes TAG an energetic investment which is made when energy is abundant. TAGs are always being made, even when starving, but the balance of catabolism and anabolism changes.
+TAG generation occurs in the endoplasmic reticulum of hepatocytes and adipocytes, in which fatty acids are esterified onto the glycerol with the expenditure of 1 ATP. This makes TAG an energetic investment made when energy is abundant. TAGs are always being made, even when starving, but the balance of catabolism and anabolism changes.
 
 Palmitic acid (16C) is the primary fatty acid stored.
+
+![[Pasted image 20230831201855.png]]
 # Storage of fatty acids
 ## Intestines
 Fatty acids are reformed into TAGs within intestinal cells. They are packed in **chylomicrons** with cholesterol and apolipoproteins. These are transported via the lymphatic system and dumped into blood circulation. Blood enzymes will break down the TAGs in chylomicrons, releasing the individual fatty acids. Individual fatty acids will cross straight through cell membranes.

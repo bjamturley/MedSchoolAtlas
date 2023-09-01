@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Let's Go Be Doctors 🏃‍♂️"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Lightweight and searchable medical school note database"
+LANDING_DESCRIPTION = "Lightweight and searchable medical school note platform"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "README"
 # (Optional) Site title on landing page

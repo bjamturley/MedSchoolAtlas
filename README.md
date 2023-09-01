@@ -1,5 +1,5 @@
 # Welcome to the Medical School Atlas
-## [Knowledge Web](https://medschoolatlas.xyz)
+## [Knowledge Web](https://medschoolAtlas.xyz)
 
 This is a lightweight and searchable medical school note database. The goal is to provide a free alternative to overpriced medical education references. Lecture has been made obsolete.
 
@@ -7,13 +7,13 @@ This is a lightweight and searchable medical school note database. The goal is t
 
 |                                                           |                                                               |                                                                     |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Anatomy](https://medschoolatlas.xyz/docs/anatomy/)       | [Biochemistry](https://medschoolatlas.xyz/docs/biochemistry/) | [Embryology](https://medschoolatlas.xyz/docs/embryology/)           |
-| Genetics                                                  | [Histology](https://medschoolatlas.xyz/docs/histology/)       | Human Sexuality                                                     |
-| Immunology                                                | Microbiology                                                  | [Neuroscience](https://medschoolatlas.xyz/docs/neuroscience/)       |
+| [Anatomy](https://medschoolAtlas.xyz/docs/anatomy/)       | [Biochemistry](https://medschoolAtlas.xyz/docs/biochemistry/) | [Embryology](https://medschoolAtlas.xyz/docs/embryology/)           |
+| Genetics                                                  | [Histology](https://medschoolAtlas.xyz/docs/histology/)       | Human Sexuality                                                     |
+| Immunology                                                | Microbiology                                                  | [Neuroscience](https://medschoolAtlas.xyz/docs/neuroscience/)       |
 | Nutrition & Health                                        | Pathology                                                     | Pharmacology                                                        |
-| [Physiology](https://medschoolatlas.xyz/docs/physiology/) | Psychiatry                                                    | [Clinical Skills](https://medschoolatlas.xyz/docs/clinical-skills/) |
+| [Physiology](https://medschoolAtlas.xyz/docs/physiology/) | Psychiatry                                                    | [Clinical Skills](https://medschoolAtlas.xyz/docs/clinical-skills/) |
 
-These notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education.
+These notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education. We are currently completing Block 1.
 ## Note Taking Principals
 1. Required information is the only important information
 3. [Readability supersedes density](https://www.youtube.com/watch?v=_K-L9uhsBLM&t=52s)
