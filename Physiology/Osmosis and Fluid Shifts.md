@@ -1,5 +1,5 @@
 # Movement across semi-permeable membrane
-If a solute is more concentrated in an area but cannot move across a membrane according to its [[Primer - Membrane Transporters#Simple diffusion|concentration gradient]], then water will move across instead. This is measurable as **osmotic pressure.**
+If a solute is more concentrated in an area but cannot move across a membrane according to its [[Membrane Transport Primer#Simple diffusion|concentration gradient]], then water will move across instead. This is measurable as **osmotic pressure.**
 ## Osmotic pressure
 Depends on concentration of particles:
 

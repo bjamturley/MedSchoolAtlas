@@ -23,7 +23,7 @@ Composed of cranial and spinal nerves which connect the CNS to muscles, glands, 
 **Sensory (afferent - arrive) neurons**: Send signal to CNS
 **Motor (efferent - exit) neurons**: Send signal from CNS
 
-For anatomical detail, see here: [[Circulatory and Nervous System Primer#Autonomic nervous system]]
+For anatomical detail, see here: [[Nervous System Primer#Autonomic nervous system]]
 ## Autonomic nervous system
 Responsible for involuntary movement, carries signal from CNS/
 
@@ -41,7 +41,7 @@ White matter contains myelinated axons whereas gray matter contains unmyelinated
 **CNS**: Organized into tracts (axon bundles) or columns (several tracts)
 **PNS**: Organized into nerves (axon bundles)
 
-![[Circulatory and Nervous System Primer#Nerves]]
+![[Nervous System Primer#Nerves]]
 # Neuron Classification
 **Multipolar**: Most common variant in humans. Dendrites > Cell Body > Axon.
 **Bipolar**: Dendrites > Axon > Cell Body > Axon > Dendrites

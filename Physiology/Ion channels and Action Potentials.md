@@ -63,9 +63,9 @@ When depolarization occurs, the channels can open in either direction. Therefore
 
 The local potential (polarization) flowing through the neuron is dependent on the signal strength.
 # Calcium regulation
-**Increased extracellular Ca2+** will result in sodium channels being less sensitive to voltage changes and **require a larger depolarization** to fire. **Decreased Ca2+** will allow sodium channels to open more readily and **require less depolarization** to fire.
+**Increased extracellular Ca2+** will result in sodium channels being less sensitive to voltage changes and **require a larger depolarization** to fire. **Decreased Ca2+** will allow sodium channels to open more readily and **require less depolarization** to fire. Low calcium could result in paralysis or death. 
 
-This is important as low calcium could result in paralysis or death.
+The process of increasing calcium in the cytoplasm to facilitate neurotransmitter release is referred to as **excitation-secretion coupling**. It helps vesicles dock at the presynaptic membrane for exocytosis.
 # Nodes of Ranvier
 Unmyelinated sections of axon which contain voltage-gated sodium and potassium channels. In general, sodium channels are more dense in these nodes, which allows the action potential to jump over the myelin gaps, speeding up transmission. This is referred to as **saltatory conduction**.
 
