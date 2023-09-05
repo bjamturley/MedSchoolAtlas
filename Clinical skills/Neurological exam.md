@@ -118,5 +118,5 @@ Ask patient to take their hand and flip it back and forth as quickly as possible
 Ask patient to tap their foot on your hand as quickly as possible. Repeat for other side.
 ## Leg accuracy
 Ask patient to take their heel and place it on their opposite knee and slide it down their shin and back. Repeat for other side.
-# Gait
+## Gait
 Ask patient to walk across the room and back. Ask them to do the same on their toes and then on their heels. Next, ask them to perform a **tandem walk** one foot in front of the other in a line.
