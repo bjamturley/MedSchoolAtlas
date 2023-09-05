@@ -20,7 +20,7 @@ Made of 5 subunits forming an ion channel. Activates upon binding of **two acety
 ## Clinical pearls
 **Curare**: Competitive antagonist for ACh. *Reversible*
 **Alpha-bungarotoxin**: Competitive antagonist for ACh. *Irreversible*
-**Myasthenia Gravis**: Autoimmune disease which targets ACh receptors, blocking them. Treated with Acetylcholinesterase inhibitor to increase ACh concentration in synapse.
+**Myasthenia Gravis**: Autoimmune disease which targets ACh receptors, blocking them. Treated with Acetylcholinesterase inhibitor to increase ACh concentration in synapse
 # Calcium homeostasis
 Calcium is bound through [[Signal Transduction Primer#Calcium signaling|calmodulin]], calcineurin, calreticulin, and synaptotagmin. It is sequestered (stored) in the [[Cells and Organelles Primer#Smooth ER|SER]] and the mitochondria. It is released from the cell using either a Ca2+ ATPase or a Na/Ca antiporter (3-to-1 exchange) on the cell membrane.
 

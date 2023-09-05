@@ -68,16 +68,16 @@ Other layer types:
 - **Exocrine glands**: Surface or cavity secretions via ducts
 - **Endocrine glands**: Blood stream secretion
 ## Classification
-**1. Number of ducts**
+1. Number of ducts
 	1. Simple (one)
 	2. Compound (multiple)
-**2. Shape of secretory portion**
+2. Shape of secretory portion
 	1. Tubular
 	2. Branched tubular
 	3. Acinar (grape shaped)
 	4. Branched acinar
 	5. Tubuloacinar
-**3. Secretion type**
+3. Secretion type
 	1. Serous (aqueous)
 	2. Mucous (mucinous glycoproteins)
 

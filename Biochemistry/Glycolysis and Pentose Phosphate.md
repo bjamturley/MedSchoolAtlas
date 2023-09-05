@@ -32,15 +32,13 @@ Pyruvate goes on to create citrate in oxidative phosphorylation, which provides 
 # Anaerobic metabolism
 **Lactate dehydrogenate** will oxidize NADH/H+ in anaerobic conditions. This is often conducted by fast-twitch muscle fibers.
 # Pentose phosphate pathway
-PPP reduces NADP+ to NADPH+ (occurs twice) and produce ribose 5-phosphate for biosynthesis.
+PPP reduces NADP+ to NADPH+ (occurs twice) and produce **ribose 5-phosphate** which is used to make DNA/RNA. High NADPH relative to NADP+ will drive the biosynthesis of fatty acids and nucleotides.
 
-High NADPH relative to NADP+ will drive the biosynthesis of fatty acids and nucleotides. ribose 5-phosphate is used to make DNA/RNA.
-
-Oxidative phase: NADP+ is reduced (twice) to NADPH
-Non-oxidative phase: Rebuild a 6-carbon molecule from the 5-carbon form if it isn't used to make ribose 5-phosphate
+**Oxidative phase**: NADP+ is reduced (twice) to NADPH
+**Non-oxidative phase**: Rebuild a 6-carbon molecule from the 5-carbon form if it isn't used to make ribose 5-phosphate
 ## NADPH is important in radical cell defense
-Reduced glutathione will use its unpaired S-H from cystine to match the unpaired electron in a reactive oxygen species (ROS) which would otherwise harm the cell. NADPH will reduce glutathione for this purpose.
+Reduced **glutathione** will use its unpaired S-H from cystine to match the unpaired electron in a reactive oxygen species (ROS) which would otherwise harm the cell. NADPH will reduce glutathione for this purpose.
 ### Clinical pearl: Favism
-For people with a G6P deficiency, the PPP cannot produce NADPH. Because red blood cells do not have mitochondria which would otherwise provide extra NADPH, ROSs represent a serious threat.
+For people with a G6P deficiency, the PPP cannot produce NADPH. Because red blood cells do not have mitochondria for making oxaloacetate which would otherwise converted to extra NADPH, ROSs represent a serious threat.
 
-People with Favism require **supplementation with G6PDH**.
+People with Favism require supplementation with **Glucose-6-phosphate dehydrogenase (G6PDH).**

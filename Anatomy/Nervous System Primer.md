@@ -1,5 +1,7 @@
 # Neuron anatomy
-**Cell body** is where the nucleus resides. Many cell bodies together is a **ganglion in the PNS** and a **nucleus in the CNS**. **Dendrites**: Receive signal
+**Cell body** is where the nucleus resides. Many cell bodies together is a **ganglion in the PNS** and a **nucleus in the CNS**.
+
+**Dendrites**: Receive signal
 **Axon**: Send signal
 
 ![[Neuron anatomy.png]]
