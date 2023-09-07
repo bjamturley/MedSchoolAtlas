@@ -20,11 +20,11 @@ Thiolase adds CoA to the beta carbon and acetyl-CoA is released. This results in
 > 31 NADH = 77.5 ATP
 > **Total: 100 + 8 ATP**
 
-Acetyl-CoA: [[PDC and KREBS (TCA)#Pyruvate Dehydrogenase Complex (PDC)]]
+Acetyl-CoA: [[PDC and Krebs (TCA)#Pyruvate Dehydrogenase Complex (PDC)]]
 NADH/FADH: [[Oxidative phosphorylation and the ETC]]
 # Beta oxidation considerations
 ## Odd number fatty acids
-In this case, the last round of beta oxidation will result in a 3 carbon molecule called **Propionyl-CoA**. To this, a carbon is added via **Propionyl-CoA Carboxylase**, creating Methylmalonyl-CoA. Eventually, through a few rearrangements, [[PDC and KREBS (TCA)#4. Succinyl-CoA (4C)|Succinyl-CoA]] is generated, which means odd number fatty acids can be slightly anapleurotic for the TCA cycle.
+In this case, the last round of beta oxidation will result in a 3 carbon molecule called **Propionyl-CoA**. To this, a carbon is added via **Propionyl-CoA Carboxylase**, creating Methylmalonyl-CoA. Eventually, through a few rearrangements, [[PDC and Krebs (TCA)#4. Succinyl-CoA (4C)|Succinyl-CoA]] is generated, which means odd number fatty acids can be slightly anapleurotic for the TCA cycle.
 ## Unsaturated fatty acids
 When there is a double bond present, beta oxidation will proceed normally, removing 2 carbons at a time until the double bond is reached. Double bonds on fatty acids are naturally in the *cis* configuration and must be *trans* to continue oxidizing. 
 
@@ -58,7 +58,7 @@ The keto group on acetoacetate can be reduced to form beta-hydroxybutyrate via b
 Occurs in the cytosol, using acetyl-CoA produced in the mitochondria. Acetyl-CoA is transported into the cytosol by combining it with oxaloacetate (OAA) which forms citrate. Citrate has a transporter which can be delivered to the cytosol and converted back to acetyl-CoA and OAA.
 
 **Malate in the cytosol has two pathways:**
-- Return to the mitochondria (via malate-alpha ketoglutarate transporter)
+- Return to the mitochondria (via [[Delivery of Fuel to the Mitochondria|malate-alpha ketoglutarate]] transporter)
 - Malic enzyme: Converts malate into pyruvate, forming NADPH. This is an alternate way a patient with [[Glycolysis and Pentose Phosphate#Clinical pearl Favism|Favism]] can form NADPH.
 ## Source of acetyl-CoA
 ***Acetyl-CoA for fatty acid synthesis comes from glucose catabolism, NOT beta-oxidation.*** When acetyl-CoA accumulates from beta oxidation, OAA concentrations will not increase (no pathway). Conversely, in glycolysis pyruvate can be shunted through pyruvate carboxylase to form OAA. Therefore, without the TCA intermediate in beta oxidation, citrate will not be generated and fats will not be synthesized.

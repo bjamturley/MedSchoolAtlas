@@ -33,7 +33,7 @@ There are no dermatomes for the face as sensory information for the head and nec
 
 ![[Nerve innervation locations.png]]
 
-# Autonomic nervous system
+# Autonomic Nervous System
 **Sympathetic**: Thoracolumbar (T1-L2)
 **Parasympathetic**: Cranial nerves (III, VII, IX, X) & S2-4 spinal segments
 
@@ -45,6 +45,8 @@ There are no dermatomes for the face as sensory information for the head and nec
 
 ![[Pasted image 20230811144315.png]]
 ## Sympathetic
+Is responsible for big, stressful responses. Activation will **increase blood pressure** via innervation of blood vessels.
+
 Sensory signals can only be innervated in lateral horn of T1-L2. However, to get innervation elsewhere in the body, signals travel from the ventral (motor) root of the spinal nerve. This central spinal nerve connection is called the **white ramus communicans**.
 
 **Paravertebral ganglia (sympathetic trunk)**: Sympathetic ganglion running vertically along the spinal cord, connecting at each segment
@@ -79,10 +81,18 @@ These will send signals to very specific innervation sites. The lesser splanchni
 #### Referred pain
 Visceral (organ) pain neurons often wire together with sympathetic fibers. The neuron will send a signal along these routes rather than having its own pathway. Therefore, pain will be localized to the region (diffuse) as it activates the entire dermatome. Somatic pain (e.g. pinching the skin), is more specific.
 ## Parasympathetic
-Preganglionic fibers in the PSNS are usually pretty long and synapse directly with the target organ. The **peripheral parasympathetic ganglion** primarily targets the head.
+Preganglionic fibers in the PSNS are usually pretty long and synapse directly with the target organ. The **vagus nerve (cranial nerve X)** is an example of this and will synapse with short post-ganglionic neurons at the end organs of the thorax and abdomen.
+
+The **peripheral parasympathetic ganglion** primarily targets the head.
 
 **Intermural ganglion** (usually rather short): In the walls of the target organ connect connect pre and postganglionic cells
 
-**Preganglionic parasympathetic nerves**
-- **Cranio**:  Nuclei of cranial nerves III (oculomotor), VII (facial), IX (glossopharyngeal), and X (vagus)
-- **Sacral**: Lateral horns of S2-4 (travel along the pelvic spanchnics)
+### Preganglionic parasympathetic nerves
+#### Cranio
+Nuclei of cranial nerves III (oculomotor), VII (facial), IX (glossopharyngeal), and X (vagus)
+
+*Brain Stem → Vagus Nerve (CN X)→ Organs in Thorax and Abdomen*
+#### Sacral
+Lateral horns of S2-4 (travel along the pelvic spanchnics)
+
+*Sacral → Pelvic Nerves → Distal Colon, Bladder, Reproductive Organs*

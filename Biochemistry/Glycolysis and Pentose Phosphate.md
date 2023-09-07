@@ -18,7 +18,7 @@
 - 2 NAD+ → 2NADH
 - Also produces 2 H+, 2 H2O
 
-Pyruvate is sent to [[PDC and KREBS (TCA)]].
+Pyruvate is sent to [[PDC and Krebs (TCA)]].
 ## Regulators of PFK-1
 Step 3 is the rate limiting step of glycolysis.
 

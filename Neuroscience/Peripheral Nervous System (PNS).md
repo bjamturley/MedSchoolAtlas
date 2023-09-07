@@ -1,11 +1,12 @@
 For developmental details, see: [[Ectoderm - Neurulation#Neuroectoderm]].
 For anatomical details, see: [[Nervous System Primer]]
 # Organization
-All of the following systems release **acetylcholine** to simulate their targets, The autonomic-sympathetic system will also release **norepinephrine** and **epinephrine** (if synapsing with the adrenal medulla).
+All of the following systems release **acetylcholine** to simulate their intermediate targets. The autonomic-sympathetic system will release **norepinephrine** and **epinephrine** (in the case of the adrenal medulla) to stimulate the final target. The autonomic-parasympathetic system will use acetylcholine to stimulate the final target.
 
-For neurotransmitter actions, see here: [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms]]
+For neurotransmitter lifecycle, see here: [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms]]
 
 ![[Pasted image 20230902014337.png]]
+An exception to these rules are **sweat glands** which are part of the sympathetic system, but release acetylcholine at target cells.
 ## Somatic Nervous System
 Sensory signals and voluntary muscle movement.
 ## Autonomic Nervous System
@@ -15,7 +16,7 @@ Two opposite autonomic subsystems
 - **Sympathetic nervous system**: Fight or flight
 - **Parasympathetic nervous system**: Rest and digest
 
-For more information, see here: [[Nervous System Primer#Autonomic nervous system]]
+For more anatomical information, see here: [[Nervous System Primer#Autonomic nervous system]]
 ## Enteric Nervous System
 Regulates the muscles of the GI tract and passes along sensory info. Motor signals control peristalsis, churning, and sphincter muscles. Sensory output will provide information about distension and GI contents.
 
@@ -31,8 +32,9 @@ Modulated by sympathetic and parasympathetic nervous systems but will maintain h
 ## Size and Myelination
 Impulses travel faster in [[Ion channels and Action Potentials#Conduction velocity|larger and more myelinated fibers]]. 
 
-- **A/alpha motor neurons**: Largest and most myelinated
-- **A/beta sensory neurons**: Large and myelinated, but not as much as alpha
+- **Alpha motor neurons**: Largest and most myelinated
+- **Beta sensory neurons**: Large and myelinated, but not as much as alpha
+- **Gamma motor neurons**: Thinly myelinated (innervate muscle spindles)
 - **C pain fibers**: Small, unmyelinated, slow
 - **Autonomic neurons**: Slow as they carry information to organs which has less urgency.
 ## Nerve coverings
@@ -40,7 +42,7 @@ Protect the nerve as some areas like those with a lot of movement are more vulne
 
 Made of collagen, support cells, and blood vessels.
 
-- **Endoneurium** (within bundles): Fills space around individual axons outside Schwann cells
+- **Endoneurium** (fills bundles): Fills space around individual axons outside Schwann cells
 - **Perineurium** (around bundles): Surrounds axons or fascicles
 - **Epineurium** (outside nerve): Outermost layer, merges with adipose tissue
 

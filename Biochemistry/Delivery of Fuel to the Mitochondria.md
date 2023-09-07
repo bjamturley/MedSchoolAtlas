@@ -1,5 +1,5 @@
 # Oxaloacetate (OAA)
-OAA is the rate limiting factor for the [[PDC and KREBS (TCA)|TCA (Krebs)]] cycle. Pyruvate can be converted to OAA via pyruvate carboxylase. Glycolysis will generate this pyruvate. However, because glycolysis occurs in the cytoplasm and TCA occurs in the cytosol, OAA must be transported.
+OAA is the rate limiting factor for the [[PDC and Krebs (TCA)|TCA (Krebs)]] cycle. Pyruvate can be converted to OAA via pyruvate carboxylase. Glycolysis will generate this pyruvate. However, because glycolysis occurs in the cytoplasm and TCA occurs in the cytosol, OAA must be transported.
 # Shuttle systems
 ## Malate-Aspartate Shuttle
 The Malate-Aspartate Shuttle will transport reducing agents (specifically NADH from glycolysis) across the inner mitochondrial membrane. Organs which don't rely on aerobic glucose metabolism require this.
