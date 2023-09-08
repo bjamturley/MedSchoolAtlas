@@ -25,11 +25,13 @@ Composed of cranial and spinal nerves which connect the CNS to muscles, glands, 
 
 For anatomical detail, see here: [[Nervous System Primer#Autonomic nervous system]]
 ## Autonomic nervous system
-Responsible for involuntary movement, carries signal from CNS/
+Responsible for involuntary movement, carries signal from CNS
 
 - **Sympathetic nervous system**: Flight or flight
 - **Parasympathetic nervous system**: Rest and digest
 - **Enteric nervous system**: GI tract
+
+For general effects, see here: [[Autonomic Nervous System Effects Primer]]
 ## Somatic nervous system
 Responsible for voluntary muscle movement in skeletal muscle
 # White and Gray Matter

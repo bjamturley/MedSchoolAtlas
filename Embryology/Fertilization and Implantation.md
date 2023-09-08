@@ -28,7 +28,7 @@ Oocytes pre-ovulation cannot be fertilized. The egg post-ovulation can be fertil
 3. Acrosin released during the acrosome reaction eats the glycoproteins
 4. The egg/sperm fuse when the sperm membrane protein **fertilin** binds to integrins on the egg plasma membrane. But we're not sure if this is the case.
 
-cont:
+*cont*:
 5. Sperm fusion initiates **waves of Ca2+** out from the entry point and then oscillations of intercellular concentration. This causes the cortical granules (vesicles underneath egg plasma membrane) to exocytosis their contents (**cortical reaction**). 
 ### Cortical reaction
 Exocytosis of granule content causes the **zona pellucida to harden and blocks polyspermy**. This achieved via three things:
@@ -36,13 +36,15 @@ Exocytosis of granule content causes the **zona pellucida to harden and blocks p
 - The ZP2 glycoprotein is cleaved, hardening the zona pellucida
 - The Ca2+ wave activates protein kinase C (PKC) and [[Signal Transduction Primer#Calcium signaling|Calcium-calmodulin-dependent protein kinase II (CaMKII)]], which causes the **egg to resume meiosis**
 
-cont:
+*cont*:
 6. After resuming meiosis, the male and female pronuclei (23 chromosomes each - haploid), replicate their DNA in the S phase
 7. The pronuclei membranes dissolve and the chromosomes pull apart in metaphase to create a diploid zygote with 46 chromosomes. Abnormal separation of chromosomes is the most common cause of spontaneous abortions. This is also the cause of trisomy 21 (down syndrome).
 # Blastocyst formation
 **Totipotent cells**: Can give rise to any cell, including the placenta
 **Pluripotent cells:** Can give rise to any cell, except the placenta
 **Blastomeres**: Round cells within embryo which divide by mitosis
+
+For more on stem cells, see here: [[Stem Cells]]
 ## 1. Induction
 With our first diploid cell, we now have the zygotic genome. The cells split in two, embryonic genes turn on, and maternal genes turn off
 ## 2. Morula ***(3 - 4 days)***

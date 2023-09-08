@@ -51,7 +51,7 @@ Manifests in infancy or later childhood. Patient will have a high blood lactate 
 - Abnormal eye movements
 - Seizure
 # Krebs (TCA) cycle
-This will take the acetyl-CoA from the PDC and make energy with it. The rate acetyl-CoA can be used **depends on the availability of TCA intermediates** (aka, oxaloacetate).
+This will take the acetyl-CoA from the PDC and make energy with it. The rate acetyl-CoA can be used **depends on the availability of TCA intermediates** (e.g., oxaloacetate).
 
 **Carbons**: 66544444
 *Six, six, five, and five fours*

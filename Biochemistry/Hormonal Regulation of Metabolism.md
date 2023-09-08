@@ -54,3 +54,9 @@ They will also bind **alpha adrenergic receptors**, which are [[Signal Transduct
 3. DAG → PKC (via Ca2+)
 
 *PKC: C for calcium!*
+# Leptin
+Released by adipose tissue, which informs the body it is satiated. It will promote [[Fatty Acid and Ketone Metabolism#Fatty acid (beta) oxidation|beta-oxidation]] and downregulate [[Delivery of Fuel to the Mitochondria#Triacylglycerol (TAG)|TAG]] synthesis. It will interact with the hypothalamus by promoting release of norepinephrine. It will also increase cellular insulin sensitivity as leptin and insulin share a signaling pathway.
+
+Leptin will also activate **AMP kinase (AMPK)**. In the muscle, AMPK will increase uptake of fatty acids and glucose. In the liver, AMPK will slow down fatty acid synthesis.
+
+**Adiponectin** is another peptide hormone released by adipose which upregulates AMPK
