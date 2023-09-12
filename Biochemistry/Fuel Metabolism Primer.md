@@ -1,8 +1,9 @@
 # First law of thermodynamics
 As a system does work, energy is removed from the system.
 ## Enthalpy
-$\Delta H = \Delta U + P \Delta V$
-Where H = enthalpy, U = the change in energy, P = pressure, and V = is volume
+**U** = the change in energy
+**P** = pressure
+**V** = is volume
 
 Enthalpy can be seen as total energy in a system. It goes up when the internal energy (U) goes up and the volume/pressure of the container is high. Work being done or heat being removed (decreasing U) will reduce the total energy.
 

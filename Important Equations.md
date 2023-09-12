@@ -1,3 +1,0 @@
-# Physiology
-# Neuroscience
-# Biochemistry

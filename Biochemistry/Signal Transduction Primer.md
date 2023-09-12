@@ -13,7 +13,7 @@ Receptor (R) + Ligand (L) → RL
 
 At eq., the velocity of formation and dissolution is the same
 
-Kd = $\frac{[R][L]}{[RL]} = \frac{(\frac{1}{k1})}{k1}$
+$K_d = \frac{[R][L]}{[RL]} = \frac{(\frac{1}{k1})}{k1}$
 
 **Lower dissociation constant (Kd) = the tighter binding**
 ## Signal specificity
