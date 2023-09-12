@@ -55,6 +55,6 @@
 	2. 5 posterior and 2 lateral levels (same as above)
 	3. 1 above clavicle and 1 below clavicle (same as above)
 
-Notes on steth
+# Note on steth
 **Diaphragm**: Good for all frequencies
 **Bell**: Good for medium and low frequencies

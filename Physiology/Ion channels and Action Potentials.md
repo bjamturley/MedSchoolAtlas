@@ -74,7 +74,7 @@ Potassium channels will be more concentrated in the perinodal axolemma.
 **Central Nervous System (CNS)**: Oligodendrocytes
 **Peripheral Nervous System (PNS)**: Schwann cells
 
-Loss of myelin will result in **multiple sclerosis (CNS)** and **Guillain-Barre syndrome (PNS)**
+Loss of myelin will result in **multiple sclerosis (MS)** and **Guillain-Barre syndrome (PNS)**
 ## Conduction velocity
 Measures the speed of the action potential down the axon. Large space constant and small time constant maximizes this.
 
