@@ -7,6 +7,8 @@
 ## [Knowledge Web](https://medschoolAtlas.xyz)
 
 This project maintains lightweight and searchable medical school notes. The goal is to provide an free alternative to overpriced education materials with an emphasis on comprehensibility. Modern resources have made medical lecture obsolete.
+
+> This project is [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
 ## Subjects
 |                                                           |                                                               |                                                                     |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -17,11 +19,9 @@ This project maintains lightweight and searchable medical school notes. The goal
 | [Physiology](https://medschoolAtlas.xyz/docs/physiology/) | Psychiatry                                                    | [Clinical Skills](https://medschoolAtlas.xyz/docs/clinical-skills/) |
 ## Equation Cheat Sheets
 [Block 1](https://medschoolatlas.xyz/docs/block-1-equations-cheat-sheet/) | Block 2 | Block 3 | Block 4 | Block 5 | Block 6
-
+## Note Taking Principals
 Notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education. We are currently completing Block 1.
 
-> This project is [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
-## Note Taking Principals
 1. Required information is the only important information
 3. [Readability supersedes density](https://www.youtube.com/watch?v=_K-L9uhsBLM&t=52s)
 4. Present information chronologically
