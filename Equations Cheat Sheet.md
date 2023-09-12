@@ -44,7 +44,7 @@ $q^2$ = homozygous recessive
 $2pq$ = heterozygous 
 # [[Autonomic Nervous System Effects Primer#Heart Circulation|Heart Circulation]]
 ## Mean Arterial Pressure
-## $MAP = CO (\frac{L}{min}) * TPR (\frac{mmHg \times min}{L})$
+## $MAP = CO * TPR$
 
 **CO** = stroke volume (SV) * heart rate (HR)
 **TPR** = Total Peripheral Resistance is the resistance of the entire circulatory system
@@ -56,6 +56,8 @@ $2pq$ = heterozygous
 
 ## Pulse Pressure
 ## *PP = SBP - DBP*
+**SBP** = The contracting pressure, which correlates with the cardiac output (CO). Normally between 90-120 mmHg.
+**DBP** = The arterial pressure when the heart is relaxes, which correlates with total peripheral resistance (TPR). Normally between 60-80 mmHg.
 # [[Resting Potential]]
 ## Voltage
 ## $V = IR$
@@ -65,8 +67,8 @@ $2pq$ = heterozygous
 ## $C = \frac{q}{V}$
 **q** = charge (coulombs)
 **V** = voltage
-## Fick's Law
-Flux (J) is a measurement of particles moving down a concentration gradient per unit time.
+## Particle Movement Down Gradient
+AKA, Fick's Law. Measured in Flux (J).
 ## $J_i = D_i A \frac{C_1 - C_2}{x}$ 
 **Di** = diffusion coefficient
 **A** = cross sectional area
@@ -76,11 +78,12 @@ Flux (J) is a measurement of particles moving down a concentration gradient per 
 ## $J_x = P_x (X_o - X_i)$
 **Px** = permeability coefficient
 **(Xo - Xi)** = concentration difference between outside (o) and inside (i) the cell
-## Nernst Equation (Simplified)
+## Membrane Potential (Simplified)
+AKA, Nernst Equation.
 ## $E_{eq} = \frac{60}{z} * log(\frac{[X_o]}{[X_i]})$
-z = valence (charge of ion, Ca2+ = 2, K+ = 1)
-Xo = concentration outside the cell
-Xi = concentration inside the cell
+**z** = valence (charge of ion, Ca2+ = 2, K+ = 1)
+**Xo** = concentration outside the cell
+**Xi** = concentration inside the cell
 ## Equilibrium Equation (Single Ion)
 ## $I = G(V_m - E_{eq})$
 
@@ -118,9 +121,13 @@ For finding a compartment volume of unknown size.
 # [[Osmosis and Fluid Shifts]]
 ## Permeability to Water
 ## $\sigma = 1 - \frac{P_{solute}}{P_{water}}$
+
+**Ps** = Permeability of solute
+**Pw** = Permeability of water
 ## Osmotic Pressure
 ## $\pi = \sigma icRT$
 
+**σ** = permeability to water
 **c** = concentration
 **R** = gas constant
 **T** = the temperature (in k) of the fluid
