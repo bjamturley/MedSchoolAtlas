@@ -76,7 +76,8 @@ GRAPH_OPTIONS = """
         	physics: {
         		solver: "hierarchicalRepulsion",
             		hierarchicalRepulsion: {
-            			avoidOverlap: 0.7,
+            			avoidOverlap: 0.6,
+				nodeDistance: 200,
         		},
         		stabilization: false
     		},
