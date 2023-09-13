@@ -1,6 +1,6 @@
 The process by which homologous chromosomes exchange alleles.
 # Mechanism
-In prophase I, homologous chromosomes are brought in proximity. During this time, portions of the chromosomes cross over forming **chiasmata**. These sections will recombine and swap before separating again into each daughter cell.
+In *prophase I*, homologous chromosomes are brought in proximity. During this time, portions of the chromosomes cross over forming **chiasmata**. These sections will recombine and swap before separating again into each daughter cell.
 
 **Functions**
 1. Restarting DNA replication forks (when stalled)

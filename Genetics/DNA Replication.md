@@ -1,0 +1,1 @@
+This lecture was truly terrible. More so than what would be expected from our favorite biochemistry professor. It was also full of information pertaining to bacteria, which I refuse to learn until it actually becomes clinically relevant. I will come back to this one when my patience is higher.
