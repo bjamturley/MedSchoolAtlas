@@ -74,7 +74,7 @@ GRAPH_OPTIONS = """
         	height: "100%",
         	width: "100%",
         	physics: {
-				solver: "forceAtlas2Based",
+				solver: "barnesHut",
 				stabilization: false
         	},
         }
