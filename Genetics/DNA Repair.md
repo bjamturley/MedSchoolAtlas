@@ -1,12 +1,12 @@
 # DNA Damage
 ## Nitrous acid
-Exposure to a nitrous acid can accelerate spontaneous deamination of bases. They can result in the following:
+Exposure to nitrous acid can accelerate spontaneous deamination of bases. They can result in the following:
 - Cytosine → Uracil
 - 6-methylcytosine (methylated cytosine) → Thymine
 - Adenine → Hypoxanthine
 - Guanine → Xanthine
 ## UV radiation
-Will lead to the formation of free radicals, which can cause the double bonds in pyrimidines to link, forming a dimer. **Thymine bases are particularly susceptible to this**.
+Leads to the formation of free radicals, which can cause the double bonds in pyrimidines to link, forming a dimer. **Thymine bases are particularly susceptible to this**.
 # Mutation Types
 ## Silent
 Nucleotide mutation encoding for the same amino acid as the original sequences. Does not affect phenotype.
@@ -30,7 +30,7 @@ Fixes small types of damage like **deamination** or **depurination**.
 1. **DNA glycosylase**: Removes damaged base leaving a blank sugar moiety
 2. **AP endonuclease**: Removes the sugar moiety
 3. **DNA polymerase I**: Replaces the damaged base using the template strand
-4. **DNA ligase: S**eals the strand closed (closes the "nick")
+4. **DNA ligase:** Seals the strand closed (closes the "nick")
 
 ![[Pasted image 20230911174741.png]]
 # Nucleotide Excision Repair

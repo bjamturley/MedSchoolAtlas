@@ -1,4 +1,3 @@
-Prepare your butts for this one.
 # Synthesis
 ## Purine De Novo Synthesis
 Occurs in the cytosol of hepatocytes.
@@ -66,7 +65,7 @@ Deficits in HGPRT can lead to excess uric acid, leading to gout.
 **Kelley-Seegmiller syndrome** (~8% HGPRT): Gout, kidney destruction, mild neurological problems
 **Variant Lesch-Nyhan syndrome** (8-15% HGPRT): Mild neurologic problems (some motor dysfunction)
 # Ribonucleotide Reductase (RNR)
-Converts ribonucleoside diphosphates to deoxyribonucleotides. RNR has one subunit with 2 allosteric binding sites (specificity site and activity control site) and 1 catalytic site and another which forms the tyrosine radical necessary for forming thymidine. **The energy for this reaction comes from 2 cysteines and 1 NADPH**.
+Converts ribonucleoside diphosphates to deoxyribonucleotides. RNR has one subunit with 2 allosteric binding sites (specificity site and activity control site), 1 catalytic site, and one final unit which forms the tyrosine radical necessary for forming thymidine. **The energy for this reaction comes from 2 cysteines and 1 NADPH**.
 
 ADP → dADP
 GDP → dGDP
@@ -96,4 +95,4 @@ Pathway:
 
 Thymidylate synthase is a common target for anti-cancer therapies, preventing cells from dividing. **5-fluorouracil** is one such drug, which is a suicide inhibitor of the enzyme (destroying it). Without dTTP, no DNA synthesis will take place.
 
-**Methotrexate**, mentioned above, is another anti-cancer pharmaceutical which will stop the regeneration of tetrahydrofolate (THF) and therefore dTMP (thymidylate).
+**Methotrexate**, mentioned above, is another anti-cancer pharmaceutical which will stop the regeneration of tetrahydrofolate (THF) from folate and therefore block dTMP (thymidylate) synthesis.

@@ -130,7 +130,7 @@ For finding a compartment volume of unknown size.
 
 **pKa** = the point at which half the molecules are protonated  
 **pKa** = *-log(Ka)*
-# [[Inheritance and DNA Structure|Inheritance]]
+# [[Inheritance in Populations|Inheritance in Populations]]
 ## Hardy-Weinberg
 ## $p \text{ (dominant)} + q \text{ (recessive)} = 1 \text{ (total population)}$
 ## $p^2 + q^2 + 2pq = 1$

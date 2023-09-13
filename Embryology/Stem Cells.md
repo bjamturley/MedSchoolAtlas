@@ -10,7 +10,7 @@ Adult stem cells (ASCs) are considered **multipotent** and will form a few cells
 **Induced pluripotent stems cells (iPSCs)** are adult stem cells which have been converted from multipotent to pluripotent. They are created by using viral vectors to transfect genes into fibroblasts.
 
 **Important gene vectors**
-- c-Myc (or LIN-28)
+- [[Transcription#Promoter-Proximal Pausing|c-Myc]] (or LIN-28)
 - Klf4
 - Sox2
 - Oct4

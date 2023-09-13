@@ -66,7 +66,7 @@ Arises from the 4th pharyngeal arch and gives rise to the following subregions.
 **Dorsal intersegmental branches:** Supply the vertebral column, body wall, and limbs
 ## Umbilical vessels
 Disappear after birth. There are two umbilical arteries. The arteries will carry deoxygenated blood away from the fetus to the placenta (to receive oxygenation).
-# Venus System
+# Venous System
 **Vitelline region**: drains blood from the yolk sac and gut tube.
 **Umbilical region**: One umbilical vein which carries oxygenated blood (from the placenta) to the fetus.
 **Cardinal region**: Flows into the sinus venosus and develop the venae cavae.

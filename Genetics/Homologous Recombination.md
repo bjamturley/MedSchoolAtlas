@@ -4,7 +4,7 @@ In prophase I, homologous chromosomes are brought in proximity. During this time
 
 **Functions**
 1. Restarting DNA replication forks (when stalled)
-2. Insure proper segregation of homologous chromosomes (**nondisjunction**)
+2. Ensure proper segregation of homologous chromosomes (**nondisjunction**)
 3. Genetic diversity (mixing of alleles)
 4. Unlinks alleles normally located near each other (and would otherwise be transcribed together)
 ## Clinical pearl: Down syndrome

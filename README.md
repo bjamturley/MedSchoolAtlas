@@ -13,7 +13,7 @@ This project maintains lightweight and searchable medical school notes. The goal
 |                                                           |                                                               |                                                                     |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Anatomy](https://medschoolAtlas.xyz/docs/anatomy/)       | [Biochemistry](https://medschoolAtlas.xyz/docs/biochemistry/) | [Embryology](https://medschoolAtlas.xyz/docs/embryology/)           |
-| Genetics                                                  | [Histology](https://medschoolAtlas.xyz/docs/histology/)       | Human Sexuality                                                     |
+| [Genetics](https://medschoolAtlas.xyz/docs/genetics/)                                                  | [Histology](https://medschoolAtlas.xyz/docs/histology/)       | Human Sexuality                                                     |
 | Immunology                                                | Microbiology                                                  | [Neuroscience](https://medschoolAtlas.xyz/docs/neuroscience/)       |
 | Nutrition & Health                                        | Pathology                                                     | Pharmacology                                                        |
 | [Physiology](https://medschoolAtlas.xyz/docs/physiology/) | Psychiatry                                                    | [Clinical Skills](https://medschoolAtlas.xyz/docs/clinical-skills/) |
