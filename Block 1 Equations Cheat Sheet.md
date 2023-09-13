@@ -21,9 +21,9 @@
 **T** = temperature
 # [[Enzyme Primer|Enzymes]]
 ## Reaction Velocity
-### $k[S]^x$ = $\frac{d[Products]}{time}$ 
+### $Ks^x$ = $\frac{\Delta[products]}{time}$ 
 
-**k\[S] (Ks)** = reaction rate
+**Ks** = reaction rate
 **x** = reaction order
 ## Michaelis-Menten
 ### $V_0 = \frac{V_{max}[S]}{K_m + [S]}$

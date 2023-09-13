@@ -72,8 +72,8 @@ Induced by thrombopoietin (TPO)
 # Classification of leukemias
 A **lymphoma** is a neoplasm of **lymphocytes**. A **leukemia** is a neoplasm of **leukocytes**.
 
-Hodgkin's Lymphoma: Characterized by presence of Reed Sternberg cells. Has 5 subtypes
-Non-Hodgkin's Lymphoma: 12 B cell and 12 T cell subtypes
+**Hodgkin's Lymphoma**: Characterized by presence of Reed Sternberg cells. Has 5 subtypes
+**Non-Hodgkin's Lymphoma**: 12 B cell and 12 T cell subtypes
 
 **Acute leukemia**: Cancer of immature blood cells. Deficiency in mature forms of these cells will exacerbate the condition
 **Chronic leukemia**: Cancer of mature blood cells (less aggressive than acute)

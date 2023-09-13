@@ -67,6 +67,10 @@ Other layer types:
 - **Strome**: Connective tissue between parenchyma
 - **Exocrine glands**: Surface or cavity secretions via ducts
 - **Endocrine glands**: Blood stream secretion
+## Modes of Secretion
+1. **Merocrine** (most common): Vesicular release
+2. **Apocrine**: When vesicles are so large, a portion of the cell is released (e.g. mammary glands)
+3. **Holocrine**: Whole cell is shed (e.g. sebaceous glands)
 ## Classification
 1. Number of ducts
 	1. Simple (one)
@@ -80,11 +84,6 @@ Other layer types:
 3. Secretion type
 	1. Serous (aqueous)
 	2. Mucous (mucinous glycoproteins)
-
-**Modes of secretion**
-1. **Merocrine** (most common): Vesicular release
-2. **Apocrine**: When vesicles are so large, a portion of the cell is released (e.g. mammary glands)
-3. **Holocrine**: Whole cell is shed (e.g. sebaceous glands)
 
 ![[Pasted image 20230814162533.png]]
 

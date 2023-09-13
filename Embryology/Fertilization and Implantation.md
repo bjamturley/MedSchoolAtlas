@@ -26,7 +26,7 @@ Oocytes pre-ovulation cannot be fertilized. The egg post-ovulation can be fertil
 1. Acrosomal membrane of the sperm breaks down and releases **hyaluronidase**, which eats away at the hyaluronic acid holding together the **corona radiata**.
 2. Sperm can then bind to the zona pellucida (egg shell), which is composed of 3 glycoproteins (ZP1, ZP2, and ZP3)
 3. Acrosin released during the acrosome reaction eats the glycoproteins
-4. The egg/sperm fuse when the sperm membrane protein **fertilin** binds to integrins on the egg plasma membrane. But we're not sure if this is the case.
+4. The egg/sperm fuse when the sperm membrane protein **fertilin** binds to [[Signal Transduction Primer#Adhesion receptor Integrins|integrin]] on the egg plasma membrane. But we're not sure if this is the case.
 
 *cont*:
 5. Sperm fusion initiates **waves of Ca2+** out from the entry point and then oscillations of intercellular concentration. This causes the cortical granules (vesicles underneath egg plasma membrane) to exocytosis their contents (**cortical reaction**). 
@@ -60,7 +60,7 @@ The blastocele is formed and pushes the inner cell mass to one side. At this poi
 # Implantation
 
 ## 1. Adhering to uterine wall
-At this point, the blastocyst is hanging out in the uterus. The trophectoderm attaches to the endometrial epithelium (one-cell thick) at the embryonic pole. The trophoblast cells first express **selectins** which loosely attach, than express **integrins** which tightly attach.
+At this point, the blastocyst is hanging out in the uterus. The trophectoderm attaches to the endometrial epithelium (one-cell thick) at the embryonic pole. The trophoblast cells first express **selectins** which loosely attach, than express **[[Signal Transduction Primer#Adhesion receptor Integrins|integrins]]** which tightly attach.
 
 The blastocyst then secretes metalloproteases (MMPs) that eat the uterine epithelium. The cell then moves towards the **decidua**.
 

@@ -59,6 +59,8 @@ Stuff coming in the cell, via **invagination** of the cell membrane
 	- For example, if a cell wants to push bacteria into the lymph
 ## Exocytosis
 Transport out of the cell. Cells often branch off the golgi and then fuse with the plasma membrane to release the contents.
+
+For more see: [[Histological Techniques, Epithelium, and Glands#Modes of Secretion]]
 # Peroxisomes
 Have a single thin membrane with a granular matrix on the inside. They uptake proteins from the cytoplasm to self-replicate.
 
