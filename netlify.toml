@@ -74,8 +74,12 @@ GRAPH_OPTIONS = """
         	height: "100%",
         	width: "100%",
         	physics: {
-				solver: "hiearchicalRepulsion",
-				stabilization: false
-        	},
+        		solver: "hierarchicalRepulsion",
+            		hierarchicalRepulsion: {
+            			springConstant: 0.005,
+            			avoidOverlap: 0.2,
+        		},
+        		stabilization: false
+    		},
         }
         """
