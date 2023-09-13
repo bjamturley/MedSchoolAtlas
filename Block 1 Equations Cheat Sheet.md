@@ -1,12 +1,3 @@
-# [[pH and Blood Buffering]]
-## Protons in Solution
-## $pH = log \frac{1}{[H+]}$
-## $pH = -log[H+]$
-## Henderson-Hassall Bach
-## $pH = pKa + log \frac{[\text{conj. base}]}{[\text{acid}]}$
-
-**pKa** = the point at which half the molecules are protonated  
-**pKa** = *-log(Ka)*
 # [[Fuel Metabolism Primer|Thermodynamics]]
 ## Enthalpy
 ## $\Delta H = \Delta U + P \Delta V$
@@ -15,18 +6,18 @@
 **P** = pressure
 **V** = is volume
 ## Gibbs Free Energy
-### $\Delta G = \Delta H - T \Delta S$
+## $\Delta G = \Delta H - T \Delta S$
 **Gibbs (G)** = free energy of a system
 **S** = entropy (a measure of disorder) 
 **T** = temperature
 # [[Enzyme Primer|Enzymes]]
 ## Reaction Velocity
-### $Ks^x$ = $\frac{\Delta[products]}{time}$ 
+## $Ks^x$ = $\frac{\Delta[products]}{time}$ 
 
 **Ks** = reaction rate
 **x** = reaction order
 ## Michaelis-Menten
-### $V_0 = \frac{V_{max}[S]}{K_m + [S]}$
+## $V_0 = \frac{V_{max}[S]}{K_m + [S]}$
 
 **Vmax** = maximum velocity
 **Km** = half of the maximum velocity
@@ -34,26 +25,17 @@
 ## Dissociation Constant
 Receptor (R) + Ligand (L) → RL
 ## $K_d = \frac{[R][L]}{[RL]}$
-# [[Inheritance and DNA Structure|Inheritance]]
-## Hardy-Weinberg
-## $p \text{ (dominant)} + q \text{ (recessive)} = 1 \text{ (total population)}$
-## $p^2 + q^2 + 2pq = 1$
-
-$p^2$ = homozygous dominant
-$q^2$ = homozygous recessive
-$2pq$ = heterozygous 
 # [[Autonomic Nervous System Effects Primer#Heart Circulation|Heart Circulation]]
 ## Mean Arterial Pressure
 ## $MAP = CO * TPR$
 
-**CO** = stroke volume (SV) * heart rate (HR)
-**TPR** = Total Peripheral Resistance is the resistance of the entire circulatory system
+**CO (Cardiac Output)** = stroke volume (SV) * heart rate (HR)
+**TPR (Total Peripheral Resistance)** =  The resistance of the entire circulatory system
 
 ## $MAP = \frac{DBP + (SBP - DBP)}{3}$
 
 **SBP** = The contracting pressure, which correlates with the cardiac output (CO). Normally between 90-120 mmHg.
 **DBP** = The arterial pressure when the heart is relaxes, which correlates with total peripheral resistance (TPR). Normally between 60-80 mmHg.
-
 ## Pulse Pressure
 ## *PP = SBP - DBP*
 **SBP** = The contracting pressure, which correlates with the cardiac output (CO). Normally between 90-120 mmHg.
@@ -136,6 +118,23 @@ For finding a compartment volume of unknown size.
 ## $J_v = \text{Pressure Out} - \text{Pressure In}$
 
 **Pc** = Capillary pressure. Force pointing out from pumping of the heart
-**Pif** = Interstitial fluid pressure. Force pointing in from interstitial fluid
+**Pif** = Interstitial fluid pressure. Force pointing in from hydrostatics
 **$\Pi$p** = Plasma colloid osmotic pressure. Force pointing in from proteins (solute)
 **$\Pi$if** = Interstitial fluid colloid osmotic pressure. Force pointing out from proteins (solute) in the interstitial fluid
+# [[pH and Blood Buffering]]
+## Protons in Solution
+## $pH = log \frac{1}{[H+]}$
+## $pH = -log[H+]$
+## Henderson-Hassall Bach
+## $pH = pKa + log \frac{[\text{conj. base}]}{[\text{acid}]}$
+
+**pKa** = the point at which half the molecules are protonated  
+**pKa** = *-log(Ka)*
+# [[Inheritance and DNA Structure|Inheritance]]
+## Hardy-Weinberg
+## $p \text{ (dominant)} + q \text{ (recessive)} = 1 \text{ (total population)}$
+## $p^2 + q^2 + 2pq = 1$
+
+$p^2$ = homozygous dominant
+$q^2$ = homozygous recessive
+$2pq$ = heterozygous 
