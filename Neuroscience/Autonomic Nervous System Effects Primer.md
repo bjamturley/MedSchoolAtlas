@@ -39,7 +39,7 @@ The **Total Peripheral Resistance (TPR)** is the resistance of the entire circul
 1. **Venus return (VR)**: Blood returning to the heart (right atrium) each minute. Normal VR is  5L/minute.
 2. **Stroke volume (SV)**: Amount of blood pumped out of the **left ventricle** each beat. Normal stroke volume (SV) is 70ml/beat.
 3. **Cardiac output (CO)**: Amount of blood pumped out of the **left ventricle** each minute. Normal CO is  5L/minute. This should equal VR.
-
+___
 1. ***VR (L/min)** = venous tone (VT) * blood volume (BV)*
 2. ***SV (L/beat)** = contractility * venus return (VR)*
 3. ***CO (L/min)** = stroke volume (SV) * heart rate (HR)*

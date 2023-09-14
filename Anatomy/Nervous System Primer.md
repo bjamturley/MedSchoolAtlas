@@ -52,7 +52,7 @@ Sensory signals can only be innervated in lateral horn of T1-L2. However, to get
 **Paravertebral ganglia (sympathetic trunk)**: Sympathetic ganglion running vertically along the spinal cord, connecting at each segment
 **Prevertebral ganglia**: SNS ganglia located away from sympathetic chain ganglia at the anterior midline of the aorta
 ### Pathway
-From *brain → body
+From *brain → body*
 1. Lateral horn (T1-L2)
 2. Ventral root (joins with Dorsal root) to form spinal nerve
 5. White ramus communicans (myelinated)
