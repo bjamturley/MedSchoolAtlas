@@ -22,11 +22,11 @@ The pancreas uses GLUT-2 transporters, meaning the glucose levels in the blood a
 ### Downstream effects
 As insulin is released, it binds to the insulin receptor (a [[Signal Transduction Primer#Receptor tyrosine kinases|Tyrosine Kinase Receptor]]). This will stimulate **Protein Kinase B (PKB)** which increases insertion of GLUT-4 in the cell membrane (more glucose uptake). It will also phosphorylate glycogen synthase kinase (inactivating it) so that glycogen synthase remains in its inactive, phosphorylated state.
 
-The glucose can then be converted to [[Delivery of Fuel to the Mitochondria#Triacylglycerol (TAG)|glycerol-3-phosphate (G3P)]] from DHAP (glycolysis) for TAG formation.
+The glucose can then be converted to [[Fatty Acid and Ketone Metabolism#Triacylglycerols (TAGs)|glycerol-3-phosphate (G3P)]] from DHAP (glycolysis) for TAG formation.
 # Glucagon
 Secreted from pancreatic alpha islets. Responds to low glucose breaking down glycogen in the liver by lowering Fructose-2,6-Bisphosphate (F26BP) concentrations, an upregulator of [[Glycolysis and Pentose Phosphate#Regulators of PFK-1|PFK-1]] in the glycolysis.
 
-It will also inhibit glycogen synthesis by phosphorylating [[Glycogen and Fuel Balance#Regulation|glycogen synthase]] as well as inhibit fatty acid synthesis by inhibiting [[Fatty Acid and Ketone Metabolism#Part 1. Acetyl-CoA carboxylase|acetyl-CoA carboxylase]] via cAMP activation of protein kinase A (PKA). PKA has the secondary function of activating [[Delivery of Fuel to the Mitochondria#Adipose tissue|lipase]] in adipocytes to break down TAGs.
+It will also inhibit glycogen synthesis by phosphorylating [[Glycogen and Fuel Balance#Regulation|glycogen synthase]] as well as inhibit fatty acid synthesis by inhibiting [[Fatty Acid and Ketone Metabolism#Part 1. Acetyl-CoA carboxylase|acetyl-CoA carboxylase]] via cAMP activation of protein kinase A (PKA). PKA has the secondary function of activating [[Fatty Acid and Ketone Metabolism#Adipose tissue|lipase]] in adipocytes to break down TAGs.
 ## Signal transduction
 The glucagon receptor is a [[Signal Transduction Primer#G-Protein coupled receptors (or seven transmembrane receptors)|GPCR]] receptor.
 1. Gs → cAMP
@@ -55,7 +55,7 @@ They will also bind **alpha adrenergic receptors**, which are [[Signal Transduct
 
 *PKC: C for calcium!*
 # Leptin
-Released by adipose tissue, which informs the body it is satiated. It will promote [[Fatty Acid and Ketone Metabolism#Fatty acid (beta) oxidation|beta-oxidation]] and downregulate [[Delivery of Fuel to the Mitochondria#Triacylglycerol (TAG)|TAG]] synthesis. It will interact with the hypothalamus by promoting release of norepinephrine. It will also increase cellular insulin sensitivity as leptin and insulin share a signaling pathway.
+Released by adipose tissue, which informs the body it is satiated. It will promote [[Fatty Acid and Ketone Metabolism#Fatty acid (beta) oxidation|beta-oxidation]] and downregulate [[Fatty Acid and Ketone Metabolism#Triacylglycerols (TAGs)|TAG]] synthesis. It will interact with the hypothalamus by promoting release of norepinephrine. It will also increase cellular insulin sensitivity as leptin and insulin share a signaling pathway.
 
 Leptin will also activate **AMP kinase (AMPK)**. In the muscle, AMPK will increase uptake of fatty acids and glucose. In the liver, AMPK will slow down fatty acid synthesis.
 

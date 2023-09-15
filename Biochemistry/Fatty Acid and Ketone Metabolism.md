@@ -1,3 +1,20 @@
+# Triacylglycerols (TAGs)
+How [[Lipids, Membranes, and Membrane Proteins|fatty acids]] are stored in the body. Only found in organs which perform gluconeogenesis (liver and kidneys). Starts with glycerol-3-phosphate (G3P), which can come from [[Glycolysis and Pentose Phosphate#Glycolysis steps|DHAP]] or by phosphorylating glycerol. Adipocytes rely on DHAP → G3P as they do not perform gluconeogenesis.
+
+TAG generation occurs in the endoplasmic reticulum of hepatocytes and adipocytes, in which fatty acids are esterified into glycerol (costs 1 ATP). TAG is an energetic investment made when energy is abundant. TAGs are always being made, even when starving, but the balance of catabolism and anabolism changes.
+
+**Palmitic acid (16C)** is the primary fatty acid stored.
+
+![[Pasted image 20230831201855.png]]
+# Storage of Fatty Acids
+## Intestines
+Fatty acids are reformed into TAGs within intestinal cells. They are packed in **chylomicrons** with cholesterol and apolipoproteins. These are transported via the lymphatic system and dumped into blood circulation. Blood enzymes will break down the TAGs in chylomicrons, releasing the individual fatty acids. Individual fatty acids will cross straight through cell membranes.
+## Liver
+The liver has its own chylomicrons called VLDL. This contains apolipoproteins and TAGs produced from the liver's conversion of glucose to fatty acids. These liver chylomicrons will also enter the blood.
+## Adipose tissue
+Catecholamine receptors on adipose will signal cyclic AMP and Protein Kinase A (PKA). PKA phosphorylates **hormone-sensitive lipase (HSL)** and **perilipin**.
+
+Perilipin is a protein which studs the outside of a fat droplet to encapsulate it. When phosphorylated, it allows HSL to free the TAGs in the droplet which will diffuse them into capillaries. Adipose fats will bind to albumin which provide an escort to cells.
 # Fatty acid (beta) oxidation
 ## 1. Acyl-CoA dehydrogenase
 Palmitoyl-CoA is oxidized into trans-delta 2-enoyl-CoA, yielding FADH2.
@@ -29,7 +46,7 @@ In this case, the last round of beta oxidation will result in a 3 carbon molecul
 When there is a double bond present, beta oxidation will proceed normally, removing 2 carbons at a time until the double bond is reached. Double bonds on fatty acids are naturally in the *cis* configuration and must be *trans* to continue oxidizing. 
 
 **Solution**: The enzyme **delta 3, delta 2-enoyl-CoA isomerase** will preposition the double bond.
-# Comparison to glucose metabolism
+# Comparison to Glucose Metabolism
 [[Glycolysis and Pentose Phosphate#Glycolysis steps|Glycolysis]] yields less ATP per carbon and is bulkier when stored as glycogen as compared to triacylglycerols. However, beta oxidation yields a higher proportion of FADH2 relative to NADH as compared to glycolysis. Therefore, glycolysis will yield more ATP molecules per molecule of oxygen.
 
 Additionally, beta oxidation produces reactive oxygen species (ROS) on net, whereas glycolysis will share products with the [[Glycolysis and Pentose Phosphate#NADPH is important in radical cell defense|Pentose Phosphate Pathway]] to produce NADPH which counteract ROS formation.
@@ -54,7 +71,7 @@ This step insures ketone bodies are only produced under excess acetyl-CoA condit
 An acetyl-CoA is cleaved from the molecule, forming acetoacetate
 ## 4. Formation of beta-hydroxybutyrate
 The keto group on acetoacetate can be reduced to form beta-hydroxybutyrate via beta-hydroxybutyrate dehydrogenase. NADH is the cofactor.
-# Fatty acid synthesis
+# Fatty Acid Synthesis
 Occurs in the cytosol, using acetyl-CoA produced in the mitochondria. Acetyl-CoA is transported into the cytosol by combining it with oxaloacetate (OAA) which forms citrate. Citrate has a transporter which can be delivered to the cytosol and converted back to acetyl-CoA and OAA.
 
 **Malate in the cytosol has two pathways:**
