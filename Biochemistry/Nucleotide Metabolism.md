@@ -1,5 +1,5 @@
 # Synthesis
-## Purine De Novo Synthesis
+## Purine Synthesis
 Occurs in the cytosol of hepatocytes.
 
 1. In the [[Glycolysis and Pentose Phosphate#Pentose phosphate pathway|pentose phosphate pathway]], ribose 5-P is converted to PRPP (via **PRPP synthase**)
@@ -14,7 +14,7 @@ Occurs in the cytosol of hepatocytes.
 	- → Adenylosuccinate → AMP (requires GTP)
 
 Each of these formation steps are inhibited by different combinations of substances. Adenylosuccinate synthetase, for example, is inhibited by just AMP whereas PRPP amidotransferase requires both GMP and AMP to be inhibited. This means purine levels can be regulated by partial inhibition.
-## Pyrimidine De Novo Synthesis
+## Pyrimidine Synthesis
 This one isn't as important.
 
 1. Fabrication of pyrimidine ring as orotate

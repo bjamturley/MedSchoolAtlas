@@ -1,5 +1,5 @@
-# Fatty acid structure
-Have a carboxyl group on the alpha end of a hydrocarbon tail. The omega carbon is the final carbon on a tail.
+# Fatty Acid Structure
+Have a carboxyl group on the alpha end of a hydrocarbon tail. The **omega carbon** is the final carbon on a tail.
 
 When the tail has double bonds (unsaturation = removing electrons), add a Δ at the position of the double bond. For example: 16:1(Δ5) is a fatty acid with 16 carbons and one double bond at position 5.
 
@@ -16,11 +16,13 @@ Only lipid used for energy storage. Contains 3 fatty acids (ester bonds). No pol
 ![[Pasted image 20230813171545.png]]
 ## Glycerophospholipids
 Derived from *phosphatidic acid* (glycerol + 2 fatty acids and phosphate). Has a **phosphatidyl-insert head group**.
+
 ![[Pasted image 20230813171254.png]]
 
 ![[Pasted image 20230813171216.png]]
 ## Plasmalogens
 These are precursors to signaling molecules (e.g. platelet activating factor). Similar structure to phospholipids, but has an **ether** linkage.
+
 ![[Pasted image 20230813171922.png]]
 ## Sphingolipids
 These are important for sugar coating (glycocalyx) mammalian cells. Also a key player in blood groups. Defects can cause lysosomal storage diseases. Has a sphingosine backbone, a fatty acid tail, and a polar head group.
@@ -33,7 +35,7 @@ These are important for sugar coating (glycocalyx) mammalian cells. Also a key p
 Has 4 rings and a polar head group.
 ![[Pasted image 20230813172921.png]]
 
-**Notable alumni:**
+**Notable alumni**
 - Cholesterol
 - Fat soluble vitamins E/A/K
 - Ubiquinone (electron carrier)
