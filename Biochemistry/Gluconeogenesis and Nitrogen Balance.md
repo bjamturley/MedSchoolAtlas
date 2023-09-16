@@ -7,9 +7,9 @@ This step occurs in the mitochondria with recently formed pyruvate. This is conv
 
 Once the OAA is in the cytosol, it is converted to phosphoenolpyruvate (PEP), the intermediate above the irreversible pyruvate kinase step.
 
-*NOTE: During this step, pyruvate kinase is inhibited by alanine and also by phosphorylate via [[Hormonal Regulation of Metabolism#Glucagon|PKA]].*
+*NOTE: During this step, pyruvate kinase is inhibited by [[Anaerobic Metabolism|alanine]] and also by phosphorylate via [[Hormonal Regulation of Metabolism#Glucagon|PKA]].*
 ### Alternative pathway
-OAA can be converted directly to phosphoenolpyruvate (PEP), but this will not regenerate NADH and will require input from the oxidation of lactate to pyruvate.
+OAA can be converted directly to **phosphoenolpyruvate (PEP)**, but this will not regenerate NADH and will require input from the oxidation of [[Anaerobic Metabolism|lactate to pyruvate]].
 ## Bypass 2: Phosphofructokinase (PFK-1)
 This step can by reversed by the conversion of fructose-1,6 bisphosphate (F1,6BP) to fructose-6-phosphate (F6P) via **Fructose 1,6 bisphosphatase (FBP-1)**.
 ### Regulation

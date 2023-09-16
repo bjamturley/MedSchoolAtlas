@@ -50,6 +50,24 @@ When there is a double bond present, beta oxidation will proceed normally, remov
 [[Glycolysis and Pentose Phosphate#Glycolysis steps|Glycolysis]] yields less ATP per carbon and is bulkier when stored as glycogen as compared to triacylglycerols. However, beta oxidation yields a higher proportion of FADH2 relative to NADH as compared to glycolysis. Therefore, glycolysis will yield more ATP molecules per molecule of oxygen.
 
 Additionally, beta oxidation produces reactive oxygen species (ROS) on net, whereas glycolysis will share products with the [[Glycolysis and Pentose Phosphate#NADPH is important in radical cell defense|Pentose Phosphate Pathway]] to produce NADPH which counteract ROS formation.
+# Fatty Acid Synthesis
+Occurs in the cytosol, using acetyl-CoA produced in the mitochondria. Acetyl-CoA is transported into the cytosol by combining it with oxaloacetate (OAA) which forms citrate. Citrate has a transporter which can be delivered to the cytosol and converted back to acetyl-CoA and OAA.
+
+**Malate in the cytosol has two pathways:**
+- Return to the mitochondria (via [[Delivery of Fuel to the Mitochondria|malate-alpha ketoglutarate]] transporter)
+- Malic enzyme: Converts malate into pyruvate, forming NADPH. This is an alternate way a patient with [[Glycolysis and Pentose Phosphate#Clinical pearl Favism|Favism]] can form NADPH.
+## Source of acetyl-CoA
+***Acetyl-CoA for fatty acid synthesis comes from glucose catabolism, NOT beta-oxidation.*** When acetyl-CoA accumulates from beta oxidation, OAA concentrations will not increase (no pathway). Conversely, in glycolysis pyruvate can be shunted through pyruvate carboxylase to form OAA. Therefore, without the TCA intermediate in beta oxidation, citrate will not be generated and fats will not be synthesized.
+
+![[Pasted image 20230826230913.png]]
+## Part 1. Acetyl-CoA carboxylase
+This is the regulatory step of fatty acid synthesis and produces malonyl-CoA ([[Delivery of Fuel to the Mitochondria#Carnitine Shuttle|inhibits CAT I]]). This insures fatty acid synthesis and fatty acid breakdown cannot happen simultaneously. 
+
+It will also be inactivated by Protein Kinase A (PKA) upstream of [[Hormonal Regulation of Metabolism#Glucagon|glucagon]] binding when hypoglycemic.
+## Part 2. Fatty acid synthase
+This is largely the reverse of beta oxidation. Fatty acid synthase (ACP) will bind an acetyl-CoA and a malonyl-CoA. The carboxylic group of malonyl-CoA then leaves as CO2, creating a binding point for acetyl-CoA. The resulting condensation reaction forms a 4 carbon beta keto ACP (opposite of thiolase).
+
+*Note: The electron carrier for these steps is NADPH rather than NADH.*
 # Ketogenesis
 Ketone bodies are produced only in the liver from fatty acids when starving. These must be converted into acetyl-CoA in other tissues around the body as the liver does not have the necessary enzyme, **beta-ketoacyl-CoA transferase**. The brain will also express this enzyme when starving to use ketone bodies as fuel. This process uses Succinyl-CoA to transfer the Coenzyme A to Acetoacetate, bypassing the succinyl-CoA synthase step of the TCA.
 
@@ -71,21 +89,3 @@ This step insures ketone bodies are only produced under excess acetyl-CoA condit
 An acetyl-CoA is cleaved from the molecule, forming acetoacetate
 ## 4. Formation of beta-hydroxybutyrate
 The keto group on acetoacetate can be reduced to form beta-hydroxybutyrate via beta-hydroxybutyrate dehydrogenase. NADH is the cofactor.
-# Fatty Acid Synthesis
-Occurs in the cytosol, using acetyl-CoA produced in the mitochondria. Acetyl-CoA is transported into the cytosol by combining it with oxaloacetate (OAA) which forms citrate. Citrate has a transporter which can be delivered to the cytosol and converted back to acetyl-CoA and OAA.
-
-**Malate in the cytosol has two pathways:**
-- Return to the mitochondria (via [[Delivery of Fuel to the Mitochondria|malate-alpha ketoglutarate]] transporter)
-- Malic enzyme: Converts malate into pyruvate, forming NADPH. This is an alternate way a patient with [[Glycolysis and Pentose Phosphate#Clinical pearl Favism|Favism]] can form NADPH.
-## Source of acetyl-CoA
-***Acetyl-CoA for fatty acid synthesis comes from glucose catabolism, NOT beta-oxidation.*** When acetyl-CoA accumulates from beta oxidation, OAA concentrations will not increase (no pathway). Conversely, in glycolysis pyruvate can be shunted through pyruvate carboxylase to form OAA. Therefore, without the TCA intermediate in beta oxidation, citrate will not be generated and fats will not be synthesized.
-
-![[Pasted image 20230826230913.png]]
-## Part 1. Acetyl-CoA carboxylase
-This is the regulatory step of fatty acid synthesis and produces malonyl-CoA ([[Delivery of Fuel to the Mitochondria#Carnitine Shuttle|inhibits CAT I]]). This insures fatty acid synthesis and fatty acid breakdown cannot happen simultaneously. 
-
-It will also be inactivated by Protein Kinase A (PKA) upstream of [[Hormonal Regulation of Metabolism#Glucagon|glucagon]] binding when hypoglycemic.
-## Part 2. Fatty acid synthase
-This is largely the reverse of beta oxidation. Fatty acid synthase (ACP) will bind an acetyl-CoA and a malonyl-CoA. The carboxylic group of malonyl-CoA then leaves as CO2, creating a binding point for acetyl-CoA. The resulting condensation reaction forms a 4 carbon beta keto ACP (opposite of thiolase).
-
-*Note: The electron carrier for these steps is NADPH rather than NADH.*

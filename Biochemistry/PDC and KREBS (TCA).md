@@ -1,5 +1,5 @@
 # Pyruvate Dehydrogenase Complex (PDC)
-The PDC turns pyruvate into acetyl-CoA, generated from [[Glycolysis and Pentose Phosphate|Glycolysis]], NADH, and CO2. It is build from three different enzymes (E1, E2, and E3). This first step in this process is **irreversible**.
+The PDC turns pyruvate into acetyl-CoA (generated from [[Glycolysis and Pentose Phosphate|Glycolysis]]), NADH, and CO2. It is built from three different enzymes (E1, E2, and E3). This first step in this process is **irreversible**.
 
 **Enzymes**
 - ***E1***: Pyruvate dehydrogenase
@@ -7,7 +7,7 @@ The PDC turns pyruvate into acetyl-CoA, generated from [[Glycolysis and Pentose 
 - ***E3***: Dihydrolipoyl dehydrogenase
 
 **Cofactors for the PDC**
-- **Thiamine pyrophosphate (TPP)**, derived from thiamine. Deficiency leads to **beriberi**.
+- **Thiamine pyrophosphate (TPP)**, derived from thiamine
 - **Flavin Adenine Dinucleotide (FAD)**, derived from riboflavin
 - **Coenzyme A (CoA)**, derived from pathothenic acid
 - **NAD+**, derived from niacin
@@ -36,6 +36,8 @@ Associated with chronic alcohol abuse.
 - Ataxia
 - General confusion
 ### Beriberi
+Results from deficiency in Thiamine pyrophosphate (TPP).
+
 **Symptoms**:
 - Fatigue
 - Irritability
@@ -71,7 +73,7 @@ This is [[Oxidative phosphorylation and the ETC#Complex II Succinate dehydrogena
 ### 7. Malate (4C)
 Hydration of alkene double bond.
 ### 8. Oxaloacetate (4C)
-Oxidation step. Although the free energy of this reaction is not favorable (dG = 29.7 kJ/mol), the small amount of OAA available is a strong driver of the reaction to the right under normal conditions.
+Oxidation step. Although the [[Fuel Metabolism Primer|free energy]] of this reaction is not favorable (dG = 29.7 kJ/mol), the small amount of OAA available is a strong driver of the reaction to the right under normal conditions.
 ## Final products:
 - 3 NADH
 - 1 FADH2

@@ -6,7 +6,7 @@
 | 3    | F6P                      | fructose 1,6-bisphosphate (F1,6BP)                                   | **Phosphofructokinase-1 (PFK-1)**            | -17.2       | **Irreversible** (ATP consumed). This step guarantees the sugar will proceed down glycolysis. Alternatively, G6P may have been shuttled to other pathways. |
 | 4a   | F1,6BP                   | glyceraldehyde 3-phosphate (GAP) & dihydroxyacetone phosphate (DHAP) | **Aldolase**                                 | 22.8        | Reversible. GAP and DHAP concentration generally remain low                                                                                            |
 | 4b   | DHAP                     | GAP                                                                  | **Triose Phosphate Isomerase**               | 7.9         | Only GAP can be used in step 6, so DHAP has to be converted                                                                                            |
-| 5    | G6P, NAD+                | 1,3-bisphosphoglycerate (1,3-BPG), NADH                              | **Glyceraldehyde 3-phosphate dehydrogenase** | 12.2        |                                                                                                                                                        |
+| 5    | GAP, NAD+                | 1,3-bisphosphoglycerate (1,3-BPG), NADH                              | **Glyceraldehyde 3-phosphate dehydrogenase** | 12.2        |                                                                                                                                                        |
 | 6    | 1,3-BPG, ADP             | 3-phosphoglycerate, ATP                                              | **Phosphoglycerate kinase**                  | -18.5       | 1 ATP is generated per GAP, so we are now net 0 energy wise                                                                                            |
 | 7    |                          |                                                                      |                                              |             | NOT IMPORTANT                                                                                                                                          |
 | 8    |                          |                                                                      |                                              |             | NOT IMPORTANT                                                                                                                                          |
@@ -22,15 +22,10 @@ Pyruvate is sent to [[PDC and Krebs (TCA)]].
 ## Regulators of PFK-1
 Step 3 is the rate limiting step of glycolysis.
 
-Too much ATP production will inhibit PFK-1
-Too much AMP/ADP will activate PFK-1
-F2,6BP, stimulated by [[Hormonal Regulation of Metabolism#Glucagon|glucagon]], will activate PFK-1
-Pyruvate goes on to create citrate in oxidative phosphorylation, which provides negative feedback
+**Inhibitors**: ATP, Pyruvate (via citrate from oxidative phosphorylation)
+**Activators**: AMP/ADP, F2,6BP, stimulated by [[Hormonal Regulation of Metabolism#Glucagon|glucagon]]
 
 ![[Pasted image 20230821010200.png]]
-
-# Anaerobic metabolism
-**Lactate dehydrogenate** will oxidize NADH/H+ in anaerobic conditions. This is often conducted by fast-twitch muscle fibers.
 # Pentose phosphate pathway
 PPP reduces NADP+ to NADPH+ (occurs twice) and produce **ribose 5-phosphate** which is used to make DNA/RNA. High NADPH relative to NADP+ will drive the biosynthesis of fatty acids and nucleotides.
 
