@@ -38,6 +38,6 @@ This is when glycogen is depleted and lactic acid is not being produced (abject 
 **Glucogenic and ketogenic amino acids**: Isoleucine, phenylalanine, tryptophan, tyrosine, threonine
 **Ketogenic amino acids**: Lysine, leucine
 ## Aminotransferase
-Will move the amino group from a glucogenic amino acid to alpha-ketoglutarate (AKG), forming glutamate + and alpha-keto acid. AKG is the rate limiting factor in this reaction and requires use of **Vitamin B6**. Glutamate can then be deaminated back to alpha-ketoglutarate via **glutamate dehydrogenase**. 
+Will move the amino group from a glucogenic amino acid to alpha-ketoglutarate (AKG), forming a glutamate and an alpha-keto acid. AKG is the rate limiting factor in this reaction and requires use of **Vitamin B6**. Glutamate can then be deaminated back to alpha-ketoglutarate via **glutamate dehydrogenase**. 
 
-Leftover nitrogen (ammoniums) are transferred to pyruvate, forming alanine, which can then be safely transported to the liver. There, it is converted to urea and excreted. This is referred to as the **glucose-alanine cycle**.
+Leftover nitrogen (ammoniums) are transferred to pyruvate, forming alanine, which can then be safely transported to the liver. There, it is [[Urea Cycle|converted to urea]] and excreted. This is referred to as the **glucose-alanine cycle**.
