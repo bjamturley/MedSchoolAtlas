@@ -1,15 +1,21 @@
 Oxaloacetate (OAA) is the rate limiting factor for the [[PDC and Krebs (TCA)|TCA (Krebs)]] cycle. Pyruvate can be converted to OAA via **pyruvate carboxylase**. [[Glycolysis and Pentose Phosphate|Glycolysis]] will generate this pyruvate as well as important reducing agents (e.g. NADH). However, because glycolysis occurs in the cytoplasm and TCA occurs in the cytosol, OAA/NADH must be transported.
 ## Malate-Aspartate Shuttle
+
 The Malate-Aspartate Shuttle will transport NADH/oxaloacetate from [[Glycolysis and Pentose Phosphate|glycolysis]] across the inner mitochondrial membrane. Organs which don't rely on aerobic glucose metabolism require this.
+
+The elegance of this shuttle is beautiful in a way. Observe how to the two transporters share materials.
 
 **Malate transporter (to mitochondria):**
 1. NADH transfers its electrons to oxaloacetate, converting it to malate (via **malate dehydrogenase**)
-2. Malate is transported into the mitochondrial matrix through the malate-α-ketoglutarate antiporter
+2. Malate is transported into the mitochondrial matrix through the malate-α-ketoglutarate antiporter (exchanged for an alpha-ketoglutarate)
 3. Malate is oxidized back to oxaloacetate, and NADH is regenerated
 
 **Aspartate transporter (to cytoplasm):**
-1. Oxaloacetate converted to aspartate (via **aspartate aminotransferase**). 
-2. Aspartate is transported back to the cytoplasm and converted back to oxaloacetate
+1. Oxaloacetate converted to aspartate from glutamate (via **aspartate aminotransferase**), generating an alpha-ketoglutarate 
+2. Aspartate is transported back to the cytoplasm (exchanged for a glutamate)
+3. Aspartate is converted back to oxaloacetate
+
+![[Pasted image 20230915180508.png]]
 ## Glycerol 3-Phosphate Shuttle
 Converts cytoplasmic NADH to mitochondrial FADH2. This is most common in the skeletal muscle and brain (high glucose utilizers). This is a fast way to regenerate NAD+ for GADPH in **aerobic** conditions (can't use the TCA cycle without oxygen).
 
