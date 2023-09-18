@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/bjamturley/MedSchoolAtlas/main/Media/images/logo.png" width="150" height="150" />
 </p>
-
 # Welcome to the Medical School Atlas
 ## [Knowledge Web](https://medschoolAtlas.xyz)
 
