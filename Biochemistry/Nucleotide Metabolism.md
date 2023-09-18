@@ -3,13 +3,13 @@
 Occurs in the cytosol of hepatocytes.
 
 1. In the [[Glycolysis and Pentose Phosphate#Pentose phosphate pathway|pentose phosphate pathway]], ribose 5-P is converted to PRPP (via **PRPP synthase**)
-	- Activated by phosphate (indicates the cell is consuming ATP, requiring more nucleotides)
-	- Inhibited by GMP, AMP, and IMP
-2. PRPP is converted to PRA (via **PRPP amidotransferase**)
-	- Activated by high levels of PRPP
-	- Inhibited by GMP, AMP, IMP
+	- **Activators**: Phosphate (indicates the cell is consuming ATP, requiring more nucleotides)
+	- **Inhibitors**: GMP, AMP, and IMP
+2. PRPP is converted to PRA (via **PRPP aminotransferase**)
+	- **Activators**: PRPP
+	- **Inhibitors**: GMP, AMP, IMP
 3. PRA is converted to IMP (and 4 ATP is consumed). **Folate (Vitamin B9)** donates two carbons for this step.
-4. IMP is converted to nucleotides
+4. IMP is converted to nucleotides (two options)
 	- → XMP → GMP (requires ATP)
 	- → Adenylosuccinate → AMP (requires GTP)
 
