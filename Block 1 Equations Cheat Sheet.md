@@ -92,9 +92,11 @@ AKA, Goldman-Hodgkin-Katz. This example considers the flow of Potassium (K) and 
 # [[Body Fluid Compartments]]
 ## Indicator Dilution Technique
 For finding a compartment volume of unknown size.
-## $Volume=\frac{\text{quantity injected (mmol)}}{\text{fluid concentration (mmol/L)}}=\frac{Q}{Q/V}$
+## $CV=\frac{\text{quantity injected (mmol)}}{\text{fluid concentration (mmol/L)}}$
+## $CV=\frac{Q}{Q/V_i}$
 
 **Quantity (Q)** = concentration * volume
+**Vi** = volume injected
 ## Measuring Blood Volume
 ## $\text{Blood volume} = \frac{\text{plasma volume}}{[1 - \text{hematocrit}]}$
 
