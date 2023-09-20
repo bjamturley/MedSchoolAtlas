@@ -16,7 +16,7 @@ The hydroxyl groups on glucose will react with other macromolecules like protein
 
 ![[Carbohydrates and Sugar Code Primer#Fuel storage]]
 # Glycogenesis
-Glucose-1-phospate (G1P) is first added to UDP via **UDP-glucose phosphorylase**, forming UDP-glucose. This bond energy can then be used **glycogenin** to make short primer chains of 8 glucose molecules attached to a tyrosine.
+Glucose-1-phospate (G1P) is first added to UDP via **UDP-glucose phosphorylase**, forming UDP-glucose. This bond energy can then be used with **glycogenin** to make short primer chains of 8 glucose molecules attached to a tyrosine.
 
 These short chains are then added to a growing glycogen chain with 1,4 bonds catalyzed by **glycogen synthase**. Glycogen branching enzyme will form the 1,6 linkages from 1,4 linkages, which is endothermic.
 ## Regulation
@@ -40,13 +40,13 @@ G1P is converted directly into glucose-6-phosphate (G6P) via **phosphoglucomutas
 ### Liver/Pancreas
 Glucose is converted to glucose-6-phosphate (G6P) through a few intermediate steps. It is then converted to free glucose in the ER via **glucose-6-phosphatase** which allows it to diffuse into the blood.
 
-**Glucokinase** (hexokinase IV) is present in the liver (not skeletal muscle). It will convert free glucose to G6P when glucose is abundant so as to only allow glucose to diffuse out of the cell when blood concentration is low.
+**Glucokinase** (hexokinase IV) is present in the liver (not skeletal muscle). It will convert free glucose to G6P only when glucose is abundant so as to allow glucose to freely diffuse out of the cell and maintain a stable blood concentration.
 ## Regulation
 Glycogen phosphorylase is activated by **phosphorylase kinase**, which is activated by glucagon, catecholamines, Ca2+, and protein kinase A. Phosphorylase kinase is inactivated by **phosphoprotein phosphatase 1 (PP1)**, turning off glycogen breakdown.
 # Clinical Pearls
 ## Glycogen Storage Disease Type I (Von Gierke's Disease)
-A deficiency in Glucose 6-phosphatase causes glycemia as G6P cannot enter the blood.
+A deficiency in Glucose 6-phosphatase causes hypoglycemia as G6P cannot enter the blood.
 ## Andersen's Disease
-A deficiency in branching enzyme causes rapid glycogen depletion, diminished hyperglycemic response to epinephrine (less non-reducing ends on glycogen), and cirrhosis of the liver.
+A deficiency in branching enzyme causes rapid glycogen depletion, diminished hyperglycemic response to [[Hormonal Regulation of Metabolism#Catecholamines (Norepinephrine/Epinephrine)|epinephrine]] (less non-reducing ends to mobilize glycogen), and cirrhosis of the liver.
 ## McArdle's Disease
-A deficiency in muscle glycogen phosphorylase impairs glycogen breakdown. This will reduce the blood lactate and pyruvate after exercise as there is no anaerobic glycolysis in muscle. pH, therefore, will be unchanged with exercise.
+A deficiency in muscle glycogen phosphorylase impairs glycogen breakdown. This will result in no elevation of blood lactate and pyruvate after exercise as there is no anaerobic glycolysis in muscle. pH, therefore, will be unchanged with exercise.

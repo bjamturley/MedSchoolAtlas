@@ -3,7 +3,7 @@ Creating glucose when body is low on energy. This will maintain blood glucose le
 
 This process runs [[Glycolysis and Pentose Phosphate|glycolysis]] backwards. However, the three irreversible steps of glycolysis must be circumvented to do so.
 ## Bypass 1: Pyruvate Kinase
-This step occurs in the mitochondria with recently formed pyruvate. This is converted into oxaloacetate (OAA) via **pyruvate carboxylase**. Biotin is required as a cofactor for this reaction. Because oxaloacetate is a [[PDC and Krebs (TCA)#8. Oxaloacetate (4C)|TCA]] intermediate, this process is anaplerotic (increasing TCA factors). The OAA can then be exported via the [[Delivery of Fuel to the Mitochondria#Malate-Aspartate Shuttle|Malate-Aspartate Shuttle]]. It will take the malate route out of the cell.
+This step occurs in the mitochondria with recently formed pyruvate. This is converted into oxaloacetate (OAA) via **pyruvate carboxylase**. Biotin is required as a cofactor for this reaction. Because oxaloacetate is a [[PDC and Krebs (TCA)#8. Oxaloacetate (4C)|TCA]] intermediate, this process is anaplerotic (increasing TCA factors). The OAA can then be exported via the [[Delivery of Fuel to the Mitochondria#Malate-Aspartate Shuttle|Malate-Aspartate Shuttle]].
 
 Once the OAA is in the cytosol, it is converted to phosphoenolpyruvate (PEP), the intermediate above the irreversible pyruvate kinase step.
 
@@ -35,7 +35,7 @@ Other indicators:
 This is when glycogen is depleted and lactic acid is not being produced (abject starvation). The carbon skeletons from glucogenic amino acids can be used as material for gluconeogenesis.
 
 **Glucogenic amino acids**: Alanine, arginine, asparagine, aspartate, cysteine, glutamate, glutamine, glycine, histidine, methionine, proline, serine, valine
-**Glucogenic and ketogenic amino acids**: Isoleucine, phenylalanine, tryptophan, tyrosine, threonine
+**Glucogenic and ketogenic amino acids** (PITTT): Isoleucine, phenylalanine, tryptophan, tyrosine, threonine
 **Ketogenic amino acids**: Lysine, leucine
 ## Aminotransferase
 Will move the amino group from a glucogenic amino acid to alpha-ketoglutarate (AKG), forming a glutamate and an alpha-keto acid. AKG is the rate limiting factor in this reaction and requires use of **Vitamin B6**. Glutamate can then be deaminated back to alpha-ketoglutarate via **glutamate dehydrogenase**. 
