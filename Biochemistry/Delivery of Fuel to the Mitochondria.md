@@ -1,3 +1,4 @@
+![[Pasted image 20230921121320.png]]
 Oxaloacetate (OAA) is the rate limiting factor for the [[PDC and Krebs (TCA)|TCA (Krebs)]] cycle. Pyruvate can be converted to OAA via **pyruvate carboxylase**. [[Glycolysis and Pentose Phosphate|Glycolysis]] will generate this pyruvate as well as important reducing agents (e.g. NADH). However, because glycolysis occurs in the cytoplasm and TCA occurs in the cytosol, OAA/NADH must be transported.
 ## Malate-Aspartate Shuttle
 

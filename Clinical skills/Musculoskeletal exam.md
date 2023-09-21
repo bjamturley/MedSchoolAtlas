@@ -1,3 +1,4 @@
+For nomenclature regarding direction of movement, see here: [[Anatomy Nomenclature#Movement]]
 # Jaw (temporomandibular joint)
 1. Inspect
 2. Palpate along TMJ

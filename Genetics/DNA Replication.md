@@ -6,7 +6,7 @@
 - **G2 Phase**: Preparing to split
 - **G0 Phase**: Resting, no replication
 # Mechanism
-DNA synthesis is catalyzed by a nucleophilic substitution reaction. The 3'-OH of the growing polynucleotide chain acts as the nucleophile that attacks the incoming **deoxynucleoside triphosphate (dNTP)**. After breaking the alpha-beta phosphoanhydride bond, the dNTP is incorporated, base-paired to a corresponding nucleotide. 
+DNA synthesis is catalyzed by a nucleophilic substitution reaction. The 3'-OH of the growing polynucleotide chain acts as the nucleophile that attacks the incoming [[Nucleotide Metabolism#Ribonucleotide Reductase (RNR)|deoxynucleoside triphosphate (dNTP)]]. After breaking the alpha-beta phosphoanhydride bond, the dNTP is incorporated, base-paired to a corresponding nucleotide. 
 
 The reaction is slightly exothermic, making it **irreversible** in vivo due to pyrophosphate hydrolysis.
 ## DNA Polymerases

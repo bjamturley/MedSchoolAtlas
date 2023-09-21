@@ -1,6 +1,6 @@
 The process by which homologous chromosomes exchange alleles.
 # Mechanism
-In *prophase I*, homologous chromosomes are brought in proximity. During this time, portions of the chromosomes cross over forming **chiasmata**. These sections will recombine and swap before separating again into each daughter cell.
+In [[DNA Replication#Cell Cycle Phases|prophase I]], homologous chromosomes are brought in proximity. During this time, portions of the chromosomes cross over forming **chiasmata**. These sections will recombine and swap before separating again into each daughter cell.
 
 **Functions**
 1. Restarting DNA replication forks (when stalled)
@@ -23,7 +23,7 @@ As the strand is expanded, it will form two crossover points called **Holliday i
 - Seamless continuation of replication
 
 **Disadvantages**
-- Can only be used in the S and G2 phase
+- Can only be used in the [[DNA Replication#Cell Cycle Phases|S and G2 phase]]
 ## Non-homologous end joining
 Gluing the broken pieces of DNA back together. If this sounds janky, you would be correct.
 
@@ -32,7 +32,7 @@ Gluing the broken pieces of DNA back together. If this sounds janky, you would b
 3. Ligases anneal the strands back together
 
 **Advantages**
-- Can also be used in the G1 phase (without homologous chromosomes)
+- Can also be used in the [[DNA Replication#Cell Cycle Phases|G1 phase]] (without homologous chromosomes)
 
 **Disadvantages**
 - Error prone repair
@@ -51,7 +51,7 @@ No recombinant product is important as the generic replication fork occurs in no
 ![[Pasted image 20230912004405.png]]
 # Methods for Bypassing DNA Lesions
 ## Forking and merging (Yes, like GitHub)
-Thymine dimers will block high-fidelity DNA polymerase. However, because the replication fork has separated the strands there's no available template.
+[[DNA Repair#UV radiation|Thymine dimers]] will block high-fidelity DNA polymerase. However, because the replication fork has separated the strands there's no available template.
 
 However, the lagging strand can continue as it presumably does not have the dimer. It will replicate the sequences past the point of the dimer and then will reanneal the correct DNA strands via **RAD51**. This creates a fork and allows the lagging strand to be used as a template.
 

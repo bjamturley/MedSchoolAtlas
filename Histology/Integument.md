@@ -2,7 +2,7 @@ A protective outer layer.
 
 **Epidermis**: Outermost later
 **Dermis**: Thicker, inside later
-**Hypodermis**: Superficial fascia laying underneath the dermis. Not actually part of the integument.
+**Hypodermis**: Superficial [[Anatomy Nomenclature#Fascia|fascia]] laying underneath the dermis. Not actually part of the integument.
 # Epidermis
 It's your outer meat flesh. You know what this does.
 
