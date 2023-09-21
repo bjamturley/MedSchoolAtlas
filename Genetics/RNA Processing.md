@@ -1,5 +1,5 @@
 # 5' Capping
-Adding a methylguanosine to the 5' end of DNA (requires a GTP) soon after the beginning of transcription. Important for splicing the transcript and transport from the nucleus to the cytoplasm. Also serves as the binding site for ribosomes in [[Translation]]. 
+Adding a methylguanosine to the 5' end of DNA (requires a GTP) soon after the beginning of [[Transcription|transcription]]. Important for splicing the transcript and transport from the nucleus to the cytoplasm. Also serves as the binding site for ribosomes in [[Translation]]. 
 
 **TF-II H** creates a binding site for the cap synthesizing complex. After construction, the cap binding complex associates with RNA Polymerase II and merges it with the RNA.
 # 3' Polyadenylation

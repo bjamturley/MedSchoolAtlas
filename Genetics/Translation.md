@@ -8,7 +8,7 @@ Carries amino acids to the ribosome. tRNA is expanded using **aminoacyl-tRNA syn
 ## Nomenclature
 A prefix will denote the amino acid is actually attached to the tRNA, such as in the case of $\text{Met-tRNA}^{Met}$. The suffix simply specifies which amino acid the tRNA is specific to.
 
-Methionine is added at the beginning of the peptide. Its rRNA will be denoted as $tRNA_i^{Met}$, with the i noting an initiator is being used to add the first amino acid (*Met*). The i is dropped for amino acids added other places ($tRNA^{Met}$).
+Methionine is added at the beginning of the peptide. Its rRNA will be denoted as $tRNA_i^{Met}$, with the *i* noting an initiator is being used to add the first amino acid (*Met*). The i is dropped for amino acids added other places ($tRNA^{Met}$).
 # Ribosomes
 **28S rRNA**: Constructs peptide bonds between amino acids (via **peptidyl transferase**)
 **18S rRNA**: Holds mRNA in place and aligns the start codon (AUG).

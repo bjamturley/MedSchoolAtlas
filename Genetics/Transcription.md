@@ -1,8 +1,8 @@
 # RNA Polymerases
 ## RNA Polymerase I
-Synthesizes pre-ribosomal RNA. Found in nucleolus.
+Synthesizes pre-ribosomal RNA.
 ## RNA Polymerase II
-Synthesizes mRNA and regulatory RNAs. Will read in the 3' → 5' direction, and therefore synthesize in the 5' → 3' direction.
+Synthesizes mRNA and regulatory RNAs. Similar to [[DNA Replication#DNA Polymerases|DNA Polymerase]], will read in the 3' → 5' direction, and therefore synthesize in the 5' → 3' direction.
 
 Inhibited by alpha-amanitin (mushroom toxin)
 ## RNA Polymerase III
