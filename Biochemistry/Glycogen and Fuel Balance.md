@@ -20,14 +20,14 @@ Glucose-1-phospate (G1P) is first added to UDP via **UDP-glucose phosphorylase**
 
 These short chains are then added to a growing glycogen chain with 1,4 bonds catalyzed by **glycogen synthase**. Glycogen branching enzyme will form the 1,6 linkages from 1,4 linkages, which is endothermic.
 ## Regulation
-Glycogen synthase is **active when dephosphorylated** and is inactivated by phosphorylation via **protein kinase A**, **phosphorylase kinase**, and **GSK-3**. **Phosphoprotein phosphatase 1 (PP1)** can dephosphorylate glycogen synthase, activating it.
+Glycogen synthase is **active when dephosphorylated** and is inactivated by phosphorylation via **protein kinase A**, **phosphorylase kinase**, and **glycogen synthase kinase (GSK-3)**. **Phosphoprotein phosphatase 1 (PP1)** can dephosphorylate glycogen synthase, activating it.
 
 **Insulin** will **prevent the glycogen synthase from being inactivated**, whereas **glucagon** and **epinephrine** **inactivate glycogen synthase** (and inhibit PP1).
 
 Insulin promotes glycogen synthesis.
 Glucagon/epinephrine turn off glycogen synthesis.
 # Glycogenolysis
-Breakdown is mediated by **glycogen phosphorylase** which can hydrolyze glucose within **4 residues** of its branch point. **Debranching enzyme** both will move 1,4 linked sugars near a branch point closer to another non-reducing end for glycogen phosphate and also hydrolyze the remaining 1,6 branch point, popping off the free glucose-1-phospate (G1P). Real trooper this one.
+Breakdown is mediated by **glycogen phosphorylase** which can hydrolyze glucose within **4 residues** of its branch point. It won't consume the entire branch. **Debranching enzyme** both will move 1,4 linked sugars near a branch point closer to another non-reducing end for glycogen phosphate and also hydrolyze the remaining 1,6 branch point, popping off the free glucose-1-phospate (G1P). Real trooper this one.
 
 Turning 1,6 bond into a 1,4 bond is **endothermic** (requires energy). Breaking a 1,6 linkage is **exothermic** (releases energy).
 

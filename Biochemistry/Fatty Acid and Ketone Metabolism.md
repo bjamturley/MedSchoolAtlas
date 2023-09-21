@@ -51,7 +51,7 @@ When there is a double bond present, beta oxidation will proceed normally, remov
 
 Additionally, beta oxidation produces reactive oxygen species (ROS) on net, whereas glycolysis will share products with the [[Glycolysis and Pentose Phosphate#NADPH is important in radical cell defense|Pentose Phosphate Pathway]] to produce NADPH which counteract ROS formation.
 # Fatty Acid Synthesis
-Occurs in the cytosol, using acetyl-CoA produced in the mitochondria. Acetyl-CoA is transported into the cytosol by combining it with oxaloacetate (OAA) which forms citrate. Citrate has a transporter which can be delivered to the cytosol and converted back to acetyl-CoA and OAA.
+Occurs in the cytosol, using acetyl-CoA produced in the mitochondria. Acetyl-CoA is transported into the cytosol by combining it with oxaloacetate (OAA) which forms citrate. The citrate shuttle will move (via malate conversion) which can be delivered to the cytosol and later converted back to acetyl-CoA and OAA.
 
 **Malate in the cytosol has two pathways:**
 - Return to the mitochondria (via [[Delivery of Fuel to the Mitochondria|malate-alpha ketoglutarate]] transporter)

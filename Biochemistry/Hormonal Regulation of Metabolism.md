@@ -20,11 +20,11 @@ The pancreas uses GLUT-2 transporters, meaning the glucose levels in the blood a
 4. Depolarization → Ca2+ channels open
 5. Ca2+ binds insulin granules → insulin release
 ### Downstream effects
-As insulin is released, it binds to the insulin receptor (a [[Signal Transduction Primer#Receptor tyrosine kinases|Tyrosine Kinase Receptor]]). This will stimulate **Protein Kinase B (PKB)** which increases insertion of GLUT-4 in the cell membrane (more glucose uptake). It will also phosphorylate glycogen synthase kinase (inactivating it) so that glycogen synthase remains in its inactive, phosphorylated state.
+As insulin is released, it binds to the insulin receptor (a [[Signal Transduction Primer#Receptor tyrosine kinases|Tyrosine Kinase Receptor]]). This will stimulate **Protein Kinase B (PKB)** which increases insertion of GLUT-4 in the cell membrane (more glucose uptake). It will also phosphorylate [[Glycogen and Fuel Balance#Glycogenesis|glycogen synthase kinase (GSK)]] (inactivating it) so that glycogen synthase remains in its inactive, phosphorylated state.
 
 The glucose can then be converted to [[Fatty Acid and Ketone Metabolism#Triacylglycerols (TAGs)|glycerol-3-phosphate (G3P)]] from DHAP (glycolysis) for TAG formation.
 # Glucagon
-Secreted from pancreatic alpha islets. Responds to low glucose breaking down glycogen in the liver by lowering Fructose-2,6-Bisphosphate (F26BP) concentrations, an upregulator of [[Glycolysis and Pentose Phosphate#Regulators of PFK-1|PFK-1]] in the glycolysis.
+Secreted from pancreatic alpha islets. Responds to low glucose breaking down glycogen in the liver by [[Gluconeogenesis and Nitrogen Balance#Bypass 2 Phosphofructokinase (PFK-1)|lowering Fructose-2,6-Bisphosphate (F26BP)]] concentrations, an upregulator of [[Glycolysis and Pentose Phosphate#Regulators of PFK-1|PFK-1]] in the glycolysis.
 
 It will also inhibit glycogen synthesis by phosphorylating [[Glycogen and Fuel Balance#Regulation|glycogen synthase]] as well as inhibit fatty acid synthesis by inhibiting [[Fatty Acid and Ketone Metabolism#Part 1. Acetyl-CoA carboxylase|acetyl-CoA carboxylase]] via cAMP activation of protein kinase A (PKA). PKA has the secondary function of activating [[Fatty Acid and Ketone Metabolism#Adipose tissue|lipase]] in adipocytes to break down TAGs.
 ## Signal transduction
@@ -59,4 +59,4 @@ Released by adipose tissue, which informs the body it is satiated. It will promo
 
 Leptin will also activate **AMP kinase (AMPK)**. In the muscle, AMPK will increase uptake of fatty acids and glucose. In the liver, AMPK will slow down fatty acid synthesis.
 
-**Adiponectin** is another peptide hormone released by adipose which upregulates AMPK
+**Adiponectin** is another peptide hormone released by adipose which upregulates AMPK.
