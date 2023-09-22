@@ -18,9 +18,9 @@ $K_d = \frac{[R][L]}{[RL]} = \frac{(\frac{1}{k1})}{k1}$
 **Lower dissociation constant (Kd) = the tighter binding**
 ## Signal specificity
 ### Receptor distribution
-Hepatocytes express glucagon receptor at high levels. Therefore they respond to glucagon. By contrast, myocytes do not express glucagon, so they do not respond to glucagon. Myocytes instead express b-adrenergic receptor so they respond to [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms|epinephrine]].
+Hepatocytes express glucagon receptor at high levels. Therefore they respond to glucagon. By contrast, myocytes do not express glucagon, so they do not respond to glucagon. Myocytes instead express b-adrenergic receptor so they respond to [[Synaptic Cell Biology#Key Neurotransmitter Metabolism|epinephrine]].
 ### Downstream effects
-The same receptor can have different downstream effects. [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms|acetylcholine]] (g-protein coupled) promotes skeletal muscle contraction, but inhibits smooth muscle contraction.
+The same receptor can have different downstream effects. [[Synaptic Cell Biology#Key Neurotransmitter Metabolism|acetylcholine]] (g-protein coupled) promotes skeletal muscle contraction, but inhibits smooth muscle contraction.
 ## Second messengers
 A primary messenger will bind to a membrane ligand but cannot enter the cell. This will promote release of the second messenger to do work within the cell.
 ### Calcium signaling
@@ -121,7 +121,7 @@ A target of fat soluble hormones, travels straight through membrane. These bind 
 ## Transduction and amplification
 When a signal is linear, one messenger elicits on response. However, when a signal is **amplified** a given molecule of A might go on to activate more than one of B which could go on to activate more than one of C, multiplying the effect.
 ## Example: Muscle contraction
-When muscle cells gets the signal to contract, there is a spike in Ca2+ in the cell. Binding of [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms|acetylcholine]] depolarizes the membrane and releases Ca2+ from the sarcoplasmic reticulum. Calcium changes the configuration of the troponin which exposes binding sites of actin. At the same time, it stimulates phosphorylase kinase which increases glu-1-p from glycogen and ATP production.
+When muscle cells gets the signal to contract, there is a spike in Ca2+ in the cell. Binding of [[Synaptic Cell Biology#Key Neurotransmitter Metabolism|acetylcholine]] depolarizes the membrane and releases Ca2+ from the sarcoplasmic reticulum. Calcium changes the configuration of the troponin which exposes binding sites of actin. At the same time, it stimulates phosphorylase kinase which increases glu-1-p from glycogen and ATP production.
 
 This is an example in which two pathways sharing a receptor/effector converge on the same node. This is known as **node convergence.**
 

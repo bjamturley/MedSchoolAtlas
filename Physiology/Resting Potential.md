@@ -43,7 +43,7 @@ Subunits consist of 6 transmembrane helices. Hydrophilic amino acids will be on 
 Channels can also be made up of different numbers of subunits. 
 
 - **Tetramer (4)**: Na+/K+/Ca2+ channels
-- **Pentamer (5)**: Nicotinic [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms|Acetylcholine]]
+- **Pentamer (5)**: Nicotinic [[Synaptic Cell Biology#Key Neurotransmitter Metabolism|Acetylcholine]]
 - **Hexamer (6)**: Connexon, making up half of a gap junction channel.
 # Electrochemical equilibrium
 **Chemical force**: Concentration gradient

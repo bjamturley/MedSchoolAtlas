@@ -23,6 +23,7 @@ Composed of cranial and spinal nerves which connect the CNS to muscles, glands, 
 **Sensory (afferent - arrive) neurons**: Send signal to CNS
 **Motor (efferent - exit) neurons**: Send signal from CNS
 
+For a more detailed primer, see here: [[Peripheral Nervous System (PNS)]]
 For anatomical detail, see here: [[Nervous System Primer#Autonomic nervous system]]
 ## Autonomic nervous system
 Responsible for involuntary movement, carries signal from CNS
@@ -54,7 +55,7 @@ White matter contains myelinated axons whereas gray matter contains unmyelinated
 ## Functions
 **Excitation**: Increase the likelihood the target will fire (e.g. glutamate)
 **Inhibitory**: Decrease the likelihood the target will fire (e.g. gamma-aminobutyric acid GABA)
-**Modulatory**: Modify the probability the target neuron will fire (e.g. dopamine, [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms|serotonin]], [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms|acetylcholine]])
+**Modulatory**: Modify the probability the target neuron will fire (e.g. dopamine, [[Synaptic Cell Biology#Key Neurotransmitter Metabolism|serotonin]], [[Synaptic Cell Biology#Key Neurotransmitter Metabolism|acetylcholine]])
 # Glial Cells
 |                  | Location | Function                                                                                | Target                |
 | ---------------- | -------- | --------------------------------------------------------------------------------------- | --------------------- |

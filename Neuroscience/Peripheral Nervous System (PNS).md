@@ -3,7 +3,7 @@ For anatomical details, see: [[Nervous System Primer]]
 # Organization
 All of the following systems release **acetylcholine** to simulate their intermediate targets. The autonomic-sympathetic system will release **norepinephrine** and **epinephrine** (in the case of the adrenal medulla) to stimulate the final target. The autonomic-parasympathetic system will use acetylcholine to stimulate the final target.
 
-For neurotransmitter lifecycle, see here: [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms]]
+For neurotransmitter lifecycle, see here: [[Synaptic Cell Biology#Key Neurotransmitter Metabolism]]
 
 ![[Pasted image 20230902014337.png]]
 An exception to these rules are **sweat glands** which are part of the sympathetic system, but release acetylcholine at target cells.

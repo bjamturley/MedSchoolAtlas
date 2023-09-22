@@ -23,7 +23,7 @@ Derived from megakaryocytes and are important for hemostasis, clotting, and vasc
 
 The membrane contains integrins used for platelet aggregation. These bind vWF and fibrinogen. It turns into a sphere upon clotting.
 #### Structure
-Has a hyalomere (peripheral area) containing microfilaments and microtubules which will stain LIGHT BLUE. Also has a granulomere which is used for secretory storage (e.g. [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms|serotonin]] for vasoconstriction, PD growth factor for endothelial mitosis and vascular repair) which will stain PURPLE.
+Has a hyalomere (peripheral area) containing microfilaments and microtubules which will stain LIGHT BLUE. Also has a granulomere which is used for secretory storage (e.g. [[Synaptic Cell Biology#Key Neurotransmitter Metabolism|serotonin]] for vasoconstriction, PD growth factor for endothelial mitosis and vascular repair) which will stain PURPLE.
 ### Neutrophils
 Accounts for 60-70% of WBCs. Phagocytose bacteria with production of oxygen radicals and hydrogen peroxide (H2O2), or by using lysosomes. 
 

@@ -1,7 +1,7 @@
 # Neuromuscular Junction (NMJ)
 *Motor information → spinal cord → ventral horn → somatic spinal nerve → myocyte (muscle)*
 
-A synapse between a motor neuron and a muscle. Communicates via [[Synaptic Cell Biology#Key Neurotransmitter Mechanisms|acetylcholine (ACh)]]. The post-synaptic neuron (on muscle cell) has **junctional folds** which increase the surface area of the synaptic cleft and increase the number of receptors. These also decrease the distance between cells, cutting down on travel time.
+A synapse between a motor neuron and a muscle. Communicates via [[Synaptic Cell Biology#Key Neurotransmitter Metabolism|acetylcholine (ACh)]]. The post-synaptic neuron (on muscle cell) has **junctional folds** which increase the surface area of the synaptic cleft and increase the number of receptors. These also decrease the distance between cells, cutting down on travel time.
 ## Electrical events
 When activated, sodium enters the through the acetylcholine receptor (potassium won't move much because it sits around resting potential). This will depolarize the membrane (end plate) at the NMJ enough the trigger an action potential. The potential change is graded (not all-or-nothing) as more receptor activation results in more depolarization local to where the receptors are.
 
