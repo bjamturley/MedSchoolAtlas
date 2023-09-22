@@ -6,9 +6,9 @@ Presynaptic neuron sends signal to a postsynaptic neuron via neurotransmitters. 
 ## Neurotransmitter release
 Neurotransmitters are released via exocytosis. This process is **calcium dependent** and occurs when an [[Ion channels and Action Potentials#Anatomy of an action potential|action potential]] opens a **voltage-gated calcium channel (VGCC)**. The concentration of calcium is much higher outside the cell.
 
-Vesicles fuse with the target cell using **SNARE proteins**, specifically **synaptotagmin** which is a Ca2+ sensor. **Tetanus** and **botulinum toxin (Botox)** inhibit SNARE function.
+Vesicles fuse with the cell membrane using **SNARE proteins**, specifically **synaptotagmin** which is a Ca2+ sensor. **Tetanus** and **botulinum toxin (Botox)** inhibit SNARE function.
 
-Vesicles are recycled into the cell via endocytosis. This process is [[Cells and Organelles Primer#Transport out of ER|clatherin-dependent]]. **Dynamin** will pop the clatherin-coated vesicle off the side of the cleft for re-use.
+Vesicles are recycled via endocytosis. This process is [[Cells and Organelles Primer#Transport out of ER|clatherin-dependent]]. **Dynamin** will pop the clatherin-coated vesicle off the side of the cleft for re-use.
 
 ![[Pasted image 20230922140047.png]]
 # Key Neurotransmitter Metabolism
