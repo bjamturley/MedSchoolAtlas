@@ -1,14 +1,16 @@
 # Chemical Synapse
-Presynaptic neuron sends signal to a postsynaptic neuron via neurotransmitters. The **synaptic cleft** refers to the space between cells (20-40 nm).
+Presynaptic neuron sends signal to a postsynaptic neuron via neurotransmitters. The **synapse** refers to the space between cells (20-40 nm).
 ## Post-synaptic receptors
 - **Ionotropic**: Ligand-gated ion channels. Quickly alter membrane potential.
-- **Metabotropic**: G-protein coupled. Result in signal cascade which have slow, but long lasting inner-cell effects.
+- **Metabotropic**: [[Signal Transduction Primer#Guanine binding proteins|G-protein coupled]]. Result in signal cascade which have slow, but long lasting inner-cell effects.
 ## Neurotransmitter release
 Neurotransmitters are released via exocytosis. This process is **calcium dependent** and occurs when an [[Ion channels and Action Potentials#Anatomy of an action potential|action potential]] opens a **voltage-gated calcium channel (VGCC)**. The concentration of calcium is much higher outside the cell.
 
 Vesicles fuse with the target cell using **SNARE proteins**, specifically **synaptotagmin** which is a Ca2+ sensor. **Tetanus** and **botulinum toxin (Botox)** inhibit SNARE function.
 
-Vesicles are recycled into the receiving cell via endocytosis. This process is [[Cells and Organelles Primer#Transport out of ER|clatherin-dependent]]. 
+Vesicles are recycled into the cell via endocytosis. This process is [[Cells and Organelles Primer#Transport out of ER|clatherin-dependent]]. **Dynamin** will pop the clatherin-coated vesicle off the side of the cleft for re-use.
+
+![[Pasted image 20230922140047.png]]
 # Key Neurotransmitter Metabolism
 |                     | Production                                                              | Production Enzymes                                                                | Release                                              | Recycling/Degradation                                        |
 | ------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
