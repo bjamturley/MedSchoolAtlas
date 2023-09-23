@@ -18,15 +18,13 @@ With depolarization, **[[Muscular Synaptic Transmission#Calcium channels|L-type 
 ### Sliding filament structure
 Myofibers contain sarcomeres, a single working muscle unit. These are composed of **actin (thin filament)** and **myosin (thick filament)**. When the muscle contracts, actin uses myosin as the static anchor to move.
 
-<<<<<<< Updated upstream
 **A band**: The myosin (thick). Stays the same length when contracting
 **I band**: The actin (thin). Will shrink with contraction
 **H band**: The span of myosin between the I bands. Will shrink with contraction
-=======
+
 **A band**: The myosin filament (thick). Stays the same length when contracting
 **I band**: The actin filament (thin). Will shrink with contraction
 **H band**: The span where there is only myosin and no actin between the I bands. Will shrink with contraction
->>>>>>> Stashed changes
 
 **Z line**: Attachment point for actin filaments. The area between Z lines is one sarcomere.
 **M line**. Attachment point for myosin. The midpoint of the sarcomere.
