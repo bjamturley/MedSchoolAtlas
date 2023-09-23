@@ -16,9 +16,9 @@ Sequences in RNA which do not code for proteins. Introns allow for **alternative
 
 **Group I and II introns** are self-splicing and will not be included in RNA automatically. **Group III introns** have to be removed with spliceosomes (require ATP).
 ## Group I and II splicing mechanism
-Both use a nucleophile to to release one the beginning of the intron, allowing following exon to attack the preceding (before the intron) exon strand and pop off the intron entirely. Group I will use GTP, whereas group II will use an -OH on a Uracil.
+Both use a nucleophile to to release the beginning of the intron, allowing the following exon to attack the preceding exon strand (before the intron) and pop off the separating intron entirely. Group I will use GTP, whereas group II will use an -OH on a Uracil.
 ## Group III splicing mechanism
-the mRNA will combine with Small Nuclear Ribonucleoproteins (snRNPs) which are RNA mixed with proteins. This forms a **spliceosome** which contains the snRNPs U1, U2, U4, U5, and U6.
+The mRNA will combine with **Small Nuclear Ribonucleoproteins (snRNPs)** which are RNA mixed with proteins. This forms a **spliceosome** which contains the snRNPs U1, U2, U4, U5, and U6.
 
 1. U1 and U2 snRNPs bind to intron
 2. U4, U5, U6 snRNPs join
