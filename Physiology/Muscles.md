@@ -18,9 +18,15 @@ With depolarization, **[[Muscular Synaptic Transmission#Calcium channels|L-type 
 ### Sliding filament structure
 Myofibers contain sarcomeres, a single working muscle unit. These are composed of **actin (thin filament)** and **myosin (thick filament)**. When the muscle contracts, actin uses myosin as the static anchor to move.
 
+<<<<<<< Updated upstream
 **A band**: The myosin (thick). Stays the same length when contracting
 **I band**: The actin (thin). Will shrink with contraction
 **H band**: The span of myosin between the I bands. Will shrink with contraction
+=======
+**A band**: The myosin filament (thick). Stays the same length when contracting
+**I band**: The actin filament (thin). Will shrink with contraction
+**H band**: The span where there is only myosin and no actin between the I bands. Will shrink with contraction
+>>>>>>> Stashed changes
 
 **Z line**: Attachment point for actin filaments. The area between Z lines is one sarcomere.
 **M line**. Attachment point for myosin. The midpoint of the sarcomere.
@@ -53,7 +59,7 @@ When ATP binds, the hinged regions on myosin will bend 45-degrees, referred to a
 9. **Cross-Bridge Detachment**: ATP binding causes the myosin head to detach from actin.
 10. **ATP Hydrolysis**: ATP is hydrolyzed, resetting the myosin head to its high-energy state, and the cycle can repeat.
 
-The **velocity** of this cycle depends on the speed of ATPase, while the **tension** of the contraction depends on the number of cross-bridges formed and the concentration of ATP/calcium.
+The **velocity** of this cycle depends on the speed of ATPase, while the **tension** of the contraction depends on the number of cross-bridges formed and the concentration of ATP/calcium. **Creatine** will provide extra phosphate for ATP binding to improve this cycle efficiency.
 ### Clinical pearl: Rigor mortis
 When there is no remaining ATP (e.g., in a cadaver), the actin and myosin remain linked and the muscle remains contracted
 ## Isometric and Isotonic Mechanisms
