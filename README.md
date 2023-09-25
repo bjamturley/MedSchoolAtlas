@@ -5,7 +5,7 @@
 # Welcome to the Medical School Atlas
 ## [Knowledge Web](https://medschoolAtlas.xyz)
 
-This project maintains lightweight and searchable medical school notes. The goal is to provide an free alternative to overpriced education materials with an emphasis on comprehensibility. Modern resources have made medical lecture obsolete.
+This project maintains lightweight and searchable medical school notes. The goal is to provide a free alternative to overpriced education materials with an emphasis on ease of understanding. Modern resources have made medical lecture obsolete.
 
 > This project is [open source](https://github.com/bjamturley/MedSchoolAtlas). If you find any information is missing, incorrect, or needs formatting, feel free to send a pull request using your markdown editor of choice.
 
