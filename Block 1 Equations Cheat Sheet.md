@@ -53,7 +53,8 @@ AKA, Nernst Equation.
 **Xi** = concentration inside the cell
 ## Membrane Potential (Multiple Ions)
 AKA, Goldman-Hodgkin-Katz. This example considers the flow of Potassium (K) and Sodium (Na) ions.
-## $$V_m = -60 * log(\frac{G_{\text{Na}} * [Na]_{\text{out}} + G_{\text{K}} * [K]_{\text{out}}}{G_{\text{Na}} * [Na]_{\text{in}} + G_{\text{K}} *[K]_{\text{in}}})$$
+## $V_m = -60 * log(\frac{G_{Na} * [Na]_{out} + G_{K} * [K]_{out}}{G_{Na} * [Na]_{in} + G_{K} *[K]_{in}})$
+
 **G** = conductance
 *out* = concentration outside membrane
 *in* = concentration inside membrane
