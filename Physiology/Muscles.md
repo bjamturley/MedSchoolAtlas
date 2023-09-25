@@ -120,9 +120,9 @@ There are three types of responses to an action potential in smooth muscle
 Smooth muscle uses a **calmodulin-binding mode** similar to the cross-bridge system, without the troponin or tropomyosin regulation. The difference is that **calmodulin** is used to activate myosin via phosphorylation. Because calcium does not bind directly, smooth muscles are slower and less efficient.
 
 1. Ca2+ binds calmodulin
-2. Calmodulin binds myosin (light chain kinase), or MLCK
+2. Calmodulin binds **myosin light chain kinase (MLCK)**
 3. Myosin is phosphorylated by MLCK
 4. Cross-bridge formed with actin
-5. MLCK removes the phosphate, disconnecting the cross-bridge
+5. **Myosin light chain phosphatase (MLCP)** removes the phosphate, disconnecting the cross-bridge
 
 Smooth muscle also has a **latch mode** of binding which allows it to maintain permanent contraction with minor energy expenditure. This is similar to the calmodulin mechanism, except after MLCK dephosphorylation of myosin a latch is formed with actin, locking it in place. You can see this in sphincter muscles.

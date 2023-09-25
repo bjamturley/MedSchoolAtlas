@@ -25,21 +25,6 @@
 ## Dissociation Constant
 Receptor (R) + Ligand (L) → RL
 ## $K_d = \frac{[R][L]}{[RL]}$
-# [[Autonomic Nervous System Effects Primer#Heart Circulation|Heart Circulation]]
-## Mean Arterial Pressure
-## $MAP = CO * TPR$
-
-**CO (Cardiac Output)** = stroke volume (SV) * heart rate (HR)
-**TPR (Total Peripheral Resistance)** =  The resistance of the entire circulatory system
-
-## $MAP = \frac{DBP + (SBP - DBP)}{3}$
-
-**SBP** = The contracting pressure, which correlates with the cardiac output (CO). Normally between 90-120 mmHg.
-**DBP** = The arterial pressure when the heart is relaxes, which correlates with total peripheral resistance (TPR). Normally between 60-80 mmHg.
-## Pulse Pressure
-## *PP = SBP - DBP*
-**SBP** = The contracting pressure, which correlates with the cardiac output (CO). Normally between 90-120 mmHg.
-**DBP** = The arterial pressure when the heart is relaxes, which correlates with total peripheral resistance (TPR). Normally between 60-80 mmHg.
 # [[Resting Potential]]
 ## Voltage
 ## $V = IR$
@@ -60,24 +45,30 @@ AKA, Fick's Law. Measured in Flux (J).
 ## $J_x = P_x (X_o - X_i)$
 **Px** = permeability coefficient
 **(Xo - Xi)** = concentration difference between outside (o) and inside (i) the cell
-## Membrane Potential (Simplified)
+## Membrane Equilibrium Potential (Simplified)
 AKA, Nernst Equation.
 ## $E_{eq} = \frac{60}{z} * log(\frac{[X_o]}{[X_i]})$
 **z** = valence (charge of ion, Ca2+ = 2, K+ = 1)
 **Xo** = concentration outside the cell
 **Xi** = concentration inside the cell
-## Equilibrium Equation (Single Ion)
+## Membrane Potential (Multiple Ions)
+AKA, Goldman-Hodgkin-Katz. This example considers the flow of Potassium (K) and Sodium (Na) ions.
+## $$V_m = -60 * log(\frac{G_{\text{Na}} * [Na]_{\text{out}} + G_{\text{K}} * [K]_{\text{out}}}{G_{\text{Na}} * [Na]_{\text{in}} + G_{\text{K}} *[K]_{\text{in}}})$$
+**G** = conductance
+*out* = concentration outside membrane
+*in* = concentration inside membrane
+## Membrane Potential (Steady State)
+A modification of Goldman-Hodgkin-Katz using the current equation at steady state. This example considers the flow of Potassium (K) and Sodium (Na) ions.
+## $V_m = \frac{(E_{Na} * G_{Na}) + (E_K * G_K)}{G_{Na} + G_K}$
+
+**G** = conductance
+**E** = membrane potential
+## Current Equation (Single Ion)
 ## $I = G(V_m - E_{eq})$
 
 **I** = current
 **G** = conductance
 **(Vm - Eeq)** = driving force
-## Equilibrium Equation (Multiple Ions)
-AKA, Goldman-Hodgkin-Katz. This example considers the flow of Potassium (K) and Sodium (Na) ions.
-## $V_m = \frac{(E_{Na} * G_{Na}) + (E_K * G_K)}{G_{Na} + G_K}$
-
-**G** = conductance
-**E** = membrane potential
 # [[Ion channels and Action Potentials#Nodes of Ranvier|Action Potential Conduction]]
 ## Space Constant
 ## $\frac{\sqrt{R_m}}{R_i}$
@@ -89,6 +80,21 @@ AKA, Goldman-Hodgkin-Katz. This example considers the flow of Potassium (K) and 
 
 **Rm** = membrane resistance
 **C** = membrane capacitance
+# [[Autonomic Nervous System Effects Primer#Heart Circulation|Heart Circulation]]
+## Mean Arterial Pressure
+## $MAP = CO * TPR$
+
+**CO (Cardiac Output)** = stroke volume (SV) * heart rate (HR)
+**TPR (Total Peripheral Resistance)** =  The resistance of the entire circulatory system
+
+## $MAP = \frac{DBP + (SBP - DBP)}{3}$
+
+**SBP** = The contracting pressure, which correlates with the cardiac output (CO). Normally between 90-120 mmHg.
+**DBP** = The arterial pressure when the heart is relaxes, which correlates with total peripheral resistance (TPR). Normally between 60-80 mmHg.
+## Pulse Pressure
+## *PP = SBP - DBP*
+**SBP** = The contracting pressure, which correlates with the cardiac output (CO). Normally between 90-120 mmHg.
+**DBP** = The arterial pressure when the heart is relaxes, which correlates with total peripheral resistance (TPR). Normally between 60-80 mmHg.
 # [[Body Fluid Compartments]]
 ## Indicator Dilution Technique
 For finding a compartment volume of unknown size.

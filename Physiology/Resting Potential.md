@@ -22,11 +22,11 @@ Px is determined by four components
 - **Diffusion coefficient**
 - **Membrane thickness**
 - **Membrane area**
-# Ion channels
+# Ion Channels
 Ions can freely diffuse in and out of pores (e.g. non-gated channel or leak channel). The number/type of pore channels determines the resting membrane potential (RMP).
 
 Gated channels, by contrast, open and close in response to a stimulus (e.g., light, sound, voltage, etc.). They can also alter the flux of an ion.
-# Voltage-gated channels
+# Voltage-Gated Channels
 Components:
 - Gate
 - Ion selectivity filter
@@ -45,7 +45,7 @@ Channels can also be made up of different numbers of subunits.
 - **Tetramer (4)**: Na+/K+/Ca2+ channels
 - **Pentamer (5)**: Nicotinic [[Synaptic Cell Biology#Key Neurotransmitter Metabolism|Acetylcholine]]
 - **Hexamer (6)**: Connexon, making up half of a gap junction channel.
-# Electrochemical equilibrium
+# Electrochemical Equilibrium
 **Chemical force**: Concentration gradient
 **Electrical force**: Charge buildup (electrical gradient)
 
@@ -58,13 +58,13 @@ Measuring the equilibrium potential for an ion
 **F** = faraday's constant
 ### Simplified: $E_{eq} = \frac{60}{z} * log(\frac{[X_o]}{[X_i]})$
 *memorize this pls*
-# Depolarization and hyperpolarization
+# Depolarization and Hyperpolarization
 Depolarization occurs as the membrane becomes less negative. Hyperpolarization occurs as the cells becomes more negative then its resting state.
 ## Resting membrane potential
 As ions flow over the cell membrane, they produce current. At steady state, the currents from sodium and potassium cancel each other out. Therefore, $I_K + I_{Na} = 0$.
 
 The sodium-potassium pump will maintain the cell membrane potential as the leak channels freely move ions in and out of the cell. The leak channels will usually be permeable to one ion at a time, which creates the gradient.
-# Membrane conductance
+# Membrane Conductance
 The membrane potential is the differences in voltages inside and outside the cell.
 ## Voltage
 Ohms law states *V = IR*
@@ -80,23 +80,24 @@ Capacitance is the ability of a system to store charge. *C = q/V*
 **C** = capacitance
 **q** = charge (coulombs)
 **V** = voltage
-# Multi-ion equilibrium equation
-Modification of Nernst into Goldman-Hodgkin-Katz.
-
-Approximate equation:
+# Multi-Ion Membrane Potential
+Modification of Nernst into Goldman-Hodgkin-Katz. This example considers Na2+ and K+.
+$$V_m = -60 * log(\frac{G_{\text{Na}} * [Na]_{\text{out}} + G_{\text{K}} * [K]_{\text{out}}}{G_{\text{Na}} * [Na]_{\text{in}} + G_{\text{K}} *[K]_{\text{in}}})$$
+Current equation:
 $I = G(V_m - E_{eq})$
 
 **I** = current
 **G** = conductance
 **(Vm - Eeq)** = driving force
 
-Therefore, at steady state for the ions Na2+ and K+, the following would be the derived equations:
+At steady state for the ions Na2+ and K+, the following would be the derived equation:
 $I_{Na} + I_K = 0$
 
+Therefore:
 $I_{Na} = G_{Na}(V_m - E_{Na})$
 $I_{K} = G_{K}(V_m - E_{K})$
 
-And finally:
+And finally to combine into the Goldman-Hodgkin-Katz (in steady state):
 ## $V_m = \frac{(E_{Na} * G_{Na}) + (E_K * G_K)}{G_{Na} + G_K}$
 
 ## Key takeaways

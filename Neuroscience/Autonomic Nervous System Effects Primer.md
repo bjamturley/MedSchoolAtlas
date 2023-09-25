@@ -30,7 +30,7 @@ Piloerection and sweating.
 | ---------- | --------------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------- |
 | **Alpha**  | Smooth muscle, pupillary muscle, skin follicles, GI/bladder           | Epinephrine and norepinephrine  | Vasoconstriction, pupil dilation (mydriasis), piloerection, sphincter contraction        |
 | **Beta-1** | Heart/kidney                                                          | Epinephrine and norepinephrine  | Increased: Heart rate, AV node conduction, atrial/ventricular contraction, renin release |
-| **Beta-2** | Blood vessels to skeletal muscle/liver as well as on the liver/heart. | Epinephrine via adrenal medulla | Vasodilation, [[Glycogen and Fuel Balance#Glycogenolysis\|glycogenolysis]]               |
+| **Beta-2** | Smooth muscle of blood vessels to skeletal muscle/liver as well as on the liver/heart. | Epinephrine via adrenal medulla | Vasodilation, [[Glycogen and Fuel Balance#Glycogenolysis\|glycogenolysis]]               |
 
 For neurotransmitter lifecycle, see here: [[Synaptic Cell Biology#Key Neurotransmitter Metabolism]]
 # Heart Circulation
