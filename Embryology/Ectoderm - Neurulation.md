@@ -31,7 +31,7 @@ Location of migration determines cell type. For instance, dorsal side of neural 
 - **Pigmented cells (melanocytes)**
 - Dentin in teeth
 - Adrenal medulla
-- **Spiral septum (deficit in crest cells leads to persistent [[Mesoderm - Musculoskeletal and Urogenital#Aortic arch arteries|truncus arteriosus]])**
+- **Spiral septum (deficit in crest cells leads to persistent [[Mesoderm - Musculoskeletal#Aortic arch arteries|truncus arteriosus]])**
 - **Schwann cells and glial cells**
 ## Spinal cord
 [[Nervous System Primer#Nerves]]
@@ -59,7 +59,7 @@ Folding mechanisms
 **Differential tangential expansion (most popular)**: Differences in neuroprogenitor cell division rates
 
 ![[Pasted image 20230827111446.png]]
-# Clinical pearls
+# Clinical Pearls
 ## Lissencephaly
 Absence of folds in the brain. Overly thick gray matter development causes a smooth brain and an unmyelinated area. This does not appear until ***week 5***.
 
@@ -88,11 +88,5 @@ Can cause neural tube defects as development requires an abundance of nucleic ac
 Causes buildup of free radicals and neural crest cells become vulnerable to alcohols and retinoic acids (vitamin A)
 ### Autism (or the ['tism](https://www.youtube.com/watch?v=Hllz5r5T34c) as we call it back home)
 Research suggests neural crest cell defects may be a cause.
-### Outflow tract defects
-Failure of neural crest cells to form the conotruncal cushions of the heart. 
-
-- Patent truncus arteriosis: Fusion of pulmonary artery and aorta
-- Transposition of great vessels: Pulmonary artery and aorta are flipped
-- Double outlet right ventricle: Aorta and pulmonary artery flow out from right ventricle
 ### Hypoplastic left heart syndrome
 In which the left ventricle and aorta are too small. Babies will often have an atrial septal defect between the atria. Norwood procedure required which shunts the aorta to the pulmonary vein.

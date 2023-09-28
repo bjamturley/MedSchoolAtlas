@@ -37,7 +37,7 @@ The lung buds appear off the trachea distally and secondary bronchial buds form 
 - Surfactant production (facilitates gas exchange)
 - Differentiation of endothelial to epithelial cells
 - Separation of pulmonary and systemic circulation
-# Tongue development
+# Tongue Development
 BMP-7 from the endoderm inhibits cell proliferation while stimulating Noggin in the mesoderm. Patched (Ptc) is also secreted by the endoderm and stimulates growth. BMPs inhibit Ptc so Noggin is needed to turn down the BMP-7 and allow Ptc to stimulate tongue development.
 
 The mesoderm is controlled by HOX targets from neural crest cells. 
@@ -45,7 +45,7 @@ The mesoderm is controlled by HOX targets from neural crest cells.
 Red represents BMP-7, green represents Ptc.
 
 ![[Pasted image 20230822231158.png]]
-# Key signaling molecules
+# Key Signaling Molecules
 ## BMP-4
 Secreted by distal endoderm. First in the endoderm lining the pharynx, causing growth of respiratory diverticulum and lung buds. We know this because BMP-4 is a promoter for LacZ and staining for LacZ reveals the locations of BMP-4 activity.
 ## Noggin

@@ -81,7 +81,7 @@ The STB produces digestive enzymes which eat away at capillaries. Blood pools as
 
 The epiblast divides and migrates between Heuser's membrane and the CTB, forming the **extraembryonic mesoderm**. As this mesoderm surrounds Heuser's membrane, it can no longer secrete ECM materials, breaking the extraembryonic reticulum, and forming a fluid filled cavity called the chorionic cavity.
 ## 4. Yolk sacs ***(12 - 13 days)***
-Hypoblast (extraembryonic mesoderm), differentiate further into the **primary yolk sacs**. The **secondary yolk sac** then forms and the primary yolk sac pinches off and disintegrates. 
+The extraembryonic mesoderm differentiates further into the **primary yolk sacs**. The **secondary yolk sac** then forms and the primary yolk sac pinches off and disintegrates. 
 
 Blood vessels form first in secondary yolk sac and then, after a day, in the extraembryonic mesoderm.
 

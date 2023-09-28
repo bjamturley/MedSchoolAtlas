@@ -1,4 +1,4 @@
-For circulatory system development, see here: [[Mesoderm - Cardiac]]
+For circulatory system development, see here: [[Mesoderm - Cardiovascular]]
 # Cardiovascular system
 
 ![[Heart flow diagram.png]]
