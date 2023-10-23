@@ -63,10 +63,3 @@ Place finger on middle of patient's chin and move down.
 2. Palpate six regions: tonsillar, submandibular, submental, anterior cervical, posterior cervical, supraclavicular. Note swelling or tenderness.
 
 ![[Pasted image 20230821203423.png]]
-
-# Neck/Thyroid
-1. Inspect neck (trachea) and thyroid
-2. Ask patient to swallow and observe thyroid. Insure movement is up and down
-3. Palpate anterior thyroid
-4. Stand behind patient, feel thyroid and ask patient to swallow water
-5. Push thyroid to the side and use fingers to walk down thyroid lobe. Complete left and right side

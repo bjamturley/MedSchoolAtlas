@@ -75,7 +75,7 @@ Caused by deletion on chromosome 15Q11-13. Inherited from father.
 - Cognitive: CNS malformations, retardation
 - Physical: Impaired body control, short stature, insatiable appetite
 ## Angelman's Syndrome
-Caused by deletion on chromosome 15q11-13. Inherited from mother.
+Caused by deletion on chromosome 15Q11-13. Inherited from mother.
 
 **Symptoms**:
 - Cognitive: Happy demeanor, developmental delay, language difficulty

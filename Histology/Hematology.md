@@ -49,7 +49,7 @@ Accounts for 28% of WBCs. Are the B and T cells of the immune system which media
 #### Structure
 Large/round/uniform nucleus and sparse cytoplasm. Has a few granules which turn PURPLE with azurophilic stain.
 ### Monocytes
-Accounts for 5% of WBCs. These are the progenitors of macrophages and secrete cytokines involved in host defense/inflammation. They will phagocytose foreign antibodies and is an antigen-presenting cell (APC).
+Accounts for 5% of WBCs. These are the progenitors of [[Innate Immunity and the Complement System#Macrophages|macrophages]] and secrete cytokines involved in host defense/inflammation. They will phagocytose foreign antibodies and is an antigen-presenting cell (APC).
 #### Structure
 Large nucleus which looks indented (not to be confused with eosinophils which have clear granules). Has more cytoplasm than lymphocytes.
 

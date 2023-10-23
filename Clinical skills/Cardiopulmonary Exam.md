@@ -48,7 +48,7 @@
 	2. 5 posterior and 2 lateral levels. Bilaterally and symmetrically, avoiding scapula
 ![[Pasted image 20230814115004.png]]
 5. Percuss anterior lung fields: 2 levels
-	1. 1 above clavicle and 1 below clavicle (**we only do 1 and 2 for PETA**)
+	1. 1 above clavicle and 1 below clavicle
 ![[Pasted image 20230814115026.png]]
 6. Auscultate lungs
 	1. Ask patient to take deep breaths though open mouth

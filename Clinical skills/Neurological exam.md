@@ -54,8 +54,6 @@ Using the tuning fork, touch the following locations and insure they feel the sa
 Strike the tuning fork and touch the stem to the distal interphalangeal joint of the pointer finger and the interphalangeal joint of the big toe. Insure they feel the same bilaterally.
 ## Proprioception (feet only)
 Isolate the joint and hold their toe. Lift it up and down and ask if they can feel the difference in direction. Ask patient to close their eyes and respond if you are moving the toe up and down.
-## Romberg
-Ask patient to place feet together with hands to the side. Have them close their eyes for 10 seconds. Make sure you position yourself to catch them if they fall.
 # Motor Assessment
 ## Muscle bulk
 Palpate their muscles in upper and lower extremities, checking for atrophy. Compliment gainz as necessary.
@@ -120,3 +118,5 @@ Ask patient to tap their foot on your hand as quickly as possible. Repeat for ot
 Ask patient to take their heel and place it on their opposite knee and slide it down their shin and back. Repeat for other side.
 ## Gait
 Ask patient to walk across the room and back. Ask them to do the same on their toes and then on their heels. Next, ask them to perform a **tandem walk** one foot in front of the other in a line.
+## Romberg
+Ask patient to place feet together with hands to the side. Have them close their eyes for 10 seconds. Make sure you position yourself to catch them if they fall.

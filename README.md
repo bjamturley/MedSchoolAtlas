@@ -12,14 +12,14 @@ This project maintains lightweight and searchable medical school notes. The goal
 |                                                           |                                                               |                                                                     |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Anatomy](https://medschoolAtlas.xyz/docs/anatomy/)       | [Biochemistry](https://medschoolAtlas.xyz/docs/biochemistry/) | [Embryology](https://medschoolAtlas.xyz/docs/embryology/)           |
-| [Genetics](https://medschoolAtlas.xyz/docs/genetics/)                                                  | [Histology](https://medschoolAtlas.xyz/docs/histology/)       | Human Sexuality                                                     |
-| Immunology                                                | Microbiology                                                  | [Neuroscience](https://medschoolAtlas.xyz/docs/neuroscience/)       |
-| Nutrition & Health                                        | Pathology                                                     | Pharmacology                                                        |
+| [Genetics](https://medschoolAtlas.xyz/docs/genetics/)     | [Histology](https://medschoolAtlas.xyz/docs/histology/)       | Human Sexuality                                                     |
+| [Immunology](https://medschoolAtlas.xyz/docs/immunology/) | [Microbiology](https://medschoolAtlas.xyz/docs/microbiology/) | [Neuroscience](https://medschoolAtlas.xyz/docs/neuroscience/)       |
+| Nutrition & Health                                        | [Pathology](https://medschoolAtlas.xyz/docs/pathology/)       | [Pharmacology](https://medschoolAtlas.xyz/docs/pharmacology/)       |
 | [Physiology](https://medschoolAtlas.xyz/docs/physiology/) | Psychiatry                                                    | [Clinical Skills](https://medschoolAtlas.xyz/docs/clinical-skills/) |
 ## Equation Cheat Sheets
 [Block 1](https://medschoolatlas.xyz/docs/block-1-equations-cheat-sheet/) | Block 2 | Block 3 | Block 4 | Block 5 | Block 6
 ## Note Taking Principles 
-Notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education. We are currently completing Block 1.
+Notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education. We are currently completing Block 2.
 
 1. Required information is the only important information
 3. [Readability supersedes density](https://www.youtube.com/watch?v=_K-L9uhsBLM&t=52s)

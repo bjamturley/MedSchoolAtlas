@@ -58,7 +58,7 @@ If you knock it out, the lungs will underdevelop.
 BMP-7 from the endoderm inhibits proliferation while stimulating Noggin in the mesoderm. When BMP-4 is at high concentrations, Noggin is released, deactivating BMP-4. This allows for branching as the concentration gradient changes based on location.
 # Clinical pearls
 ## Tracheoesophageal Fistulas (TEFs)
-Commonly present as infant swallows and fluid spills into trachea, leading to coughing. These are part of a family of defects which often occur together.
+Commonly present as infant swallowing and spilling fluid into trachea, leading to coughing. These are part of a family of defects which often occur together.
 
 **VACTERL**
 - Vertebral anomalies

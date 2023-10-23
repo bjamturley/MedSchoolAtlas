@@ -49,4 +49,4 @@ By week 7-8, thoracic muscles develop. They are derived from myotome which has a
 ***Week 5***: Costal processes (from **sclerotomes**) elongate along body wall
 ***Week 7***: First 7 ribs connect ventrally and cranially to mesenchymal condensates
 
-The xiphoid process does not ossify until birth. The 5 ribs causal to the sternum (false ribs) do not fuse.
+The xiphoid process does not ossify until birth. The 5 ribs caudal to the sternum (false ribs) do not fuse.
