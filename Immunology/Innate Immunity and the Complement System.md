@@ -72,6 +72,8 @@ Antiedema without urticaria (swelling without redness) in response to trauma. He
 # Innate Cellular Response
 ## Myeloid Lineage
 ### Macrophages
+For more on macrophages in inflammation, see here: [[Inflammation and Repair#Macrophages]]
+
 Phagocytose pathogens and kill them using **oxidative/respiratory bursts** using **NADPH oxidase**. An **NBT reduction test** can be used to test for activity of the respiratory burst.
 
 They recognize microbes via **Toll-Like Receptors (TLRs)**. They bind to [[Immune Function Primer#Innate immunity|MAMPs/DAMPs]]. Cell surface TLRs recognize microbial cell wall features, while endosome TLRs recognize digested pathogen features. Basis for **adjuvant**.
