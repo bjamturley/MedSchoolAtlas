@@ -31,6 +31,23 @@ Notes follow the Georgetown Medical School [curriculum](https://som.georgetown.e
 9. Conceptually dense references require links
 10. Don't panic
 ## Formatting Guidelines
-These have not been fleshed out yet. Try to keep each related block of information in a dedicated header without being tangential. For example, even though the arm and leg circulatory systems  develop around the same time and look similar, they should be organized as independent concepts.
-
-**The most important thing is always legibility of information.**
+These have not been fleshed out yet. Try to keep each related block of information in a dedicated header without being tangential. For example, even though the arm and leg circulatory systems develop around the same time and look similar, they should be organized as independent concepts. If an article gets too general, split it into multiple, more focused topics.
+### Headers
+1. Top headers should be Pascal Case, subsequent headers should have only the first word capitalized.
+3. For most purposes, keep subheaders above four (>####).
+4. Headers should not have line breaks before or after them.
+### Lists
+1. For most purposes, avoid nested bulleted lists.
+###  Formulas
+1. Formulas should be either a secondary or tertiary header.
+2. Formulas should always have variables defined below.
+### Tables
+1. If the first column of a table has no header, italicize or bold all items within that column.
+### Technicalities
+1. Bacterial species should be *italicized*.
+### Legibility
+1. Break up long paragraphs.
+2. **Bold** key terms.
+3. Avoid using acronyms without defining them first (AUAWDTF).
+### Quality of life
+1. Only link to something within the site if it is the authority on the term/concept or the linked content directly relates to the topic.

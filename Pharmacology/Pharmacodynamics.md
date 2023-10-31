@@ -91,7 +91,7 @@ A **positive allosteric modulator (PAM)** increases receptor activation, shiftin
 | *[[Signal Transduction Primer#Receptor tyrosine kinases\|Growth factors/cytokines]]* | EGFs ect., interferons                 | Protein kinases (phosphorylation)                    |
 | *Transcription factors*    | Estrogen                               | Transcriptional regulation                           |
 | *Enzymes*                  | HMG-CoA, PDE, MEK, cholinesterase      | Enzyme inhibition/activation                         |
-| *Protein interactions*     | BCR/ABL, EWS/Flit-1, [[Necrosis and Apoptosis Primer#Intrinsic (mitochondrial) pathway|BCL-2]]/BH3 binding | Example: Venetoclax for chronic lymphocytic leukemia |
+| *Protein interactions*     | BCR/ABL, EWS/Flit-1, [[Necrosis and Apoptosis Primer#Intrinsic (mitochondrial) pathway\|BCL-2]]/BH3 binding | Example: Venetoclax for chronic lymphocytic leukemia |
 | *DNA/RNA*                  | siNRA, antisense                       | Alters coding regions                                |
 # Receptor Reserve
 Not all receptors need to be occupied to get to Emax. This is why EC50 and Kd are not always equal. Kd is occupancy, which EC50 is function.

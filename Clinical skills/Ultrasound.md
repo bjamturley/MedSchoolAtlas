@@ -1,4 +1,6 @@
 In which a machine yells into your body (quietly) and makes a picture based on many sound waves bounce back. Soft tissues will have a weaker echo and thus the machine ear (transducer) can discriminate anatomical features.
+
+It's worth reviewing the spatial anatomical terms before conducting an ultrasound: [[Anatomy Nomenclature]]
 # Artifacts
 An image from faulty wave interpretation.
 ## Reverberation
