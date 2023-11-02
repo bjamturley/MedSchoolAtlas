@@ -28,9 +28,9 @@ Connect to the adaptive immune system by phagocytosing bacteria and presenting t
 ### Neutrophils
 Phagocytose or degranulate (vomit pathotoxic materials). It'll then self-destruct.
 ### Eosinophils
-Hypersensitivity and allergy. Will also bully large parasites and worms.
+[[Hypersensitivity]] and allergy. Will also bully large parasites and worms.
 ### Mast cells
-Hypersensitivity and allergy. Will also bully large parasites and worms.
+[[Hypersensitivity]] and allergy. Will also bully large parasites and worms.
 ### Natural Killer (NK) T-cell
 Not myeloid
 ## Adaptive immunity

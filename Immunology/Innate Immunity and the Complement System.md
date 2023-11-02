@@ -93,15 +93,15 @@ Finally, in response to viruses, macrophages will also produce **interferons** w
 ## Neutrophils
 Phagocytose and kill pathogens via respiratory bursts. Attracted to infection site via **chemokines (IL8)**. Can also degranulate and release pathogen-killing enzymes.
 ## Dendritic cells
-Coming soon.
+See here: [[T Cell Mediated Immunity#Dendritic Cells (DCs)]]
 ## Eosinophils and Basophils
 Kills parasites by recognizing **IgE, IgA, or IgG** and degranulating reactive oxygen species (ROSs). They also **increase collagen deposition** to form a granuloma around parasitic infection.
 
-Involved in asthma, allergy, and hypersensitivity.
+Involved in asthma, allergy, and [[hypersensitivity]].
 ## Mast cells
 Release pre-formed and synthesized molecules to modulate inflammation like histamine and pro-inflammatory prostaglandins and leukotrienes for vasodilation. Activated by **C3b/IgE** but also **temperature** and **pressure**. This is why cold temperatures or pressure from eating food can cause a runny nose.
 
-Involved in **Type 1 hypersensitivity (allergic) reactions**.
+Involved in **Type 1 [[hypersensitivity]] (allergic) reactions**.
 ## Lymphoid lineage
 Will parallel adaptive immune system cells, but lack clonal antigen receptors.
 ### Natural Killer (NK) T-Cells

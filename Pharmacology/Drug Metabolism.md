@@ -74,7 +74,7 @@ Important transporters
 
 **P-glycoprotein** is an efflux transporter on the apical membranes in the intestines, liver, kidney, and blood-brain barrier. It pumps substances out of cells to protect the organs.
 # Pharmacogenomics
-The study of how a person's genome influences drug behavior. **Epigenetics** are changes in phenotype but not genotype. There many polymorphisms of metabolic enzymes that can cause altered pharmacodynamics and pharmacokinetics. Just treat the patient as an individual, m'kay?
+The study of how a person's genome influences drug behavior. **Epigenetics** are changes in phenotype but not genotype. There many polymorphisms of metabolic enzymes that can cause altered [[pharmacodynamics]] and [[pharmacokinetics]]. Just treat the patient as an individual, m'kay?
 
 If a patient is deficient in a CYP isozyme, they will get similar pharmacokinetic/pharmacodynamic alterations as a patient with a CYP inhibitor.
 

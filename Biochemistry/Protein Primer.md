@@ -61,4 +61,4 @@ Enzymes involved in activation:
 2. Ubiquitin activating enzyme E2
 3. Ubiquitin ligase E3 (this picks the target)
 # Histone code
-Modifications help determine which parts of DNA will undergo transcription.
+Modifications help determine which parts of DNA will undergo [[transcription]].

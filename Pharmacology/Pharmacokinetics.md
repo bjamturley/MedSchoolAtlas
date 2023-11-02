@@ -73,7 +73,7 @@ Similar to the two compartments, with additional vectors K1→3 and K3→1. Comp
 
 ![[Pasted image 20231019151537.png]]
 # 4. Metabolism
-Coming soon
+See here: [[Drug Metabolism]]
 # 5. Elimination
 The majority of drugs are excreted via the kidneys (urine). **80%** of drugs are **transported into the proximal tubule** for excretion. **20% of drugs are non-polar** and **passively diffuse** from blood to urine. However, these can follow the concentration gradients and diffuse back.
 
@@ -122,7 +122,7 @@ Many drugs are administered in multiple doses with a **steady state target**, wh
 ![[Pasted image 20231019171359.png]]
 ## Clearance
 Allows calculation of dosing rate to maintain a steady-state. Is is found using the volume of distribution (*Vd*) and the fraction of Vd being eliminated (*Ke*).
-### $\text{Clearance} = K_e \times V_d$
+### $\text{Clearance Rate (CR)} = K_e \times V_d$
 
 Therefore, the dosing rate (the amount of drug going in) will equal the amount of drug going out (clearance * concentration at steady state). This can be expressed as follows:
 ### $\text{steady-state dosing rate} = CR \times C_{SS}$
