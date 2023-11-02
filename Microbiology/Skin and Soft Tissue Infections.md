@@ -1,13 +1,3 @@
-# *Staphylococcus aureus*
-Colonizes the anterior nares (upper nostril) as it has a perfect growth environment. It binds with teichoic acid.
-
-High risk populations
-- Dialysis
-- IV drug users
-- Insulin dependent diabetes
-- HIV/AIDs
-- Allergy immunizers
-- Those with recurrent *S. aureus* skin infections
 # Impetigo
 *Staphylococcus aureus* or *Streptococcus Pyogenes*. Common in young children, tropical areas, crowded areas.
 
@@ -58,7 +48,7 @@ Causes deep tissue infection, bacteremia, and multiorgan failure with high morta
 ## Treatment
 Surgery, PCN with clindamycin, IV immunoglobulins.
 # Fournier's Gangrene
-Synergistic polymicrobial infection. Anaerobes, Enterobacteriaceae, gram (+) cocci. Common in diabetic or obese patients.
+Synergistic polymicrobial infection. Anaerobes, Enterobacteriaceae, [[Gram Positive Cocci]]. Common in diabetic or obese patients.
 
 Rapidly spreading infection of skin and soft tissues of the male GU tract.
 ## Treatment

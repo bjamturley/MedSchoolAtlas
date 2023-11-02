@@ -113,6 +113,8 @@ Types of *enterobacterales*
 - Intra-abdominal infections
 # Bacterial Media
 ## Blood agar plate
+For more, see here: [[Gram Positive Cocci#Laboratory Techniques]]
+
 Non-selective for gram (+)/(-). Exhibits alpha, beta, and gamma hemolysis. 
 
 **Alpha** will be greenish and text for *Streptococcus pneumoniae*.
