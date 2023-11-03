@@ -90,7 +90,7 @@ There are **stretch receptors** in the **carotids and aortic arch**. This inform
 
 Secondarily, A2A receptors in the vasomotor center in the brain will trigger vasodilation, decreasing total peripheral resistance (→ diastolic blood pressure) and cardiac output (→ systolic blood pressure)
 ## Food for thought
-What if an A1 agonist (**phenylephrine**) was given and then [[Cholinergics#Atropine|atropine]]?
+What if an A1 agonist (**phenylephrine**) was given and then [[Cholinergic Drugs#Atropine|atropine]]?
 
 The baroreceptor signal would still be sensed by the brain, but it won't be able to transmit the signal to increase heart rate as the muscarinic receptors on the Vagus Nerve will be inhibited by the atropine.
 # Direct Catecholamine Action
