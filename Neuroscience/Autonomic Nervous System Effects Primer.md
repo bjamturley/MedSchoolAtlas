@@ -32,6 +32,7 @@ Piloerection and sweating.
 | **Beta-1** | Heart/kidney                                                          | Epinephrine and norepinephrine  | Increased: Heart rate, AV node conduction, atrial/ventricular contraction, renin release |
 | **Beta-2** | Smooth muscle of blood vessels to skeletal muscle/liver as well as on the liver/heart. | Epinephrine via adrenal medulla | Vasodilation, [[Glycogen and Fuel Balance#Glycogenolysis\|glycogenolysis]]               |
 
+For a more detailed overview of adrenergic receptors, see here: [[Adrenergics]]
 For neurotransmitter lifecycle, see here: [[Synaptic Cell Biology#Key Neurotransmitter Metabolism]]
 # Heart Circulation
 The **Total Peripheral Resistance (TPR)** is the resistance of the entire circulatory system. Therefore, *alpha adrenergic receptor* activation will result in higher TPR. 

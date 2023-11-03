@@ -35,6 +35,8 @@ The glucagon receptor is a [[Signal Transduction Primer#G-Protein coupled recept
 
 ![[Pasted image 20230831002407.png]]
 # Catecholamines (Norepinephrine/Epinephrine)
+For more detail on receptor function, see here: [[Adrenergics]]
+
 These function similarly to glucagon and will also stimulate glucagon secretion and inhibit insulin. They will promote glycogenolysis, gluconeogenesis, and fatty acid breakdown.
 
 These hormones will also switch muscles to fatty acid usage for energy by blocking glucose uptake.

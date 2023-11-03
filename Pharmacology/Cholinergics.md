@@ -16,6 +16,10 @@ G protein coupled (GPCR) which are slower acting and take longer to reach the ef
 **M3 (q)**: Increased exocrine gland secretions, peristalsis, bladder contraction, bronchoconstriction, pupillary sphincter muscle contraction (miosis), ciliary muscle contraction (accommodation), insulin release, vasodilation
 
 The **q subunit** receptors proceed down the [[Signal Transduction Primer#IP3 and DAG|IP3-DAG]] pathway while the **i subunit** receptor proceeds down the [[Signal Transduction Primer#Cyclic nucleotides#cAMP|cAMP]] pathway.
+
+*Note: M3 does not act on smooth muscle receptors directly, as that would cause them to contract. Instead, they use **downstream Nitric Oxide (NO) which diffuses to the smooth muscle** and increases cGMP, causing relaxation.*
+
+See here for a primer on signaling subunits s, i, and q: [[Signal Transduction Primer#Guanine binding proteins]]
 ## Nicotinic
 These are ligand-gated ion channels which cause depolarization at the target.
 

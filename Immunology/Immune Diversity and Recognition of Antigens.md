@@ -56,13 +56,11 @@ Receptors are made of **Variable (V), Joining (J), and Diversity (D)** segments.
 2. RAG1/2 removes the RSSs, creating hairpins (phosphodiester bond linking the two DNA strands at the end) on the ends of the coding sequences
 3. Signal ends are joined via [[Homologous Recombination#Non-homologous end joining|non-homologous end joining]]
 4. Hairpins are opened using the **Artemis protein**
-5. Random nucleotides are added to the DNA non-specifically using **terminal deoxytransferase**
-6. Exonucleases can also be used to remove random nucleotides here
+5. Random nucleotides are added to the DNA non-specifically using **terminal deoxytransferase**. Exonucleases can also be used to remove nucleotides here
 7. Coding ends are joined by [[Homologous Recombination#Non-homologous end joining|non-homologous end joining]]
 ## Random combination of antigen heavy/light chains
 Heavy/light chains undergo recombination independently, then combine to create diversity.
-## Somatic hypermutation in antigen variable regions
-Only in B cells. Deliberate point mutation at antigen receptor loci.
+![[Humoral Immune Response#Somatic Hypermutation]]
 ## Clinical Pearl: SCID
 Mutations that **inactivate the genes encoding RAG1/2** cause a form of SCID in which the patient does not have B or T cells, only NK cells. Partial inactivation can lead to **variable immunodeficiency** or **Omenn syndrome** (complete absence of B cells and low/normal T cells, with reduced T cell diversity).
 
