@@ -31,7 +31,7 @@ These are also cholinesterase inhibitors, but will permanently (irreversibly) sh
 The only AchE with a phosphate group used in medicine. Given as eye drops for **treatment of glaucoma**.
 ## Chemical warfare agents
 WWII era weapons. **Thoughtful gifts** for kids younger than 7. Can be treated with **pralidoxime**.
-# Muscarinic Antagonists
+# Muscarinic Antagonists (Sympathetic)
 Also known as antimuscarinics or anticholinergics. Stimulates the sympathetic nervous system via blocking the parasympathetic.
 ## Atropine
 Can cross the blood brane barrier can cause mental fog and confusion. Used in surgery to **reduce saliva** and can be used as treatment for **mushroom poisoning**. Can also be used in emergencies to **treat bradycardia**.

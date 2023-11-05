@@ -105,7 +105,7 @@ Conformations:
 - **Intermediate affinity**: One type of signaling present
 - **High affinity**: Both types of signaling present
 
-**Platelets** make use of the high affinity conformation to form clots.
+**Platelets** make use of the high affinity conformation to form [[Hemodynamics#Hemostasis|clots]].
 ## Notch receptor
 Important in embryonic development and inhibition leads to impairment for Alzheimer's patients.
 

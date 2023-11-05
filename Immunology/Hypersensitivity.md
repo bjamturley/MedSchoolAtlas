@@ -26,7 +26,7 @@ NK cells recognize IgG/C3b and bind the Fc part of the antibody, and kill the ce
 ## Mechanism 4: Antibody-Mediated Cellular Dysfunction
 Antibody binds to the cell and impairs physiologic function just by being annoying and present.
 
-Antibodies specific to acetylcholine receptors in muscle result in **[[Cholinergics#Cholinesterase Inhibitors (Parasympathetic)|myasthenia gravis]]**.
+Antibodies specific to acetylcholine receptors in muscle result in **[[Cholinergic Drugs#Cholinesterase Inhibitors (Parasympathetic)|myasthenia gravis]]**.
 Antibodies specific for receptors which stimulate thyroid hormone production can result in **Graves' disease (hypothyroidism)**.
 # Type III Hypersensitivity
 Mediated by immune complexes which bind to **soluble antigens (in plasma)**. These float around in blood longer and are less immunogenic. The clinical symptoms appear where immune complexes are deposited and complement proteins are rapidly consumed.

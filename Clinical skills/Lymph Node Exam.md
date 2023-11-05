@@ -40,6 +40,6 @@ Generally in the upper/outer quadrant and will disseminate [[Circulatory System 
 ## Lower extremity nodes
 These include the **horizontal group** which drains the belt-to-bottom (lower abdomen, buttocks, anal canal, external genitalia, lower vagina), and the **vertical group** which drains the legs (great saphenous veins).
 
-The lower calf drains into the small saphenous vein which is deep an not palpable.
+The lower calf drains into the small saphenous vein which is deep and not palpable.
 
 ![[Pasted image 20231029212854.png]]

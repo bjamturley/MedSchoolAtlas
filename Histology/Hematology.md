@@ -19,9 +19,9 @@ Also in plasma
 **-PHILS** (Granulocytes): Neutrophils, eosinophils, basophils. Have lobated nuclei and *recognizable granules*.
 **-CYTES** (Agranulocytes): Lymphocytes, monocytes. Have uniform nuclei and *few/no granules*.
 ### Platelets
-Derived from megakaryocytes and are important for hemostasis, clotting, and vascular repair. They are produced in the bone marrow and does not have a nucleus. Releases granule content through the open canalicular membrane system.
+Derived from megakaryocytes and are important for [[Hemodynamics#Hemostasis|hemostasis]], clotting, and vascular repair. They are produced in the bone marrow and does not have a nucleus. Releases granule content through the open canalicular membrane system.
 
-The membrane contains integrins used for platelet aggregation. These bind vWF and fibrinogen. It turns into a sphere upon clotting.
+The membrane contains integrins used for platelet aggregation. These bind [[Hemodynamics#Key modulators|vWF and fibrinogen]]. It turns into a sphere upon clotting.
 #### Structure
 Has a hyalomere (peripheral area) containing microfilaments and microtubules which will stain LIGHT BLUE. Also has a granulomere which is used for secretory storage (e.g. [[Synaptic Cell Biology#Key Neurotransmitter Metabolism|serotonin]] for vasoconstriction, PD growth factor for endothelial mitosis and vascular repair) which will stain PURPLE.
 ### Neutrophils

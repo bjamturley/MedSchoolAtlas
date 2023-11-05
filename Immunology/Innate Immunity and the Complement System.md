@@ -82,7 +82,7 @@ They recognize microbes via **Toll-Like Receptors (TLRs)**. They bind to [[Immun
 
 They will also secrete cytokines/chemokines to increase swelling and recruit helper cells.
 - **IL1b**, **TNFa**, **IL6**: Vasodilation, swelling
-- **IL6**: Stimulates liver to produce induced phase proteins. C-reactive protein (opsonization), fibrinogen (clotting), and MBL (complement system).
+- **IL6**: Stimulates liver to produce induced phase proteins. C-reactive protein (opsonization), [[Hemodynamics#Key modulators|fibrinogen]] (clotting), and MBL (complement system).
 - **IL8**, **CXCL8**: Recruits neutrophils, basophils, T cells
 - **IL12**: Activates NK cells and induces Th1 differentiation
 - **GCSF**: Increases neutrophil production

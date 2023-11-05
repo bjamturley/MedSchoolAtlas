@@ -22,12 +22,14 @@ Include separate tests that are related to the same organ system or are commonly
 - **Hepatic function panel**: albumin, alkaline phosphatase, ALT, AST, total bilirubin, direct bilirubin, total protein
 - **Obstetrical panel**: ABO and Rh blood typing, antibody screen, syphilis IgG, rubella Ab, CBC, HIV, hepatitis B surface antigen
 ## Hematology
+For more on hematology, see here: [[Hematology]]
+
 Complete Blood Count (CBC)
 - Hemoglobin
 - Hematocrit
 - White blood cell (WBC) count
 - Platelet count
 ## Troponin
-Troponin is a regulatory complex that modulates muscle contraction. **Troponin I is the most specific marker for acute myocardial infarction (MI)** and is considered the gold standard.
+Troponin is a regulatory complex that modulates muscle contraction. **Troponin I is the most specific marker for acute [[Hemodynamics#Myocardial infarction|myocardial infarction]] (MI)** and is considered the gold standard.
 
 Detectable **within 4-6 hours** with a peak at 12-18 hours. Levels will return to baseline at 6 days, making **timing key in detection of acute MI**.
