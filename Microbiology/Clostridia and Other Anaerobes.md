@@ -21,13 +21,13 @@ Gram positive cocci, motile, and sensitive to sodium polyanethol sulfonate. It's
 No specific toxins, but symptoms include pelvic inflammatory disease and bacterial vaginosis.
 ## Resistance mechanisms
 As it is opportunistic, if other bacteria produce beta-lactamase then it will be covered under that protection.
-# Cutibacterium acnes
+# *Cutibacterium acnes*
 Gram positive bacilli, aerotolerant, non-motile. Found on skin microbiota (in follicles). Commonly inhabits prosthetics and implants.
 
 Syndromes include Post Operative Prosthetic/Implant Infections, CSF Shunt, pelvic inflammatory disease, bacterial vaginosis, acne, keratitis.
 ## Resistance mechanisms
 Forms a biofilms to create a protective layer, which is why surgical implant removal may be necessary.
-# Actinomyces
+# *Actinomyces*
 Gram positive bacilli, non motile. Lesions form yellow granule in pus and have outer zone of granulation. Found in the pelvis, abdomen, and face.
 
 Syndromes include Oral Cervicofacial Disease (most common) which is a painless mass at angle of jaw, abdominal disease (appendicitis with perforation), pelvic disease (from copper IUDs), thoracic abscess, chronic cellulitis, draining sinuses

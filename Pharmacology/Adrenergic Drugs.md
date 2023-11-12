@@ -1,4 +1,4 @@
-For a review of the effects of adrenergic receptors and metabolism, see here: [[Adrenergics]]
+For a review of adrenergic receptors, see here: [[Adrenergics]]
 # B1 Selective Agonists
 ## Dobutamine
 Increases contractility (through renin in the kidney) more than heart rate. Short duration of action (1-2 mins) which is useful for **heart failure**.

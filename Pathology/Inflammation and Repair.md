@@ -88,7 +88,7 @@ Caused by inert foreign bodies (like sutures or splinters). Multiple macrophages
 Caused by persistent infections from poorly degradable particles. The center of the granuloma is either *caseating* which have a central necrosis (e.g. **tuberculosis**), or *non-caseating* which do not (e.g. **syphilis, cat-scratch disease, sarcoidosis**).
 ## Systemic effects
 - **Systemic inflammatory response syndrome**: Acute response from prolonged inflammation stemming from IL-1, IL-6, and TNF-alpha. Includes fever, leukocytosis, and acute phase proteins.
-- **Fever**: Elevation of body temperature by 1-4 deg C (IL-1 and TNF-alpha → cyclooxygenases → arachidonic acid → Prostaglandins → hypothalamus). Typically associated with infection. Helps with controlling invaders. NSAIDs can be taken to relieve fever by blocking prostaglandin production.
+- **Fever**: Elevation of body temperature by 1-4 deg C (IL-1 and TNF-alpha → cyclooxygenases → arachidonic acid → [[NSAIDs#Prostaglandins]] → hypothalamus). Typically associated with infection. Helps with controlling invaders. NSAIDs can be taken to relieve fever by blocking prostaglandin production.
 - **Leukocytosis**: Increases white blood cell count and will be reflected on complete blood count (CBC) measure. 
 - **Neutrophilia**: Increased number of neutrophils.
 - **Lymphocytosis**: Increased number of lymphocytes.

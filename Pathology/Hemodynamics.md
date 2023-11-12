@@ -90,7 +90,7 @@ Most common form.
 
 **Systemic embolism** arise from mural thrombi in the heart and can result in an arterial embolism in the brain (stroke), intestine, lower extremity, or kidney.
 ## Fat embolism
-After significant fracture or burn, portions of the bone marrow are released into the blood. Because **fat is an irritant**, it will trigger coagulation in the endothelium. This is usually asymptomatic, but severe forms can lead to respiratory failure, mental confusion, [[Neoplasia#Disseminated intravascular coagulation (DIC)|disseminated intravascular coagulation (DIC)]], anemia, and thrombocytopenia.
+After significant fracture or burn, portions of the bone marrow are released into the blood. Because **fat is an irritant**, it will trigger coagulation in the endothelium. This is usually asymptomatic, but severe forms can lead to respiratory failure, mental confusion, [[Neoplasia Primer#Disseminated intravascular coagulation (DIC)|disseminated intravascular coagulation (DIC)]], anemia, and thrombocytopenia.
 ## Air embolism
 Gas bubbles in the circulation which can obstruct vascular flow, This can happen with some surgeries, upon exposure to increased atmospheric pressure, such as in the case of getting **the bends** from scuba.
 ## Amniotic fluid embolism

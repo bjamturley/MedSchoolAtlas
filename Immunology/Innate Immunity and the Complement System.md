@@ -90,6 +90,8 @@ They will also secrete cytokines/chemokines to increase swelling and recruit hel
 Finally, in response to viruses, macrophages will also produce **interferons** which interfere with viral replication and infection, focuses the anti-viral attack for dendritic cells, macrophages, and NK cells.
 #### Clinical pearl: Chronic granulomatous disease
 **Deficiency in NADPH oxidase** means macrophages cannot kill pathogens. This results in **chronic infections and granulomas** which come from macrophages which have phagocytosed pathogens but cannot kill them.
+
+For more, see here: [[Immunodeficiency Diseases#Defects of oxidative metabolism]]
 ## Neutrophils
 Phagocytose and kill pathogens via respiratory bursts. Attracted to infection site via **chemokines (IL8)**. Can also degranulate and release pathogen-killing enzymes.
 ## Dendritic cells

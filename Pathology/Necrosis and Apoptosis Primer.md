@@ -18,7 +18,7 @@ Decrease in the size of the cell and its organ. Can be both natural (especially 
 
 **Etiology:** Decreased workload (disuse), denervation, low blood supply, or decreased hormonal tone. The process occurs using the lysosomal and ubiquitin/proteasome pathway to degrade cellular machinery.
 ## Metaplasia
-For more on neoplasia, see here: [[Neoplasia]].
+For more on neoplasia, see here: [[Neoplasia Primer]].
 
 The reprogramming of stem cells, replacing cells which are better adapted to a stressor. This generally occurs in [[Histological Techniques, Epithelium, and Glands#Epithelium|epithelial tissues]] in which columnar cells become squamous cells and vice versa. This is more often pathologic and can progress to **dysplasia** (alteration of cell structure) and eventually cancer. For example, **Barrett's esophagus** can progress to adenocarcinoma of the esophagus.
 
