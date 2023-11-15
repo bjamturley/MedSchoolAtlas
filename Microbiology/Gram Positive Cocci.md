@@ -32,6 +32,8 @@ Ability to invade tissue, cause disease, and evade host defense.
 Invades tissues using **hyaluronidase**, which breaks down connective tissue, and **streptokinase**, which activates plasmin to release additional bacteria. Disease is caused by toxin production and superantigens.
 
 It evades host defense using capsules, hyaluronate as a protective layer, and **M protein** which is anti-opsonization and inhibits complement.
+
+See here for clinical presentation: [[Head and Neck Infections#*Streptococcus Pyrogenes*]]
 ## Group B *Streptococcus agalactiae*
 Invades tissues using **lipoteichoic acid** for adherence and **C5a peptidase** for adhesion and invasion. Disease caused by hyaluronic acid lyase which spreads the infection.
 

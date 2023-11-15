@@ -106,7 +106,7 @@ Types of *enterobacterales*
 - *Proteus*
 
 **Clinical syndromes**
-- [[Healthcare acquired infections]] (nosocomial)
+- [[Hospital Acquired Infections]] (nosocomial)
 - HAP
 - VTI
 - Bacteremia

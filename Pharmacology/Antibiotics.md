@@ -100,7 +100,7 @@ Indicated for intra-abdominal, gynecological infection
 # Extended Spectrum PCNs (anti-pseudomonal)
 Beta-lactamase inhibitor extends activity against aerobic and anaerobic gram negative rods, including *P. aeruginosa* and *S. aureus*. 
 ## Piperacillin + Tazobactam (Zosyn)
-Indicated for [[Healthcare Acquired Infections]], HAP/VAP, UTI, intra-abdominal infection, diabetic limb infection, and severe *Pseudomonas* infection
+Indicated for [[Hospital Acquired Infections]], HAP/VAP, UTI, intra-abdominal infection, diabetic limb infection, and severe *Pseudomonas* infection
 # Cephalosporins
 Beta-Lactam. Note: No cephalosporin covers enterococci.
 
@@ -109,7 +109,7 @@ Beta-Lactam. Note: No cephalosporin covers enterococci.
 | *Cefazolin*           | 1          | MSSA and surgical prophylaxis                               | Great gram positive coverage                                           |
 | *Cefuroxime*          | 2          | Sinusitis, bronchitis, and otitis                           |                                                                        |
 | *Cefotetan/cefoxitin* | 2          |                                                             | Only ceph with anaerobic coverage                                      |
-| *Ceftriazone*         | 3          | Community acquired pneumonia/meningitis                     | Eliminated via biliary clearance, contraindicated for biliary diseases |
+| *Ceftriaxone*         | 3          | Community acquired pneumonia/meningitis                     | Eliminated via biliary clearance, contraindicated for biliary diseases |
 | *Ceftazidime*         | 3          | Pseudomonas                                                 |                                                                        |
 | *Cefepime*            | 4          | Hospital acquired pneumonia/meningitis and other infections | GPC and GNR coverage                                                   |
 | *Ceftaroline*         | 5          | MRSA, SSTI, community acquired pneumonia                                                             |                                                                        |
