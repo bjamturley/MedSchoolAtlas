@@ -18,8 +18,8 @@ This project maintains lightweight and searchable medical school notes. The goal
 | [Physiology](https://medschoolAtlas.xyz/docs/physiology/) | Psychiatry                                                    | [Clinical Skills](https://medschoolAtlas.xyz/docs/clinical-skills/) |
 ## Equation Cheat Sheets
 [Block 1](https://medschoolatlas.xyz/docs/block-1-equations-cheat-sheet/) | Block 2 | Block 3 | Block 4 | Block 5 | Block 6
-## Note Taking Principles 
-Notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education. We are currently completing Block 2.
+# Note Taking Principles 
+Notes follow the Georgetown Medical School [curriculum](https://som.georgetown.edu/curriculum/journeyscurriculum/) as I am dragged kicking and screaming through the bloated and antiquated institution that is medical education.
 
 1. Required information is the only important information
 3. [Readability supersedes density](https://www.youtube.com/watch?v=_K-L9uhsBLM&t=52s)
@@ -31,10 +31,14 @@ Notes follow the Georgetown Medical School [curriculum](https://som.georgetown.e
 9. Conceptually dense references require links
 10. Don't panic
 ## Formatting Guidelines
-These have not been fleshed out yet. Try to keep each related block of information in a dedicated header without being tangential. For example, even though the arm and leg circulatory systems develop around the same time and look similar, they should be organized as independent concepts. If an article gets too general, split it into multiple, more focused topics.
+These have not been fleshed out yet.
+### Good article examples
+- [[Fatty Acid and Ketone Metabolism]]
+- [[Adrenergics]]
+- [[Pharmacokinetics]]
 ### Headers
 1. Top headers should be Pascal Case, subsequent headers should have only the first word capitalized.
-3. For most purposes, keep subheaders above four (>####).
+3. Keep subheaders above four (>####).
 4. Headers should not have line breaks before or after them.
 ### Lists
 1. For most purposes, avoid nested bulleted lists.

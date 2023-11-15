@@ -69,7 +69,7 @@ Tissue which forms in a wound during healing.
 
 ![[Pasted image 20231031174725.png]]
 # Scale
-Accumulation of stratum corneum from increased proliferation or delayed desquamation. White or yellow, rough.
+Accumulation of [[Integument#Stratum Corneum|stratum corneum]] from increased proliferation or delayed desquamation. White or yellow, rough.
 
 ![[Pasted image 20231031174843.png]]
 # Crust

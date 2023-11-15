@@ -62,7 +62,7 @@ Immediate response to injury. Triggered by **infections** (bacterial, fungal, vi
 
 Complications include the possibility of **abscess** (fibrous capsule of pus - yum) which required drainage, or **ulcer** (superficial epithelial or mucosal surface defect) which is quite painful.
 # Chronic Inflammation
-The result of persistent infections, exposure to toxic substances, or hypersensitivity disorders.
+The result of persistent infections, exposure to toxic substances, or [[hypersensitivity]] disorders.
 ## Cell mediators
 ### Macrophages
 For more on macrophages in the innate immune system, see here: [[Innate Immunity and the Complement System#Macrophages]]
@@ -100,7 +100,7 @@ Common proteins include **C-reactive protein (CRP)**, **fibrinogen**, and **seru
 ### Mononucleosis
 From viral infection. Swollen lymph nodes, increased number of lymphocytes.
 ### Syphilis
-From persistent *treponema pallidum* (gram negative spirochete). Causes rashes on palms and sores. Forms a gumma (lesion). Central cells are necrotic with a cellular outline.
+From persistent *Treponema pallidum* (gram negative spirochete). Causes rashes on palms and sores. Forms a gumma (lesion). Central cells are necrotic with a cellular outline.
 ### Asbestos
 Will see macrophages and scattered lymphocytes.
 ### Silicone
@@ -112,7 +112,7 @@ Leads to aggregation of lymphocytes in portal triads and destroys surrounding ti
 ### Bile duct destruction
 Lymphocytes surround the duct and result in tissue destruction.
 ### Hashimoto's thyroiditis
-Autoimmune response from hypersensitivity disease leads to parenchyma.
+Autoimmune response from [[hypersensitivity]] disease leads to parenchyma.
 ### Tuberculosis
 Caused by *mycobacterium tuberculosis*. Forms a caseating granuloma.
 ### Leprosy

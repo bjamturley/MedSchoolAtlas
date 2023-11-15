@@ -2,13 +2,13 @@ Bacterial DNA is circular. Any component of DNA that replicates as a singular un
 
 Bacterial protein synthesis is a target of antibiotics. These often bind at the **30S or 50S ribosome**.
 
-Common antibiotics
+Common [[Antibiotics]]
 - **clindamycin**
 - **aminoglycosides**
 - **macrolides**
 - **tetracycline**
 # Bacterial Plasmids
-Circular pieces of DNA. They have resistance to antibiotics between and among bacterial species. This is referred to as an R factor. They also encode for production of toxins, like the heat-labile/heat-stable *E. coli* enterotoxins, the exfoliative *Staphylococcus aureus* toxin, and the *Clostridium tetani* tetanus toxin.
+Circular pieces of DNA. They have resistance to antibiotics between and among bacterial species. This is referred to as an R factor. They also encode for production of toxins, like the heat-labile/heat-stable *[[Enterics#*Escherichia coli* (E. coli)|E. coli]]* enterotoxins, the exfoliative *[[Gram Positive Cocci#*Staphylococcus aureus*|Staphylococcus aureus]]* toxin, and the *[[Clostridia and Other Anaerobes#*Clostridium tetani*|Clostridium tetani]]* tetanus toxin.
 
 R plasmids emerged from selection pressure from antibiotics. They can contain multiple resistant genes which can be transferred between bacteria (transposons).
 # Genetic Exchange
@@ -28,7 +28,7 @@ Lysogenic associated bacterial toxins
 - *C. diphtheria*
 - *C. botulinum*
 - *V. cholerae*
-- *E. coli Shiga*
+- *[[Enterics#*Escherichia coli* (E. coli)|E. coli]] Shiga*
 - *[[Gram Positive Cocci#Group A *Streptococcus pyogenes*|S. pyogenes]]*
 
 In *C. diphtheria*, the lysogenic bacteriophage carries the gene encoding the exotoxin which inactivates elongation factor 2. This results in pharyngitis with pseudomembrane, myocarditis, and respiratory failure.

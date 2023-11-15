@@ -1,6 +1,6 @@
 Non-Steroidal Anti-Inflammatory Drugs.
 # Prostaglandins
-Tissue injury leads to arachidonic acid (AA) release. AA can either become **prostaglandins** via **cyclooxygenase (COX)**, or **leukotrienes** via **lipoxygenase (LO)**. These lead to inflammatory response.
+Tissue injury leads to [[Inflammation and Repair#Systemic effects|arachidonic acid]] (AA) release. AA can either become **prostaglandins** via **cyclooxygenase (COX)**, or **leukotrienes** via **lipoxygenase (LO)**. These lead to inflammatory response.
 
 **COX-1**
 - [[Pharmacodynamics#Agonism|Constitutive]]

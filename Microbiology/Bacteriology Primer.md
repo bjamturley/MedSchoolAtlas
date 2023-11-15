@@ -41,7 +41,7 @@ Will activate complement system, bringing neutrophils and histamine release (ede
 - **Core polysaccharide**
 - **O antigen**: Immunogenic
 
-Lipid A actives [[Innate Immunity and the Complement System#Macrophages|macrophages]] and upregulates production of cytokines (hypotension) and pyrogens (fever). Can result in circulatory collapse or septic shock.
+Lipid A actives [[Innate Immunity and the Complement System#Macrophages|macrophages]] and upregulates production of cytokines (hypotension) and pyrogens (fever). Can result in circulatory collapse or [[Septic Shock]].
 # Recognizing Bacteria
 ## Gram (+)
 ### Cocci clusters
@@ -106,7 +106,7 @@ Types of *enterobacterales*
 - *Proteus*
 
 **Clinical syndromes**
-- Healthcare acquired infections (nosocomial)
+- [[Healthcare acquired infections]] (nosocomial)
 - HAP
 - VTI
 - Bacteremia

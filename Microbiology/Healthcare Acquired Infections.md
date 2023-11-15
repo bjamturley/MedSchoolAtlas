@@ -13,7 +13,7 @@ Is generally present in water and is common in hospital-acquired infections. The
 - Infective endocarditis
 - Pneumonia
 - Bone and joint infections
-- Skin and soft tissue infections (e.g., swimmers ear, malignant otitis externa)
+- [[Skin and soft tissue infections]] (e.g., swimmers ear, malignant otitis externa)
 - Eye infections (keratitis, endophthalmitis)
 ## Antibiotics resistance
 ### Intrinsic resistance
@@ -31,7 +31,7 @@ Aerobic, non-motile, catalase-positive, oxidase-negative, gram-negative coccobac
 
 Naturally inhabit water an soil and can survive in iron limited host environments. They can form biofilms on **mucosal surfaces and medical devices**.
 ## Antibiotic resistance
-In addition to below, can also acquire foreign genetic material to inhance survival and increase resistance to antimicrobial agents.
+In addition to below, can also acquire foreign genetic material to enhance survival and increase resistance to antimicrobial agents.
 ## Antibiotics resistance
 ### Intrinsic resistance
 - Decreased permeability of the membrane
@@ -44,7 +44,7 @@ Mutations can lead to **multiple drug efflux pumps** and **downregulation of out
 # *Stenotrophomonas maltophilia*
 Aerobe, oxidase-negative, catalase-positive, gram-negative, bacillus
 ## Antibiotic resistance
-Inherent resistance to most beta-lactams, aminoglycosides, and various disinfectants. For this reason, it is hard to know the best antibiotic to use. **Trimethoprim-sulfamethoxazole** is generally the drug of choice here.
+Inherent resistance to most beta-lactams, aminoglycosides, and various disinfectants. For this reason, it is hard to know the best antibiotic to use. [[Antibiotics#Sulfamethoxazole + Trimethoprim (SMX-TMP)|Trimethoprim-sulfamethoxazole (SMX-TMP)]] is generally the drug of choice here.
 # *Burkholderia cepacia* complex
 This is a bunch of distinct species which look similar. They can bind various epithelial cell receptors.
 

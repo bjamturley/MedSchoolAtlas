@@ -14,13 +14,13 @@ Gram negative bacilli, non-motile, can grow on bile agar. Commonly infects abdom
 Produces **Bacteroides fragilis toxin (BFT),** which is associated with enteric diseases. Symptoms include abdominal abscesses, appendicitis, peritonitis.
 ## Resistance mechanisms
 - Antiphagocytic capsule
-- Beta lactamase: Inactivates penicillin and other beta lactams
+- [[Antimicrobial Genes#Beta-lactamases|Beta-lactamase]]: Inactivates penicillin and other beta lactams
 # *Peptostreptococcus anaerobius*
 Gram positive cocci, motile, and sensitive to sodium polyanethol sulfonate. It's an opportunistic little bugger so infection sites are all over.
 
 No specific toxins, but symptoms include pelvic inflammatory disease and bacterial vaginosis.
 ## Resistance mechanisms
-As it is opportunistic, if other bacteria produce beta-lactamase then it will be covered under that protection.
+As it is opportunistic, if other bacteria produce [[Antimicrobial Genes#Beta-lactamases|beta-lactamase]] then it will be covered under that protection.
 # *Cutibacterium acnes*
 Gram positive bacilli, aerotolerant, non-motile. Found on skin microbiota (in follicles). Commonly inhabits prosthetics and implants.
 
@@ -56,4 +56,4 @@ Gram positive bacilli, spore forming, non-motile. Found in the GU tract or any t
 
 Syndromes include clostridial myonecrosis (gas gangrene) which is very painful and foul smelling. It also includes clostridial food poisoning, anaerobic cellulitis, and endometriosis.
 
-Surgical debridement for gas gangrene is important. Penicillin + clindamycin will knock it out. If its polymicrobial, piperacillin-tazobactam + clindamycin should do the trick.
+Surgical debridement for gas gangrene is important. [[Antibiotics#Penicillins (PCNs)|Penicillin]] + [[Antibiotics#Clindamycin|clindamycin]] will knock it out. If its polymicrobial, [[Antibiotics#Piperacillin + Tazobactam (Zosyn)|Piperacillin + Tazobactam (Zosyn)]] + [[Antibiotics#Clindamycin|clindamycin]] should do the trick.

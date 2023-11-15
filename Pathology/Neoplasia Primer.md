@@ -98,7 +98,7 @@ Review of tumor spread which informs prognosis. Performed by the radiologist, su
 - Increased incidence of scrotal cancer in chimney sweepers during epidemiological studies during the Industrial Revolution
 - PAH are hydrocarbons that can occur through grilling and are associated with lung/gastric cancers.
 ## Radiation
-**Basal cell carcinoma and squamous cell carcinoma** are linked to **cumulative exposure**, while **melanoma** is linked to intense **intermittent exposure**.
+**[[Dermatologic Neoplastic Diseases#Basal Cell Carcinoma|Basal Cell Carcinoma]] and [[Dermatologic Neoplastic Diseases#Squamous Cell Carcinoma|Squamous Cell Carcinoma]]** are linked to **cumulative exposure**, while **melanoma** is linked to intense **intermittent exposure**.
 
 *Examples*
 - **Sunlight UV B**

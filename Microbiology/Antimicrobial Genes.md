@@ -1,8 +1,4 @@
 Inappropriate prescribing predisposes patients to Clostridioides difficile.
-# Lab Standards
-**Minimal Inhibitory Concentration (MIC)** is the minimal concentration of antibiotic that prevents the clear suspension CFU from becoming turbid after overnight inoculation. Essentially the lowest level of antimicrobial agent resulting in microbial death.
-
-For each bacterium and antibiotic combo, there will be a different specific MIC known as the **MIC break point**.
 # Resistance Mechanisms
 There are four types
 - Enzymatic alteration/deactivation of the antibiotic

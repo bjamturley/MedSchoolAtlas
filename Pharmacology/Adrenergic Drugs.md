@@ -32,7 +32,7 @@ Decreases aqueous humor production, lowering intraocular pressure.
 
 Used for treatment of **glaucoma**.
 # Alpha Antagonists
-For Phentolamine, see here: [[Adrenergics#Phentolamine]]
+For Phentolamine, see here: [[Adrenergic Drugs#Phentolamine]]
 ## Phenoxybenzamine
 **Irreversible** A1 and A2 antagonist.
 
