@@ -71,5 +71,18 @@
 **F** = bioavailability
 **dose** (mg) = quantity administered
 **CR** (mg/time) = clearance rate
+# [[Autonomic Nervous System Effects Primer#Heart Circulation|Heart Circulation]]
+## Mean Arterial Pressure
+## $MAP = CO * TPR$
 
-![[Block 1 Equations Cheat Sheet#Autonomic Nervous System Effects Primer Heart Circulation Heart Circulation]]
+**CO (Cardiac Output)** = stroke volume (SV) * heart rate (HR)
+**TPR (Total Peripheral Resistance)** =  The resistance of the entire circulatory system
+
+## $MAP = \frac{DBP + (SBP - DBP)}{3}$
+
+**SBP** = The contracting pressure, which correlates with the cardiac output (CO). Normally between 90-120 mmHg.
+**DBP** = The arterial pressure when the heart is relaxes, which correlates with total peripheral resistance (TPR). Normally between 60-80 mmHg.
+## Pulse Pressure
+## *PP = SBP - DBP*
+**SBP** = The contracting pressure, which correlates with the cardiac output (CO). Normally between 90-120 mmHg.
+**DBP** = The arterial pressure when the heart is relaxes, which correlates with total peripheral resistance (TPR). Normally between 60-80 mmHg.
