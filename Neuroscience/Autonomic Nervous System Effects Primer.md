@@ -48,9 +48,9 @@ ___
 The **afterload** is the resistance the heart pumps against (analogous to TPR). This comes from the arterial resistance.
 The **preload** is the stretch (change in volume) of the heart before contraction. This comes from the venous resistance.
 ## Receptor relationships
-- Alpha → Higher TPR/VR
-- Beta-2 → Lower TPR/VR
-- Beta-1 → Higher blood volume (BV) (from kidney regulation)
+- [[Adrenergics#Alpha 2B (Sympathetic)|Alpha-2B]] → Higher TPR/VR
+- [[Adrenergics#Beta 2 (Sympathetic)|Beta-2]] → Lower TPR/VR
+- [[Adrenergics#Beta 1 (Sympathetic)|Beta-1]] → Higher blood volume (BV) (from kidney regulation)
 ## Blood pressure wave
 The **systolic pressure (SBP)** is the contracting pressure, which correlates with the cardiac output (CO). Normally between 90-120 mmHg. 
 The **diastolic pressure (DBP)** is the arterial pressure when the heart is relaxes, which correlates with total peripheral resistance (TPR). Normally between 60-80 mmHg.

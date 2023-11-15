@@ -5,7 +5,7 @@ When oxygen is scarce, pyruvate generated in [[Glycolysis and Pentose Phosphate|
 This step also ensures that the NAD+ pool is replenished to continue glycolysis.
 ## Lactate transport
 Lactate moves out of muscle cells via **monocarboxylate transporters (MCTs)**, and enters the bloodstream, often binding to albumin for transportation. In the bloodstream, lactate is largely directed toward the liver, though it can also go to other tissues capable of lactate uptake.
-# Liver Gluconeogenesis and Glucose Formation
+# Liver Gluconeogenesis
 ## Lactate to Pyruvate
 Once in the hepatocytes of the liver, lactate is converted back into pyruvate through the reverse action of LDH. This reaction also recovers NADH. The pyruvate will then be converted to glucose via [[Gluconeogenesis and Nitrogen Balance|gluconeogenesis]] and will be released back into the blood.
 

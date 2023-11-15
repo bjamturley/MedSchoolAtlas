@@ -78,7 +78,7 @@ See here: [[Drug Metabolism]]
 The majority of drugs are excreted via the kidneys (urine). **80%** of drugs are **transported into the proximal tubule** for excretion. **20% of drugs are non-polar** and **passively diffuse** from blood to urine. However, these can follow the concentration gradients and diffuse back.
 
 To excrete non-polar drugs, the pH of the urine in the distal tubule is altered to change the polarity of the molecule in a process called **ion trapping**.
-## Excretion rate
+## Clearance rate
 Most drugs are first order, with the amount eliminated being proportional to the concentration in the bloodstream. When drug concentration is higher, so is metabolism. Metabolic (ladMe) enzymes are more abundant than drug concentration and will not be saturated, generally sitting below [[Enzyme Primer|Km]].
 
 A constant fraction of the drug is eliminated per unit time. The time it takes to eliminate 50% of the drug is referred to as **half-life**. Four-half lives will clear 90% of the drug and can be expressed as follows:
@@ -122,15 +122,15 @@ Many drugs are administered in multiple doses with a **steady state target**, wh
 ![[Pasted image 20231019171359.png]]
 ## Clearance
 Allows calculation of dosing rate to maintain a steady-state. Is is found using the volume of distribution (*Vd*) and the fraction of Vd being eliminated (*Ke*).
-### $\text{Clearance Rate (CR)} = K_e \times V_d$
+### $CR = K_e \times V_d$
 
 Therefore, the dosing rate (the amount of drug going in) will equal the amount of drug going out (clearance * concentration at steady state). This can be expressed as follows:
-### $\text{steady-state dosing rate} = CR \times C_{SS}$
+### $DR = CR \times C_{SS}$
 **CR** = clearance rate
 **Css** = concentration at steady state
 ## Cases where F < 1
 For routes where the bioavailability isn't 100%, the equation should be modified to increase the dosing rate (remember 0 < F < 1).
-### $\text{steady-state dosing rate} = \frac{CR \times C_{SS}}{F}$
+### $DR = \frac{CR \times C_{SS}}{F}$
 
 **CR** = clearance rate
 **Css** = concentration at steady state
