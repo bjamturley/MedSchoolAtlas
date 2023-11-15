@@ -77,8 +77,8 @@ GRAPH_OPTIONS = """
         		solver: "hierarchicalRepulsion",
             		hierarchicalRepulsion: {
             			avoidOverlap: 0.7,
-				springLength: 200,
-				springConstant: 0.005,
+				springLength: 500,
+				springConstant: 0.001,
         		},
         		stabilization: false
     		},
