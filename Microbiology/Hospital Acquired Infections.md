@@ -30,9 +30,8 @@ Aerobic, non-motile, catalase-positive, oxidase-negative, gram-negative coccobac
 *Pro tip: "cine" means motion. Therefore "acine" means no motion.*
 
 Naturally inhabit water an soil and can survive in iron limited host environments. They can form biofilms on **mucosal surfaces and medical devices**.
-## Antibiotic resistance
-In addition to below, can also acquire foreign genetic material to enhance survival and increase resistance to antimicrobial agents.
 ## Antibiotics resistance
+In addition to below, can also acquire foreign genetic material to enhance survival and increase resistance to antimicrobial agents.
 ### Intrinsic resistance
 - Decreased permeability of the membrane
 - Efflux pumps

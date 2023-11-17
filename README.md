@@ -33,9 +33,9 @@ Notes follow the Georgetown Medical School [curriculum](https://som.georgetown.e
 ## Formatting Guidelines
 These have not been fleshed out yet.
 ### Good article examples
-- [[Fatty Acid and Ketone Metabolism]]
-- [[Adrenergics]]
-- [[Pharmacokinetics]]
+- [Fatty Acid and Ketone Metabolism](https://medschoolatlas.xyz/docs/biochemistry/fatty-acid-and-ketone-metabolism/)
+- [Adrenergics](https://medschoolatlas.xyz/docs/pharmacology/adrenergics/)
+- [Pharmacokinetics](https://medschoolatlas.xyz/docs/pharmacology/pharmacokinetics/)
 ### Headers
 1. Top headers should be Pascal Case, subsequent headers should have only the first word capitalized.
 3. Keep subheaders above four (>####).

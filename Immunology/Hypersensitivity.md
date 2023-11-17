@@ -50,8 +50,8 @@ A delayed (24-72 hour), T-cell mediated reaction which cause inflammation and ti
 ## Mechanism 1: CD4+
 A T cell binds the TCR and CD4 co-receptor on an APC. The CD4 T cell also expresses a CD28 receptor, which **binds B7 on the APC** and results in release of signaling molecules which differentiate CD4 cells into TH1 or TH17.
 
-*IL-12 → **[[T Cell Mediated Immunity#CD4 Helper|TH1 cells]]** → IL2 (T cell proliferation) / INF-gamma → macrophages → TNF, IL1, IL6*
-*IL6 / TGF-beta → **[[T Cell Mediated Immunity#CD4 Helper|TH17 cells]]** → IL17 → neutrophil recruitment*
+*IL-12 → **[[T Cell Mediated Immunity#CD4 Helper|TH1 cells]]** → IL-2 (T cell proliferation) / INF-gamma → macrophages → TNF, IL-1, IL-6*
+*IL-6 / TGF-beta → **[[T Cell Mediated Immunity#CD4 Helper|TH17 cells]]** → IL-17 → neutrophil recruitment*
 
 CD8 cells are also activated via MHC Class I, triggering apoptosis in the target cell.
 ## Clinical pearls
