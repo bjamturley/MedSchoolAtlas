@@ -42,6 +42,9 @@ Transmitted via exposure to vesicles in birth canal during delivery
 **Type 3**: Disseminated infection (see HSV-1 Visceral)
 # Varicella Zoster Virus (VZV)
 Transmitted via respiratory droplets or direct contact with lesions. Targets epithelial cells.
+
+**Primary Varicella**: Chicken Pox
+**Reactivation**: Shingles, Zoster
 ## Pathogenesis
 Entry via **upper respiratory tract** and affects sensory neurons which carry them to the flow to the **dorsal root ganglia**. **Latent virus is maintained in the nucleus** but does not integrate host DNA. **Can reactivate in immunodepressed states**.
 ## Clinical features
@@ -52,8 +55,10 @@ Painful **papulovesicular rash** of the extremities/head, fever, malaise, loss o
 - Encephalitis
 - Hepatitis (associated with Reye's Syndrome)
 - Secondary bacterial skin infections from scratching lesions (e.g., [[Gram Positive Cocci#Group A *Streptococcus pyogenes*|GAS]])
+
+**Post-herpetic neuralgia** can also occur, which is severe pain months after the infection.
 ## Treatment
-Antiviral therapy with **acyclovir**. Prevention includes **varicella immunoglobulin** after exposure especially for at risk individuals. There is also a **live-attenuated vaccine** available.
+Antiviral therapy with [[Herpes Virus Therapies#Acyclovir|Acyclovir]] or [[Herpes Virus Therapies#Valacyclovir||Valacyclovir]] Prevention includes **varicella immunoglobulin** after exposure especially for at risk individuals. There is also **a recombinant, two-dose vaccine available (Shingrix)**.
 # Cytomegalovirus (CMV)
 Transmitted via transplacental, breast milk, saliva, sexual contact, blood transfusions and organ transplantation. Targets bone marrow and lymphocytes.
 ## Clinical features
@@ -64,8 +69,8 @@ Transmitted via transplacental, breast milk, saliva, sexual contact, blood trans
 **For congenital infections and reactivation**: Ganciclovir, valganciclovir
 **For resistance to Ganciclovir**: Foscarnet, cidofovir, leflunomide
 
-**For transplant recipients**: Acyclovir as a prophylaxis
-# Ebstein-Barr Virus (EBV)
+**For transplant recipients**: [[Herpes Virus Therapies#Acyclovir|Acyclovir]] as a prophylaxis
+# Epstein-Barr Virus (EBV)
 Viral capsid antigen. Transmitted via saliva. Targets lymphocytes.
 ## Clinical features
 - **Infectious mononucleosis**: Fever, lymphadenopathy, sore throat, splenomegaly.
@@ -79,7 +84,7 @@ Transmitted via saliva. Targets lymphocytes and monocytes.
 - **Adults**: Mononucleosis-type syndrome (fever, adenopathy, encephalitis)
 - **Reactivation**: Meningoencephalitis, myocarditis, pneumonitis, hepatitis, bone marrow failure
 ## Treatment
-Antiviral treatment if immunocompromised. Consider **ganciclovir**.
+Antiviral treatment if immunocompromised. Consider [[Herpes Virus Therapies#Ganciclovir|Ganciclovir]].
 # Human Herpesvirus 8 (HHV-8)
 AKA: Kaposi Sarcoma associated herpesvirus (KSHV). Transmitted via contact with contaminated saliva or genital fluids. Targets vascular endothelial cells.
 

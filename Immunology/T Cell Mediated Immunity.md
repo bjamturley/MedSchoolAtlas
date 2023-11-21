@@ -69,11 +69,11 @@ Cytokines induce the expression of transcription factors for T cell subtype diff
 **TFH**: *STAT5* (IL-2) → *FOXP3*
 
 *Secretions*
-**TH1**: Produces IFN-gamma (Macrophage mediated destruction of pathogens)
+**TH1**: Produces IFN-gamma (Macrophage mediated destruction of pathogens) and IL-2 (T-Cell Growth Factor)
 **TH2**: Produces IgE (parasites), as well as IL-4, IL-5, and IL-13
 **TH17**: Produces [[Hypersensitivity#Mechanism 1 CD4+|IL-17]] (neutrophil recruitment) and IL-22 (stimulates antimicrobial peptide release)
 **TFH**: Produces IL-21 ([[Humoral Immune Response#Class Switch Recombination|isotype switching]])
-**Treg**: Produces IL-10 and TGF-beta ([[Inflammation and Repair#Healing and Repair|mucosal homeostasis]] and T cell response regulation)
+**T-reg**: Produces IL-10 and TGF-beta ([[Inflammation and Repair#Healing and Repair|mucosal homeostasis]] and T cell response regulation)
 # Dendritic Cells (DCs)
 The main goal of these is to activate naive T cells. Upregulation of CCR7 receptors on DCs with antigen presentation cause their migration into the lymph node.
 ## Conventional DCs

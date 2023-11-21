@@ -294,7 +294,7 @@
 		{"id":"29d2eb2dece9cf01","fromNode":"cb2d50f8c39cd2f4","fromSide":"right","toNode":"c10b158017b377ba","toSide":"left"},
 		{"id":"865dbb14cfd3f510","fromNode":"08764b99ea1d8e4a","fromSide":"bottom","toNode":"82bcf6ab728563f4","toSide":"top","color":"6"},
 		{"id":"bcd6039eebefbe8f","fromNode":"32b51b63ef0a868f","fromSide":"left","toNode":"85faeb7a892b05ae","toSide":"right"},
-		{"id":"7ba03a49e6569160","fromNode":"3ce4438049a3e7b6","fromSide":"left","toNode":"3ae3ab04e0d56602","toSide":"right","color":"6","label":"T-BET"},
+		{"id":"7ba03a49e6569160","fromNode":"3ce4438049a3e7b6","fromSide":"left","toNode":"3ae3ab04e0d56602","toSide":"right","label":"T-BET"},
 		{"id":"8f006adbfbbf8912","fromNode":"82bcf6ab728563f4","fromSide":"right","toNode":"a57d27a28087e7fc","toSide":"bottom"},
 		{"id":"5af6af8c066f0b17","fromNode":"0cdac148d9821b60","fromSide":"left","toNode":"c10b158017b377ba","toSide":"bottom","color":"6","label":"STAT3"},
 		{"id":"215b2806892a6206","fromNode":"acf70a096595ba3d","fromSide":"right","toNode":"01f059806a1a465a","toSide":"left"},
@@ -333,7 +333,7 @@
 		{"id":"bb7b2d926389f3fc","fromNode":"7f6b3e8ef2ec6ac1","fromSide":"left","toNode":"b49aaf3118791d74","toSide":"top","label":"MHC-II"},
 		{"id":"a9cc2332a68b596a","fromNode":"7f6b3e8ef2ec6ac1","fromSide":"bottom","toNode":"3ae3ab04e0d56602","toSide":"top"},
 		{"id":"580e55557dbce286","fromNode":"3ae3ab04e0d56602","fromSide":"bottom","toNode":"b49aaf3118791d74","toSide":"right","color":"6","label":"Clonal expansion"},
-		{"id":"46599764466144cc","fromNode":"3ae3ab04e0d56602","fromSide":"right","toNode":"c18fee854711b6f5","toSide":"left","label":"STAT5"},
+		{"id":"46599764466144cc","fromNode":"3ae3ab04e0d56602","fromSide":"right","toNode":"c18fee854711b6f5","toSide":"left","color":"6","label":"STAT5"},
 		{"id":"670d057fd16d668c","fromNode":"b49aaf3118791d74","fromSide":"bottom","toNode":"891e268a1bcbd47d","toSide":"top","color":"1"},
 		{"id":"204328439ace7089","fromNode":"520b890f174ded17","fromSide":"bottom","toNode":"891e268a1bcbd47d","toSide":"top"}
 	]

@@ -66,7 +66,7 @@ Mutations that **inactivate the genes encoding RAG1/2** cause a form of SCID in 
 
 *Causes*
 - **Mutations in several genes**
-- **IL2 gC deficiency: X-linked SCID (most common)**
+- **IL-2 gC deficiency: X-linked SCID (most common)**
 - **ADA deficiency**
 - **Interleukin receptor mutation (RAG1/2, JAK3, etc.)**
 # Germline Configurations

@@ -60,7 +60,7 @@ Anti-TNF drugs also **treat joint pain of ankylosing spondylitis**.
 
 Monoclonal antibodies assist with **Crohn’s disease and uveitis**. Monoclonals also work better on the skin in **psoriasis**. Both monoclonal antibodies and fusion receptors work well with **inflammatory arthritis**.
 ### Lenercept
-
+...
 ### Infliximab
 Used for **Crohn’s disease**. Stop-start dosing results in a higher development of antibodies to the drug. Co-administration of immunosuppressive drugs **significantly reduce the anti-drug antibodies**.
 ## T-Cell Costimulatory Blockade
