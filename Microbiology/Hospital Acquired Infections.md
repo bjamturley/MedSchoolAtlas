@@ -1,4 +1,4 @@
-# *Pseudomonas Aeruginosa*
+# Pseudomonas Aeruginosa
 Obligate aerobe. Appears as smooth round colonies with **green-blue coloration**. Oxidase positive. Antibiotics can alter the microbiome and allow *P. Aeruginosa* to colonize opportunistically.
 
 Is generally present in water and is common in hospital-acquired infections. They are especially common in devices which disrupt host barriers, like ventilators or catheters. They are treated with **higher doses of antibiotics as it has several virulence factors**.
@@ -24,7 +24,7 @@ Is generally present in water and is common in hospital-acquired infections. The
 Can be **transmitted through mobile genetic elements** (plasmids, transposons, integrins) which carry **extended-spectrum beta-lactamases**, **carbapenemases**, and **aminoglycoside-modifying enzymes**.
 
 Mutations can lead to **multiple drug efflux pumps** and **downregulation of outer membrane protein**, OprD, which is a carbapenem-specific porin.
-# *Acinetobacter baumanii*
+# Acinetobacter baumanii
 Aerobic, non-motile, catalase-positive, oxidase-negative, gram-negative coccobacillus.
 
 *Pro tip: "cine" means motion. Therefore "acine" means no motion.*
@@ -40,11 +40,11 @@ In addition to below, can also acquire foreign genetic material to enhance survi
 Can be **transmitted through mobile genetic elements** (plasmids, transposons, integrins) which carry **extended-spectrum beta-lactamases**, **carbapenemases**, and **aminoglycoside-modifying enzymes**.
 
 Mutations can lead to **multiple drug efflux pumps** and **downregulation of outer membrane protein**, OprD, which is a carbapenem-specific porin.
-# *Stenotrophomonas maltophilia*
+# Stenotrophomonas maltophilia
 Aerobe, oxidase-negative, catalase-positive, gram-negative, bacillus
 ## Antibiotic resistance
 Inherent resistance to most beta-lactams, aminoglycosides, and various disinfectants. For this reason, it is hard to know the best antibiotic to use. [[Antibiotics#Sulfamethoxazole + Trimethoprim (SMX-TMP)|Trimethoprim-sulfamethoxazole (SMX-TMP)]] is generally the drug of choice here.
-# *Burkholderia cepacia* complex
+# Burkholderia cepacia complex
 This is a bunch of distinct species which look similar. They can bind various epithelial cell receptors.
 
 *B. cenocepacia* and *B. multivorans* are the most common species. Risk factor for cystic fibrosis.

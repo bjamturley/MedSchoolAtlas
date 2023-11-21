@@ -34,8 +34,8 @@ Certain HLA markers are associated with an increased relative risk of developing
 ## Polygenic traits
 The two major genes that relate to autoimmune responses are **HLA-DQ and DR**.
 # Regulation of Autoimmune Response
-## Aire
-**Aire** is an autoimmune regulator gene. Aire makes a protein called **AIRE** that helps **destroy tissuereactive T cells**. Without AIRE, the T cells that are [[Immune Diversity and Recognition of Antigens#T cells|reactive to self-antigens]] are able to mature and leave the thymus.
+## AIRE
+An autoimmune regulator gene. Aire makes a protein called **AIRE** that helps **destroy tissue-reactive T cells**. Without AIRE, the T cells that are [[Immune Diversity and Recognition of Antigens#T cells|reactive to self-antigens]] are able to mature and leave the thymus.
 ## Antigen segregation
 Immune cells can’t be reactive to self-antigens if they don't contact them with a **physical barrier** (e.g., the blood brain barrier).
 ## Peripheral anergy
@@ -43,7 +43,7 @@ When immune cells can’t function at their full potential because of the **abse
 ## Regulatory cells
 These cells (like [[T Cell Mediated Immunity#CD4 Helper|Treg]]) can **suppress cytokines and intracellular signals**, reducing immune response. They are able to maintain self-tolerance by suppressing other self-reactive lymphocytes.
 ## Cytokine deviation
-These cells secrete IL-4, IL5, and IL-13 (allergic responses) as well as IL-10 (anti-inflammatory). The Th2 response balances out the Th1 response (which is more inflammatory). By **favoring the Th2 response**, inflammatory cytokine secretion is limited.
+These cells secrete IL-4, IL5, and IL-13 (allergic responses) as well as IL-10 (anti-inflammatory). The TH2 response balances out the TH1 response (which is more inflammatory). By **favoring the TH2 response**, inflammatory cytokine secretion is limited.
 ## Clonal exhaustion
 How self-directed cells are destroyed. Cells undergo programmed cell death (apoptosis) and this process takes out potentially problematic clones.
 # Sequestering

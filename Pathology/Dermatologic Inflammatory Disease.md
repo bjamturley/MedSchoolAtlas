@@ -50,7 +50,7 @@ Long-term use of **emollients and topical steroids** for acute flares. Antihista
 ## Clinical features
 Usually in areas with abundant sebaceous glands, beginning with clogged pores (comedones).
 ## Pathogenesis
-Increased sebum production and keratin, sebum plug the pore. Finally, *[[Clostridia and Other Anaerobes#*Cutibacterium acnes*|Cutibacterium acnes]]* proliferates in the sebaceous follicle and stimulates pro-inflammatory cytokines.
+Increased sebum production and keratin, sebum plug the pore. Finally, *[[Clostridia and Other Anaerobes#Cutibacterium acnes|Cutibacterium acnes]]* proliferates in the sebaceous follicle and stimulates pro-inflammatory cytokines.
 ## Morphology
 **Open comedones**: Blackheads
 **Closed comedones**: Whiteheads

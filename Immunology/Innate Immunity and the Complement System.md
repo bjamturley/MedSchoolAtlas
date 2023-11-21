@@ -12,7 +12,7 @@ Had  mucosal layer and ciliated cells. Physically move out pathogens via perista
 # Anti-Microbial Proteins/Peptides
 Assist by disrupting the membranes of pathogens.
 ## Lysozyme
-Found in tears and saliva. Secreted by phagocytes and Paneth cells (in the gut). Targets gram (+) bacteria by [[Bacteriology Primer#Cell Wall|degrading peptidoglycan]]. Gram (-) bacteria has a secondary outer membrane protecting the peptidoglycan.
+Found in tears and saliva. Secreted by phagocytes and Paneth cells (in the gut). Targets gram positive bacteria by [[Bacteriology Primer#Cell Wall|degrading peptidoglycan]]. Gram (-) bacteria has a secondary outer membrane protecting the peptidoglycan.
 
 This exposes the lipid bilayer for **secretory phospholipase A2** to destroy the membrane.
 ## Defensin, calthecidins, lecticidens, histidins
@@ -107,6 +107,6 @@ Involved in **Type 1 [[hypersensitivity]] (allergic) reactions**.
 ## Lymphoid lineage
 Will parallel adaptive immune system cells, but lack clonal antigen receptors.
 ### Natural Killer (NK) T-Cells
-Activated by **IL12** or cells covered in **IgG**. They will recognize the mack of MHC1 on cells, which are deactivated by virally infected cells to avoid cytotoxic T cells.
+Activated by **IL12** or cells covered in **IgG**. They will recognize the lack of MHC1 on cells, which are deactivated by virally infected cells to avoid cytotoxic T cells.
 
 They secrete **perforin**/**granzyme** which form pores on the infected cells and **TRAIL complex** which activates caspase 8 in infected cells. Both these result in **apoptosis** of the target cell.

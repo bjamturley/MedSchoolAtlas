@@ -62,7 +62,7 @@ Surgery, penicillin, clindamycin (turns off alpha toxin production).
 # Unusual Pathogens
 ## Pseudomonas Aeruginosa
 *Ecthyma gangrenosum*
-See here: [[Hospital Acquired Infections#*Pseudomonas Aeruginosa*]]
+See here: [[Hospital Acquired Infections#Pseudomonas Aeruginosa]]
 ## Tattoo ink and water contaminate
 *Mycobacterium chelonae*
 ## Furuncles common from nail salons
@@ -70,4 +70,4 @@ See here: [[Hospital Acquired Infections#*Pseudomonas Aeruginosa*]]
 ## Seafood and seawater injury pathogen
 *Vibrio Vulnificus*. 
 
-Those with any type of liver disease are more at risk. See here: [[Enterics#*V. vulnificus*]]
+Those with any type of liver disease are more at risk. See here: [[Enterics#V. vulnificus]]

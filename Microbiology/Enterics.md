@@ -1,21 +1,21 @@
 Enterobacteriaceae are facultative anaerobes, sugar fermenters, and oxidase negative. Differentiating them requires [[Bacteriology Primer#MacConkey Agar|lactose media]].
 
 Subgroups can be identified through serotyping: **O-antigen**, **H-antigen**, **K-antigen**, and **Vi-antigen**.
-# *Escherichia coli* (E. coli)
+# Escherichia coli (E. coli)
 Normal bacteria which plays a role in **digestion** and **Vitamin K2 production**. It is the most abundant facultative anaerobe.
 
 Only **pathovars (*E. coli* variants)** are disease causing and have evolved horizontal gene transfer amongst other tools to maintain virulence. Examples include uropathogenic (UTIs) and diarrheagenic *E. coli*.
-## Enterotoxigenic *E. coli* (ETEC)
+## Enterotoxigenic E. coli (ETEC)
 The most common pathovar. It is transmitted through fecal contamination.
 
 It expresses one or both of either **Heat Labile toxin (LT)**, which is nearly **identical to the cholera toxin**, and **Heat Stable toxin (ST)**, which mimics the intestinal hormone guanylin and leads to elevated cAMP in secretory cells and downstream **chloride release into the lumen**.
-## Enterohemorrhagic *E. coli* (EHEC)
+## Enterohemorrhagic E. coli (EHEC)
 Causes hemorrhagic colitis and bloody diarrhea. Tends to grow around livestock and spreads though contamination of food or water. Only a low dose is required for infection.
 
 This organism produces disease through a **pathogenicity island** which alters epithelial cells, creating attaching and effacing lesions. It also produces the Shiga toxin, targeting the **Gb3 receptor** on endothelial cells, which makes it a **Shiga Toxin *E. coli* (STEC)**.
 
 Many patients go on to experience **hemolytic uremic syndrome (HUS)** which results in anemia, thrombocytopenia, and renal failure.
-### Clinical pearl: Diagnosing and treating a Shiga Toxin *E. coli*
+### Clinical pearl: Diagnosing and treating a Shiga Toxin E. coli
 Stool should be cultured for 0157, or tested for Shiga toxin protein/O-antigen directly.
 
 Antibiotic use is NOT recommended as it signals to the prophage to start replicating and increases the toxin production. Instead, supportive therapy is recommended and the infection will usually resolve in 5-8 days.
@@ -29,7 +29,7 @@ Another genus is ***Salmonella Shigella***, which is nonmotile and lactose negat
 Salmonella pathogenicity island 1 (SPI1) encodes a type III secretion system **which invades cells rather than produces toxins**. The secreted molecules change the morphology of epithelial cells and induces IL-8, IL-1beta, and IL-18 which leads to **inflammation**.
 
 There is a human specific serotype of Salmonella (*S. Typhi* and *S. Paratyphi*) which will cause **Typhoid fever**. Because these subtypes **invade macrophages**, the infection is systemic and bacteria will generally spread **first to the liver and then to the gallbladder**. Some patients will be chronic carriers.
-## *Salmonella dysenterie type 1*
+## Salmonella dysenterie type 1
 This is the only *Salmonella Shigella* which **produces the Shiga toxin**.
 
 It also transgresses the epithelium by being invasive. It is taken up by M cells into Peyer's patches, using a type III secretion system to phagocytose bacteria. It is non-motile, so it uses the actin system to move around. 
@@ -58,7 +58,7 @@ Examination of fecal bacteria, looking for a curved/helical rod shape. Specializ
 - *C. fetus* (causes septicemia rather than GI infection)
 # Vibrio
 **Gram negative**, **curved rod shape**, oxidase positive, facultative anaerobe, **halophilic** (likes high salt concentration - *V. cholerae* is the exception to this)
-## *V. cholerae*
+## V. cholerae
 Found in marine and estuarine environments. Contaminates water and food. **Disease is associated with O1 and O139 serogroups**. Diagnosed through darkfield microscopy, TCBS agar, or immunoassay. (for O serotypes).
 
 The **vibriophage** binds to TCP pili of *V. cholerae* and encodes for the cholera toxin. It **does not invade** the mucosa, instead **attaching to the intestinal wall and secreting the toxin**. The cholera toxin binds to GM1-ganglioside receptors, activating the Gs pathway and increasing cAMP, [[Signal Transduction Primer#Example Muscle contraction|altering CFTR and resulting in profuse, watery diarrhea]].
@@ -67,11 +67,11 @@ The **vibriophage** binds to TCP pili of *V. cholerae* and encodes for the chole
 - Dukoral: Whole cell (O1 + recombinant B subunit)
 - Shanchol/mORCVAX/Euvichol: Whole cell (O1, O139)
 - Vaxchora: Live, attenuated (O1)
-## *V. parahaemolyticus*
+## V. parahaemolyticus
 Found near the coast in raw/undercooked seafood.
 
 **Haemolysins** are lipids and proteins responsible for lysis of RBCs. It has thermostable haemolysin (Tdh), Tdh-related haemolysin (Trh).
-## *V. vulnificus*
+## V. vulnificus
 Found in marine environments.
 
 Open wound in seawater can result in a rapid necrotic wound infection (**fulminant septicemia**).

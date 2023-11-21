@@ -10,7 +10,7 @@ Enzymes that disrupt the beta-lactam ring produced by some gram-negative bacteri
 
 **TEM-1/2** are plasmid mediated β-lactamases. They can be found in the following organisms:
 - [[Enterics|Enterobacteriaceae]]
-- [[Hospital Acquired Infections#*Pseudomonas Aeruginosa*|Pseudomonas]]
+- [[Hospital Acquired Infections#Pseudomonas Aeruginosa|Pseudomonas]]
 - *Haemophilus influenzae*
 - *Neisseria gonorrhoeae*
 

@@ -9,7 +9,7 @@ Usually incubates for 2-5 days. Complications include respiratory and cardiovasc
 - **White pseudomembrane formation** on proximal pharynx, which should not be removed for risk of hemorrhage
 ## Treatment
 Diphtheria antitoxin plus antibiotics (especially erythromycin and penicillin). A Diphtheria vaccine also exists for the exotoxin.
-# *Streptococcus Pyrogenes*
+# Streptococcus Pyrogenes
 See here for more detail: [[Gram Positive Cocci#Group A *Streptococcus pyogenes*]]
 ## Clinical presentation
 Usually incubates for 2-5 days. Complications include [[Gram Positive Cocci#Scarlet fever from *Streptococcus pharyngitis*|scarlet fever]] and associated [[Gram Positive Cocci#Scarlet fever from *Streptococcus pharyngitis*|acute rheumatic fever]].
@@ -18,7 +18,7 @@ Usually incubates for 2-5 days. Complications include [[Gram Positive Cocci#Scar
 - Physical exam will include redness, edema, and lymphoid hyperplasia of the posterior pharynx
 ## Treatment
 Combo of [[Antibiotics#Amino-Penicillins|Amoxicillin]] and [[Antibiotics#Penicillins (PCNs)|Penicillin]]. [[Antibiotics#Clindamycin|Clindamycin]] if the patient is allergic to penicillin.
-# *Haemophilus Influenza*
+# Haemophilus Influenza
 Gram-negative coccobacillus. It is finicky and requires a 35-37 degree C [[Bacteriology Primer#Chocolate Agar|chocolate agar]]. Other strains of Haemophilus can cause Otitis media (inflammation of the mucosal lining of the inner ear) and Community Acquired Pneumonia.
 
 Main virulence factor is **polyribitol ribose phosphate (PRP)**.

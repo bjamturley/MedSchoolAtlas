@@ -49,8 +49,8 @@ Breaks down the clot to limit its size and restricts it to the site of injury. I
 | Adenosine diphosphatase (ADPase)         | NO         | Primary         | Expressed on endothelial cells, degrades ADP and inhibits platelet aggregation |
 | Heparin-like molecules                   | NO         | Secondary       | Cofactors of antithrombin III (inactivates thrombin)                           |
 | Thrombomodulin                           | NO         | Secondary       | Binds thrombin and cleaves factors Va/VIIa                                     |
-| Tissue Factor (TF)                       | NO         | Secondary       | Found on surface of endothelium, inhibits TF                                   |
-| Tissue-type plasminogen activator (t-PA) | NO         | Fibrinolysis    | Produced by endothelium, clears fibrin                                                                               |
+| Tissue Factor Pathway Inhibitor (TFPI)   | NO         | Secondary       | Found on surface of endothelium, inhibits TF                                   |
+| Tissue-type plasminogen activator (t-PA) | NO         | Fibrinolysis    | Produced by endothelium, clears fibrin                                         |
 # Hemorrhage
 Blood going on an independent streak.
 ## Vocab

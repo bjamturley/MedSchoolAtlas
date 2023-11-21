@@ -7,11 +7,11 @@ The **mantle zone** is the edge of the germinal center, full of naive B cells.
 The **marginal zone** is outside of the germinal center in which naive B cells undergo T cell independent activation.
 # B cell activation
 ## T-cell dependent activation 
-The most common form. When activated, B cells will present the antigen on their own MHCII molecules and will try to present the antigen to CD4 Helper T cells. They will move to the margin of the B cell zone within lymphoid tissue to do so. 
+The most common form. When activated, B cells will present the antigen on their own MHC-II molecules and will try to present the antigen to CD4 Helper T cells. They will move to the margin of the B cell zone within lymphoid tissue to do so. 
 
 Activated Helper T cells which have recognized the same antigen on a different APC will move to the margin of the T cell zone. When these mobile cells finally connect, it is called **linked recognition.** In linked recognition, the antigen is shared, but not necessarily the same [[Immune Diversity and Recognition of Antigens#Antigen Binding|epitope]].
 
-The B cell MHCII binds to the T cell receptor, and the T cell CD40 ligand binds the B cell CD40 receptor. The T cell will secrete cytokines to induce B cell **Class Switch Recombination**.
+The B cell MHC-II binds to the T cell receptor, and the T cell CD40 ligand binds the B cell CD40 receptor. The T cell will secrete cytokines to induce B cell **Class Switch Recombination**.
 
 Now, the B cells proliferate. Some become low-affinity plasma cells, which secrete IgM, while others form a **Germinal Center** which can become memory B cells or high-affinity plasma cells (IgG, IgA, or IgE).
 ### Innate Natural Killer T cells (iNKTs)
@@ -39,7 +39,7 @@ The B cell rapidly divides to produce new variations in its antibodies. AID conv
 When a B cell switches classes, it changes the isotype of Ig is secretes. This alters the function of the B cell antibodies (not the affinity). AID converts C to U in **switch regions** of introns encoding the constant regions.
 
 *Mutation mechanism*
-1. U residues are excised by [the **BER](https://www.imdb.com/title/tt14452776/) protein Uracil-N-Glycosidase**. 
+1. U residues are excised by [the BER](https://www.imdb.com/title/tt14452776/) protein Uracil-N-Glycosidase. 
 2. AP endonuclease creates multiple nicks, leading to double strand breaks
 3. Breaks are **repaired by [[Homologous Recombination#Non-homologous end joining|non-homologous end joining]]**, resulting of the permeant loss of excised DNA, and the switch of the Ig
 # Neutralization

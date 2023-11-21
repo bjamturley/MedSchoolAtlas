@@ -28,13 +28,13 @@ Ability to invade tissue, cause disease, and evade host defense.
 - **Anti-phagocytic**: Capsule, leukotoxins
 - **Humoral immunity stealth**: Fc receptors, Ig proteases, endotoxin, LPS/LTA, cell wall components
 - **Cellular immunity stealth**: Superantigens
-## Group A *Streptococcus pyogenes*
+## Group A Streptococcus pyogenes
 Invades tissues using **hyaluronidase**, which breaks down connective tissue, and **streptokinase**, which activates plasmin to release additional bacteria. Disease is caused by toxin production and superantigens.
 
 It evades host defense using capsules, hyaluronate as a protective layer, and **M protein** which is anti-opsonization and inhibits complement.
 
-See here for clinical presentation: [[Head and Neck Infections#*Streptococcus Pyrogenes*]]
-## Group B *Streptococcus agalactiae*
+See here for clinical presentation: [[Head and Neck Infections#Streptococcus Pyrogenes]]
+## Group B Streptococcus agalactiae
 Invades tissues using **lipoteichoic acid** for adherence and **C5a peptidase** for adhesion and invasion. Disease caused by hyaluronic acid lyase which spreads the infection.
 
 *Host defense*
@@ -42,7 +42,7 @@ Invades tissues using **lipoteichoic acid** for adherence and **C5a peptidase** 
 - **C5a peptidase**: Blocks neutrophil chemotaxis
 - **Cell surface C antigen**: Prevents phagocytosis
 - **Cell surface PBP 1a**: Resists phagocytosis
-## *Staphylococcus aureus*
+## Staphylococcus aureus
 Invades tissues using **collagen binding protein** and **fibronectin binding protein** which promotes biofilm. 
 
 *Disease is caused by several toxins*
@@ -53,7 +53,7 @@ Invades tissues using **collagen binding protein** and **fibronectin binding pro
 
 It evades host defense using capsules, **coagulase** (clots blood), **hyaluronidase**, and **protein A** which is an antiphagocytic forms a biofilm, adheres to surfaces (e.g., catheters), and stimulates lung inflammation.
 # Clinical Scenarios
-## Pharyngitis from *Streptococcus pyogenes*
+## Pharyngitis from Streptococcus pyogenes
 Because pharyngitis can have several causes, a culture is required. Will be beta hemolytic, bacitracin-sensitive, and PYR (+).
 
 **Syndromes**
@@ -65,7 +65,7 @@ Because pharyngitis can have several causes, a culture is required. Will be beta
 - Streptococcal toxic shock syndrome
 - Rheumatic fever
 - Acute post-strep glomerulonephritis
-## Scarlet fever from *Streptococcus pharyngitis*
+## Scarlet fever from Streptococcus pharyngitis
 There are three types of Strep. pyrogenic exotoxin (SPE): A, B and C.
 
 **Syndromes**
@@ -82,14 +82,14 @@ There are three types of Strep. pyrogenic exotoxin (SPE): A, B and C.
 	- Immune complex disease
 	- Common in children
 	- Kidney issues
-## Meningitis from *Streptococcus agalactiae*
+## Meningitis from Streptococcus agalactiae
 Will be gram (+) in pairs and chains, capsulated, facultative anaerobe, beta hemolytic (3-4mm grey-white colonies), CAMP (+)
 
 **Syndromes**
 - Neonatal disease
 - In pregnant women: UTI, chorioamnionitis, postpartum endometritis, bacteremia
 - In adults: Sepsis, soft tissue infections, immunocompromised (DM, HIV, malignancy)
-## Endocarditis from *Streptococcus viridans*
+## Endocarditis from Streptococcus viridans
 Infection of the heart valve. Diagnose with blood cultures, serologic tests, and echocardiography (oscillating mass or perivalvar mass). Can result in heart failure, conduction abnormalities, stroke or aneurysm, or renal disease. 
 
 **Subacute endocarditis** will take longer to show symptoms and is low virulence, while **acute endocarditis** has a short incubation and high virulence.
@@ -104,30 +104,31 @@ Infection of the heart valve. Diagnose with blood cultures, serologic tests, and
 - Osler's node (painful)
 - Janeway lesion
 - Splinter hemorrhage
-## *Staphylococcus aureus* infection
+## Staphylococcus aureus infection
 Usually found on the skin. Teichoic acid is an important virulence factor. Methicillin-resistant *Staphylococcus aureus* (**MRSA**) has resistance encoded by the **mecA** gene.
 
-**Syndromes**
-- Skin and soft tissue
-	- Boils
-	- Cellulitis
-	- Impetigo
-	- Folliculitis
-	- Furuncles, carbuncles, abscess
-	- Hidradenitis suppurative (lumps in armpit or groin)
-	- Pyomyositis (infection of skeletal muscle)
-	- Mastitis
+**Skin and soft tissue**
+- Boils
+- Cellulitis
+- Impetigo
+- Folliculitis
+- Furuncles, carbuncles, abscess
+- Hidradenitis suppurative (lumps in armpit or groin)
+- Pyomyositis (infection of skeletal muscle)
+- Mastitis
 - Bacteremia (often in catheter, skin, and pulmonary sources)
 - Endocarditis
-- Respiratory infections
-	- Ventilator-associated pneumonia
-	- Post-viral pneumonia
-	- CA-MRSA necrotizing pneumonia
-	- Empyema (pus collection in pleural cavity)
-- Bone and joint infections
-	- Osteomyelitis (bone inflammation)
-	- Native join septic arthritis
-	- Prosthetic joint infections
+
+**Respiratory infections**
+- Ventilator-associated pneumonia
+- Post-viral pneumonia
+- CA-MRSA necrotizing pneumonia
+- Empyema (pus collection in pleural cavity)
+
+**Bone and joint infections**
+- Osteomyelitis (bone inflammation)
+- Native join septic arthritis
+- Prosthetic joint infections
 
 **Associated toxins**
 - **Toxic shock syndrome toxin-1 (TSST-1)**: Superantigen that results in T cell activation
