@@ -26,7 +26,7 @@ Thought to act at the level of **metalloproteinases** and may have some **antimi
 # Methotrexate
 **Major treatment for RA** as it is well tolerated. It's discontinuation rate is lower than other drugs.
 
-**Blocks the folic acid synthesis pathway**, so use includes folic acid and leucovorin to reduce side effects.
+**Blocks the folic acid synthesis pathway**, so use includes folic acid and [[Cancer Drugs#Methotrexate & Leucovorin|Leucovorin]] to reduce side effects.
 
 Monitoring includes **CBC and comprehensive metabolic panels**, especially liver enzymes. Contraindicated in patients with **renal insufficiency and pregnancy**.
 # Azathioprine

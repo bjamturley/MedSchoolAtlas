@@ -42,7 +42,7 @@ Baloxavir marboxil (oral).
 
 **Live Attenuated Vaccine**: Grown in chicken eggs. A real virus modified to only survive and replicate in the upper respiratory tract, but can’t replicate in the lower respiratory tract. It cannot be given to young children under 2 years old, pregnant women, and the immunocompromised.
 
-Recombinant Hemagglutinin Vaccine: Fast production. Does not produce as strong of an immunogenicity response as the inactivated/live vaccines, but is beneficial to control a mid-season outbreak of a new HA strain.
+**Recombinant Hemagglutinin Vaccine**: Fast production. Does not produce as strong of an immunogenicity response as the inactivated/live vaccines, but is beneficial to control a mid-season outbreak of a new HA strain.
 # Epidemiology
 ## Spill-over events
 When viruses cross into new species. For example, H5N1 can hop from birds to humans but it doesn’t transmit between humans. Cause very patients to be very ill.

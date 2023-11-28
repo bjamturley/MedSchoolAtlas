@@ -52,7 +52,7 @@ Too little will cause **Severe Combined Immunodeficiency (SCID)**. This is an X-
 ### Gout
 A painful form of arthritis. Results from high levels of uric acid. Diets containing high levels of purines (beans, lentils, spinach) eaten with meat, seafood, or alcohol can also result in gout.
 
-Treated with **inhibitors of xanthine oxidase** (**allopurinol**) which will prevent buildup of uric acid and increase levels of soluble purines (guanine and hypoxanthine). Blocking conversion of folate to THF (**methotrexate**), inhibiting purine synthesis, can also help with this condition (but is generally combined with a second drug).
+Treated with **inhibitors of xanthine oxidase** (**allopurinol**) which will prevent buildup of uric acid and increase levels of soluble purines (guanine and hypoxanthine). Blocking conversion of folate to THF ([[Cancer Drugs#Methotrexate & Leucovorin|methotrexate]]), inhibiting purine synthesis, can also help with this condition (but is generally combined with a second drug).
 # Purine Salvage Pathway
 A backdoor allowing purines to be recycled without having to be broken down all the way. Uses PRPP as the recycled material. This process is not immediately important clinically.
 

@@ -117,7 +117,7 @@ For more, see here: [[Gram Positive Cocci#Laboratory Techniques]]
 
 Non-selective for gram (+)/(-). Exhibits alpha, beta, and gamma hemolysis. 
 
-**Alpha** will be greenish and text for *Streptococcus pneumoniae*.
+**Alpha** will be greenish and test for *Streptococcus pneumoniae*.
 **Beta** will be white and test for Group A strep (*Streptococcus pyogenes*). 
 **Gamma** will have no hemolysis and test for *enterococci*.
 

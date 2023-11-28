@@ -19,7 +19,7 @@ Learning that there may be an infectious trigger very early on in children leads
 ## Goodpasture syndrome (kidney/lungs)
 Antibody for the basement membrane leading to glomerulonephritis and hemorrhaging in the lungs.
 ## Systemic lupus erythematosus (kidney)
-Type III immune complex.
+[[Hypersensitivity#Clinical pearls|Type III immune complex]].
 ## Scleroderma (skin)
 ## Rheumatoid arthritis (joints)
 # Genetic Risks
