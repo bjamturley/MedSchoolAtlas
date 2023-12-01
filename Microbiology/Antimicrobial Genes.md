@@ -43,7 +43,7 @@ The mecA gene is carried in the **Staphylococcal Cassette Chromosome (SCC mec)**
 
 SCC can also carry mecC, which is bovine, but can be responsible for MRSA.
 ## Methicillin-resistant Staphylococcus aureus (MRSA)
-This confers resistance to all beta-lactams.
+This confers resistance to all beta-lactams. For more, see here: [[Gram Positive Cocci#Staphylococcus aureus]]
 
 **Hospital acquired MRSA (HA-MRSA)**: Multidrug resistant (type I-3, 6, 8)
 **Community acquired MRSA (CA-MRSA)**: Confers only beta-lactam resistance (type 4, 5, 7)

@@ -54,7 +54,7 @@
 
 **Ke** = rate constant of elimination
 **Vd** = compartment volume
-### $\text{90\% clearance} < 4 \times t_{\frac{1}{2}}$
+### 90% clearance < $4 \times t_{\frac{1}{2}}$
 
 **t1/2** = half-life
 ## Bioavailability

@@ -3,7 +3,7 @@ Multi-system autoimmune disease with autoantibody production. 10x more common in
 ## Subtypes
 ### Acute Cutaneous Lupus (Malar Rash)
 Rash across nose, sparing nostril divider. Rash may also be generalized on body and skin between joints of fingers.
-### Chromic Cutaneous Lupus (Discoid)
+### Chronic Cutaneous Lupus (Discoid)
 High likelihood of scarring. These patients usually do not have systemic involvement.
 ### Neonatal Lupus
 Passive transfer of SSA/B antibodies across placenta. Dermatologic effects will go away shortly after birth, while cardiovascular effects can be more serious.

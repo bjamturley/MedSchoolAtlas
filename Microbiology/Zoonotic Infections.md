@@ -40,7 +40,7 @@ Direct Fluorescent Antibody (DFA) of skin biopsy. Additionally, IFA serology can
 ## Treatment
 [[Antibiotics#Doxycycline|Doxycycline]]
 # Bartonella
-*B. quintana* or *B. heselae*. Small gram negative rods. Transmitted via exposure to cat fleas (*B. heselae*) or human body louse (*B. quintana*).
+*B. quintana* or *B. henselae*. Small gram negative rods. Transmitted via exposure to cat fleas (*B. heselae*) or human body louse (*B. quintana*).
 ## Clinical manifestations
 **Cat scratch disease**: Small papule with lymphadenopathy
 ![[Pasted image 20231120125541.png]]

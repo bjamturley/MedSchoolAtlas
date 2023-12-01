@@ -51,7 +51,7 @@ Lumbar Puncture. Blood and CSF cultures with India ink staining. Expect mildly e
 
 Can also use Cryptococcal antigen detection.
 ## Treatment
-[[Antifungals#Amphotericin B|Amphotericin B]] + [[Antifungals#Flucytosine (5-FC)|Flucytosine]]. Maintainence includes [[Antifungals#Fluconazole|Fluconazole]].
+[[Antifungals#Amphotericin B|Amphotericin B]] + [[Antifungals#Flucytosine (5-FC)|Flucytosine]]. Maintenance includes [[Antifungals#Fluconazole|Fluconazole]].
 # Cytomegalovirus (CMV) Retinitis
 Caused by [[Herpes Viruses#Cytomegalovirus (CMV)|cytomegalovirus]]. Localized end organ disease.
 
