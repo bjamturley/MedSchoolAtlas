@@ -5,7 +5,7 @@ The [[Nervous System Primer#Autonomic Nervous System|sympathetic nervous system]
 # Receptors
 See here for a primer on signaling subunits s, i, and q: [[Signal Transduction Primer#Guanine binding proteins]]
 ## Alpha 1 (Sympathetic)
-Found in the **eyes, gastrointestinal system, and prostate**. Dilates eyes, decreases gastrointestinal motility, contracts prostate (A1A), through vasoconstriction.
+Found in **blood vessel smooth muscle, eyes, gastrointestinal system, and prostate**. Dilates eyes, decreases gastrointestinal motility, contracts prostate (A1A), through vasoconstriction.
 
 Alpha 1 receptors are innervated via **sympathetic tone** which increases [[Autonomic Nervous System Effects Primer#Heart Circulation|total peripheral resistance]] (and diastolic blood pressure), as well as venous tone (and systolic blood pressure).
 

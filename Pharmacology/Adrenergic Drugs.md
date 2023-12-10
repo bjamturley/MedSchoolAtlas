@@ -3,7 +3,7 @@ For a review of adrenergic receptors, see here: [[Adrenergics]]
 ## Dobutamine
 Increases contractility (through renin in the kidney) more than heart rate. Short duration of action (1-2 mins) which is useful for **heart failure**.
 ## Isoproterenol
-Selective B1 and B2 agonist. 
+Selective B1 and B2 agonist.
 
 Stimulation of B2 in skeletal muscle results in vasodilation and a big drop in diastolic blood pressure. Stimulation of B1 in the heart increases heart rate and raises systolic blood pressure.
 

@@ -83,7 +83,7 @@
 		{"id":"409743647f2dad36","type":"text","text":"Plasmacytoid Dendritic Cell","x":280,"y":-1120,"width":280,"height":50,"color":"6"},
 		{"id":"5abccf2b8519f3b6","type":"text","text":"IFN-alpha","x":600,"y":-1120,"width":143,"height":52,"color":"4"},
 		{"id":"af640b9f8a8f3462","type":"text","text":"**Type I interferons**\nAnti-viral cytokines","x":720,"y":-1280,"width":250,"height":60,"color":"1"},
-		{"id":"191ab3d2c836cbee","type":"text","text":"IL-1 beta","x":800,"y":-2080,"width":160,"height":50,"color":"4"},
+		{"id":"191ab3d2c836cbee","type":"text","text":"IL-1","x":800,"y":-2080,"width":160,"height":50,"color":"4"},
 		{"id":"7bac23b310d8ec43","type":"text","text":"TNF-alpha","x":800,"y":-2020,"width":160,"height":50,"color":"4"},
 		{"id":"0cdac148d9821b60","type":"text","text":"IL-6","x":800,"y":-1960,"width":160,"height":50,"color":"4"},
 		{"id":"5be3535d0ac68c74","type":"text","text":"GCSF","x":800,"y":-2140,"width":160,"height":50,"color":"4"},
@@ -245,7 +245,7 @@
 		{"id":"838c327781dc9129","fromNode":"e66fe8865025f7b5","fromSide":"right","toNode":"17ff50e9584ad5c7","toSide":"left"},
 		{"id":"650a31f8645706e7","fromNode":"17ff50e9584ad5c7","fromSide":"bottom","toNode":"093dab549541dbed","toSide":"top","label":"Extrinsic pathway"},
 		{"id":"8cfb23e2168d996f","fromNode":"51b70aec059a8b37","fromSide":"left","toNode":"e66fe8865025f7b5","toSide":"top"},
-		{"id":"feff42f311adccf8","fromNode":"70d3f2205837a5ff","fromSide":"bottom","toNode":"c02612fc6d595df1","toSide":"top"},
+		{"id":"feff42f311adccf8","fromNode":"70d3f2205837a5ff","fromSide":"bottom","toNode":"c02612fc6d595df1","toSide":"top","label":"Adhesion"},
 		{"id":"d6508e880ec8c0e0","fromNode":"fea9976986f47297","fromSide":"right","toNode":"093dab549541dbed","toSide":"left","label":"Intrinsic pathway"},
 		{"id":"de4b671ad7a69f0b","fromNode":"51b70aec059a8b37","fromSide":"right","toNode":"70d3f2205837a5ff","toSide":"top"},
 		{"id":"16f05844e8c0e0d1","fromNode":"bdd814d205f65002","fromSide":"bottom","toNode":"c02612fc6d595df1","toSide":"right","label":"(-)"},
@@ -337,6 +337,8 @@
 		{"id":"8b6494483e021110","fromNode":"f29b381b5f4cb698","fromSide":"bottom","toNode":"bc019e490ce268f0","toSide":"left"},
 		{"id":"4e9e3de286a7d258","fromNode":"f29b381b5f4cb698","fromSide":"bottom","toNode":"985431e52ad29542","toSide":"left"},
 		{"id":"8085d0a55fac8ed2","fromNode":"26e33d806fe9e4f3","fromSide":"right","toNode":"f29b381b5f4cb698","toSide":"left"},
-		{"id":"d880c7064f636a08","fromNode":"3ae3ab04e0d56602","fromSide":"right","toNode":"70776f716c5cf329","toSide":"left","color":"6"}
+		{"id":"d880c7064f636a08","fromNode":"3ae3ab04e0d56602","fromSide":"right","toNode":"70776f716c5cf329","toSide":"left","color":"6"},
+		{"id":"f75d48a9fe675978","fromNode":"191ab3d2c836cbee","fromSide":"left","toNode":"c10b158017b377ba","toSide":"bottom","color":"6"},
+		{"id":"a990e41a035fa135","fromNode":"7f6b3e8ef2ec6ac1","fromSide":"right","toNode":"191ab3d2c836cbee","toSide":"left"}
 	]
 }

@@ -121,4 +121,4 @@ Prodrug with a potential GI sparing effect.
 ## Ketorolac
 Very good analgesic effects, equivalent to morphine, but with a longer half-life. However, when given orally it is no better than Ibuprofen.
 # COX-2 Inhibitors
-Similar analgesic effects as existing NSAIDs, but no GI sparing effects.
+Similar analgesic effects as existing NSAIDs, but have GI sparing effects.

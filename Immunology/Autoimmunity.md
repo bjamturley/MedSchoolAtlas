@@ -55,7 +55,7 @@ When antigens cross-react with something they were not supposed to react with no
 
 Vaccines can be a type of molecular mimic.
 ## Clinical pearl: Group A *Streptococcus*
-Antibodies to the [[Gram Positive Cocci#Group A *Streptococcus pyogenes*|Streptococcus pyogenes]] will also attack cardiac myosin, leading to **rheumatic fever**. They can also recognize **dopamine receptors**, which leads to post-strep **Sydenham Chorea** and presents with “clicky” speech and abnormal movements.
+Antibodies to the [[Gram Positive Cocci#Group A Streptococcus pyogenes|Streptococcus pyogenes]] will also attack cardiac myosin, leading to **rheumatic fever**. They can also recognize **dopamine receptors**, which leads to post-strep **Sydenham Chorea** and presents with “clicky” speech and abnormal movements.
 ## Clinical pearl: Celiac disease
 When gluten enters the small intestine of a patient with celiac disease, antibodies are created. Antibodies to gluten also recognize **endomysial tissue transglutaminase (tTG)**. This results in the flattening of the villi and makes the gut more permeable to even more gluten and inflammatory mediators.
 
